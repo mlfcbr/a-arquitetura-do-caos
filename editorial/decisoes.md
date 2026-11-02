@@ -18,3 +18,6 @@
 - O repositório pode ser público por escolha expressa do autor; não há objetivo comercial.
 - Não declarar salvamento no Notion sem confirmação de gravação.
 - Mudanças futuras devem consultar os documentos e criar commits rastreáveis.
+
+## 2026-11-02 — Nome do responsável por operações
+- Personagem **Augusto Brandão** renomeado para **Marcelo Brandão**, mantendo função e personalidade. Nome completo adotado provisoriamente, preservando o sobrenome existente.
