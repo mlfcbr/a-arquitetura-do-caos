@@ -9,7 +9,7 @@
 - Qualidade editorial de livro potencialmente publicado: evitar bordões, repetição de termos, mesma estrutura em todos os capítulos, piadas mecânicas e conceitos rasos.
 - Sumário de dez capítulos aprovado.
 - Mundo narrativo: plataforma Ordem, investigação do incidente de Teresa, NORA como narradora.
-- Personagem arquiteto alterado para **Henrique Duarte** (homem), substituindo Helena Duarte.
+- Personagem arquiteto alterado para **Marcelo Duarte** (homem), substituindo Helena Duarte.
 - Evitar discursos ideológicos artificiais e panfletários.
 - Prólogo aprovado como primeira versão-base, sem autorização para reescritas silenciosas.
 
@@ -20,4 +20,11 @@
 - Mudanças futuras devem consultar os documentos e criar commits rastreáveis.
 
 ## 2026-11-02 — Nome do responsável por operações
-- Personagem **Augusto Brandão** renomeado para **Marcelo Brandão**, mantendo função e personalidade. Nome completo adotado provisoriamente, preservando o sobrenome existente.
+- Personagem **Augusto Brandão** renomeado para **Rafael Brandão**, mantendo função e personalidade. Nome completo adotado provisoriamente, preservando o sobrenome existente.
+
+## 2026-11-02 — Renomeação dos quatro personagens
+- Henrique Duarte → **Marcelo Duarte**.
+- Marcelo Brandão → **Rafael Brandão**.
+- Lívia Monteiro → **Aline Monteiro**.
+- Teresa Almeida → **Ana Almeida**.
+- Manter funções, personalidade, relações e eventos já estabelecidos. Aplicar também ao manuscrito futuro.
