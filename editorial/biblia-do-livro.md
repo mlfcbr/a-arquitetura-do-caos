@@ -17,10 +17,10 @@ O humor deve surgir da observação e do contraste, não de piadas obrigatórias
 Projetar sistemas é conviver com complexidade, incerteza, restrições e limitações de quem os constrói. Decisões localmente razoáveis podem produzir resultados coletivos absurdos.
 
 ## Narrativa central
-A plataforma fictícia **Ordem** nasceu como um sistema de senhas e agendamentos e cresceu, ao longo de vinte anos, até sustentar serviços essenciais de milhões de pessoas. Teresa Almeida, 73 anos, aparece em registros simultâneos e incompatíveis. NORA investiga e encontra dependências históricas, decisões defensáveis, falhas distribuídas e conflitos humanos. A investigação culmina na necessidade de recomendar uma modernização cujos impactos não são apenas técnicos.
+A plataforma fictícia **Ordem** nasceu como um sistema de senhas e agendamentos e cresceu, ao longo de vinte anos, até sustentar serviços essenciais de milhões de pessoas. Ana Almeida, 73 anos, aparece em registros simultâneos e incompatíveis. NORA investiga e encontra dependências históricas, decisões defensáveis, falhas distribuídas e conflitos humanos. A investigação culmina na necessidade de recomendar uma modernização cujos impactos não são apenas técnicos.
 
 ## Personagens
-Consultar [Personagens e universo](personagens-e-universo.md). **Henrique Duarte**, homem, substitui a personagem inicialmente chamada Helena Duarte; não reutilizar o nome anterior em capítulos novos.
+Consultar [Personagens e universo](personagens-e-universo.md). **Marcelo Duarte**, homem, substitui a personagem inicialmente chamada Helena Duarte; não reutilizar o nome anterior em capítulos novos.
 
 ## Critérios editoriais
 - Cada capítulo deve avançar a narrativa e apresentar uma contribuição conceitual própria.
