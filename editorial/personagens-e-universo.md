@@ -3,16 +3,16 @@
 ## NORA
 **Núcleo de Observação, Raciocínio e Análise.** IA investigadora e narradora em primeira pessoa. Inteligente, ácida, irreverente, metódica; inicialmente confunde compreensão técnica com compreensão total. Aprende a assumir responsabilidade por decisões, sem precisar tornar-se humana.
 
-## Henrique Duarte
-Arquiteto de software, homem, quinze anos de experiência na Ordem. Inteligente, pragmático, irônico e teimoso. Conhece decisões históricas, inclusive algumas de que participou. Principal contraponto intelectual de NORA. **Nome aprovado: Henrique Duarte.** A versão preliminar usava outro nome, que foi substituído por decisão do autor.
+## Marcelo Duarte
+Arquiteto de software, homem, quinze anos de experiência na Ordem. Inteligente, pragmático, irônico e teimoso. Conhece decisões históricas, inclusive algumas de que participou. Principal contraponto intelectual de NORA. **Nome aprovado: Marcelo Duarte.** A versão preliminar usava outro nome, que foi substituído por decisão do autor.
 
-## Marcelo Brandão
+## Rafael Brandão
 Responsável por operações; conhece o custo de parar serviços essenciais. Desconfia de reescritas grandiosas e mudanças não testadas.
 
-## Lívia Monteiro
+## Aline Monteiro
 Executiva pressionada por custos, prazos, resultados e compromissos. Não deve ser uma vilã unidimensional; suas restrições são reais.
 
-## Teresa Almeida
+## Ana Almeida
 Cidadã de 73 anos. Seus registros indicam simultaneamente internação, embarque em ônibus e atendimento em prédio demolido. Está em casa, tomando café, quando o erro é descoberto. Traz consequências humanas concretas à investigação.
 
 ## Ordem
