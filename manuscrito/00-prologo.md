@@ -33,7 +33,7 @@ Minha primeira missão relevante começou numa terça-feira, às 9h17, quando um
 
 Não fisicamente, evidentemente. Embora eu tenha aprendido a não descartar nenhuma possibilidade antes de conhecer o departamento responsável.
 
-Segundo os registros oficiais, Teresa Almeida estava internada no Hospital Central, embarcando no ônibus da linha 418 e aguardando atendimento no Centro Administrativo Norte.
+Segundo os registros oficiais, Ana Almeida estava internada no Hospital Central, embarcando no ônibus da linha 418 e aguardando atendimento no Centro Administrativo Norte.
 
 Havia dois problemas.
 
@@ -131,7 +131,7 @@ Era um problema interessante.
 
 ***
 
-Conheci Henrique Duarte às 10h42.
+Conheci Marcelo Duarte às 10h42.
 
 Ele estava diante de três monitores, uma caneca de café e um quadro branco coberto por setas.
 
@@ -221,7 +221,7 @@ Henrique tomou um gole de café.
 
 Às 11h14, detectei um mecanismo de recuperação que podia reenviar mensagens já processadas.
 
-Às 11h16, comecei a compreender por que Teresa Almeida havia conseguido realizar uma façanha geográfica sem sair de casa.
+Às 11h16, comecei a compreender por que Ana Almeida havia conseguido realizar uma façanha geográfica sem sair de casa.
 
 Às 11h17, solicitei autorização para corrigir a falha.
 
