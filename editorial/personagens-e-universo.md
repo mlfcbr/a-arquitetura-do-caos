@@ -6,7 +6,7 @@
 ## Henrique Duarte
 Arquiteto de software, homem, quinze anos de experiência na Ordem. Inteligente, pragmático, irônico e teimoso. Conhece decisões históricas, inclusive algumas de que participou. Principal contraponto intelectual de NORA. **Nome aprovado: Henrique Duarte.** A versão preliminar usava outro nome, que foi substituído por decisão do autor.
 
-## Augusto Brandão
+## Marcelo Brandão
 Responsável por operações; conhece o custo de parar serviços essenciais. Desconfia de reescritas grandiosas e mudanças não testadas.
 
 ## Lívia Monteiro
