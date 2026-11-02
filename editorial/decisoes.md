@@ -28,3 +28,8 @@
 - Lívia Monteiro → **Aline Monteiro**.
 - Teresa Almeida → **Ana Almeida**.
 - Manter funções, personalidade, relações e eventos já estabelecidos. Aplicar também ao manuscrito futuro.
+
+## 2026-11-02 — Ideia para avaliar ao final do livro
+- **Lembrar o autor ao concluirmos os capítulos principais** de discutir a inclusão de um capítulo ou apêndice final que relacione os conceitos de engenharia e arquitetura aos acontecimentos da narrativa.
+- Possível formato: conceitos, termos e princípios (por exemplo, **YAGNI**, complexidade essencial/acidental, acoplamento, trade-offs, dívida técnica, resiliência), com cenas concretas em que foram aplicados, ignorados ou violados e suas consequências.
+- **Ideia em aberto, não aprovada como capítulo definitivo.** Definir estrutura e posição somente no fim, para preservar o ritmo literário.
