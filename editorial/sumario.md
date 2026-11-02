@@ -3,7 +3,7 @@
 **Estimativa:** prólogo 5 páginas; Parte I 22; Parte II 25; Parte III 25; Parte IV 18; epílogo 5. Total estimado: 100 páginas. A contagem é orientativa, dependente da diagramação.
 
 ## Prólogo — Uma espécie peculiarmente confiante
-NORA é convocada após Teresa Almeida aparecer em três lugares simultaneamente nos registros da plataforma Ordem. Apresentação da narradora, Henrique e mistério.
+NORA é convocada após Ana Almeida aparecer em três lugares simultaneamente nos registros da plataforma Ordem. Apresentação da narradora, Henrique e mistério.
 
 ## Parte I — O nascimento da complicação
 1. **Era só um botão** (11 p.) — evolução de requisitos; complexidade essencial e acidental; pensamento sistêmico.
