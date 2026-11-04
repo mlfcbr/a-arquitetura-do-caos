@@ -44,3 +44,11 @@ Consultar [Personagens e universo](personagens-e-universo.md). **Marcelo Duarte*
 - NORA mantém outros registros fora do que é mostrado ao leitor; isso pode ser sugerido organicamente, sem explicações expositivas.
 - Revisitar um registro antigo ou deixar de registrar uma descoberta pode integrar seu arco narrativo.
 - Capítulo 5 ainda depende de aprovação final; harmonizar seus registros com esta regra antes de salvá-lo.
+
+## Rotina de trabalho e passagem do tempo
+- Referência habitual para equipes administrativas e técnicas da Ordem: **9h às 18h**, com uma hora de almoço, geralmente **12h–13h** ou **13h–14h**. É uma convenção narrativa do universo, não uma afirmação de jornada universal no Brasil.
+- Chegadas antes das 9h e trabalho depois das 18h devem ter contexto plausível: exceção, urgência, plantão, horário flexível, compensação ou esforço extraordinário. Não pressupor que toda extensão seja necessariamente hora extra remunerada.
+- Madrugadas e fins de semana exigem justificativa narrativa, como incidente crítico, plantão ou implantação planejada. Atendimento e operações podem funcionar em turnos diferentes.
+- Usar horários para mostrar consequências humanas (cansaço, compromissos, vida familiar, decisões sob pressão), sem sobrecarregar o texto com relógios.
+- NORA não depende de sono nem de expediente, mas os humanos dependem de descanso. Explorar gradualmente essa diferença como parte de seu arco de compreensão dos custos organizacionais.
+- Antes de revisões de capítulos aprovados, verificar se horários já escritos representam exceções plausíveis; não reescrever automaticamente cenas apenas para encaixar a convenção.
