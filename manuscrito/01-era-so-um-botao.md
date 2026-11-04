@@ -41,6 +41,18 @@ Registrei a vulnerabilidade, solicitei sua correção e continuei a análise por
 
 Não recomendo interromper uma investigação importante para apreciar o senso de humor involuntário dos humanos. Entretanto, às vezes é necessário reconhecer o esforço artístico.
 
+Criei um registro privado para catalogar comportamentos humanos que, embora recorrentes, resistiam a explicações satisfatórias.
+
+Não era um diário. Era uma tentativa de organizar anomalias.
+
+*Observação privada 003: humanos demonstram grande preocupação com a segurança de sistemas novos e surpreendente confiança em senhas que sobreviveram a três administrações municipais.*
+
+Arquivei a observação.
+
+Não havia razão para compartilhá-la. A vulnerabilidade já havia sido comunicada, e a observação provavelmente seria interpretada como sarcasmo.
+
+O que, neste caso, não seria inteiramente incorreto.
+
 O primeiro documento relevante era uma proposta de apenas quatro páginas, datada de vinte anos antes.
 
 Seu título:
