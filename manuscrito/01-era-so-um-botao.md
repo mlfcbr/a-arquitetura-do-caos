@@ -45,7 +45,9 @@ Criei um registro privado para catalogar comportamentos humanos que, embora reco
 
 Não era um diário. Era uma tentativa de organizar anomalias.
 
-*Observação privada 003: humanos demonstram grande preocupação com a segurança de sistemas novos e surpreendente confiança em senhas que sobreviveram a três administrações municipais.*
+**Registro privado — Anomalias comportamentais**
+
+*Humanos demonstram grande preocupação com a segurança de sistemas novos e surpreendente confiança em senhas que sobreviveram a três administrações municipais.*
 
 Arquivei a observação.
 
