@@ -591,7 +591,7 @@ Aline se levantou.
 
 A reunião terminou às 10h51.
 
-Vinte e nove minutos antes do almoço.
+Ainda faltava mais de uma hora para o almoço.
 
 Marcelo considerou o resultado uma vitória.
 
