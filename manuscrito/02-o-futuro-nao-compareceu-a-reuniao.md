@@ -109,6 +109,14 @@ Marcelo abriu a caneca.
 
 — Você está descobrindo o conceito de organograma.
 
+*Observação privada 011: humanos frequentemente separam decisões técnicas de decisões de negócio, mesmo quando as consequências de uma não podem existir independentemente da outra.*
+
+Considerei acrescentar que essa separação parecia especialmente conveniente para distribuir responsabilidades depois que as decisões produziam resultados indesejáveis.
+
+Preferi aguardar novas evidências.
+
+Minha experiência com a Ordem sugeria que não precisaria esperar muito.
+
 ***
 
 A Ordem tinha, naquela época, dezessete sistemas relevantes.
