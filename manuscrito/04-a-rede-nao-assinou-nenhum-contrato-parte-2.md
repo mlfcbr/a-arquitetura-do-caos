@@ -524,7 +524,9 @@ A disponibilidade havia retornado.
 
 A normalidade, não completamente.
 
-*Observação privada 027: um sistema não está recuperado apenas porque seus componentes voltaram a funcionar. Está recuperado quando suas operações e consequências foram tratadas adequadamente.*
+**Registro privado — Critérios de avaliação**
+
+*Um sistema não está recuperado apenas porque seus componentes voltaram a funcionar. Está recuperado quando suas operações e consequências foram tratadas adequadamente.*
 
 Examinei a frase.
 
