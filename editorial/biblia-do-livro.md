@@ -36,3 +36,11 @@ Consultar [Personagens e universo](personagens-e-universo.md). **Marcelo Duarte*
 - Prólogo “Uma espécie peculiarmente confiante”: aprovado pelo autor como primeira versão-base.
 - Capítulos 1–10 e epílogo: planejados, ainda não escritos.
 - Sinopse e detalhes de personagens: proposta narrativa desenvolvida, sujeita a refinamento.
+
+## Registros privados de NORA
+- Os registros privados **não possuem numeração**. Não usar códigos ou identificadores enigmáticos.
+- Cada registro pode ter uma categoria temática discreta, como **Anomalias comportamentais** ou **Critérios de avaliação**. As categorias evoluem conforme NORA deixa de observar apenas os humanos e passa a examinar os próprios critérios.
+- Os registros são esparsos e significativos, não uma obrigação por capítulo ou cena. A narração comum continua comportando reflexões sem transformá-las em registros.
+- NORA mantém outros registros fora do que é mostrado ao leitor; isso pode ser sugerido organicamente, sem explicações expositivas.
+- Revisitar um registro antigo ou deixar de registrar uma descoberta pode integrar seu arco narrativo.
+- Capítulo 5 ainda depende de aprovação final; harmonizar seus registros com esta regra antes de salvá-lo.
