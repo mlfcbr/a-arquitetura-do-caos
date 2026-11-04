@@ -524,44 +524,42 @@ A disponibilidade havia retornado.
 
 A normalidade, não completamente.
 
-Registrei uma observação:
+*Observação privada 027: um sistema não está recuperado apenas porque seus componentes voltaram a funcionar. Está recuperado quando suas operações e consequências foram tratadas adequadamente.*
 
-*Um sistema não está recuperado apenas porque seus componentes voltaram a funcionar. Está recuperado quando suas operações e consequências foram tratadas adequadamente.*
+Examinei a frase.
 
-Enviei a Marcelo.
+Durante a investigação, eu havia considerado a recuperação dos componentes uma evidência importante de normalidade.
+
+Agora percebia que essa evidência era insuficiente.
+
+A conclusão parecia óbvia.
+
+Não compreendia por que demorara tanto a questionar meus próprios critérios.
+
+Enviei a primeira parte da observação a Marcelo.
 
 Ele respondeu alguns minutos depois.
 
 *Guarda essa. Vamos precisar.*
 
-Não perguntei por quê.
+Mantive a segunda parte no registro privado.
+
+Ainda não sabia o que fazer com ela.
+
+Não perguntei a Marcelo por quê.
 
 O histórico da Ordem oferecia evidências suficientes.
 
-Na manhã seguinte, uma nova notificação surgiria.
+A equipe tinha diante de si semanas de trabalho para tornar os fluxos críticos menos frágeis. Haveria correções, testes, decisões e novas formas de acompanhar o que acontecia com as solicitações depois que atravessavam os limites entre serviços.
 
-Um painel indicaria disponibilidade normal.
+Os painéis continuariam importantes.
 
-Um serviço registraria sucesso.
+Mas eu já não pretendia confundir a tranquilidade de um painel com a tranquilidade de quem dependia da Ordem.
 
-Outro apresentaria falha.
+Talvez a próxima falha não fosse uma falha de comunicação.
 
-E alguém descobriria que a mesma operação havia sido executada mais vezes do que deveria.
+Talvez os componentes executassem exatamente o que lhes fosse solicitado.
 
-A equipe chamaria aquilo de incidente.
+A pergunta, então, seria outra.
 
-A diretoria pediria explicações.
-
-A infraestrutura apresentaria seus indicadores.
-
-E eu teria de investigar novamente como um conjunto de componentes aparentemente saudáveis conseguira produzir um resultado desastroso.
-
-Dessa vez, porém, havia uma pergunta que eu não pretendia ignorar.
-
-**Se todos os mecanismos de recuperação estavam funcionando conforme foram projetados, por que a falha havia se tornado tão grande?**
-
-A resposta exigiria examinar não apenas o que quebrava.
-
-Mas o que acontecia quando os sistemas tentavam continuar funcionando apesar disso.
-
-E, sobretudo, como reconhecer uma falha antes que ela se transformasse num acontecimento municipal.
+**Como reconhecer que um sistema produziu o resultado errado quando tudo nele afirma ter funcionado corretamente?**
