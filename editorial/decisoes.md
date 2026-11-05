@@ -33,3 +33,12 @@
 - **Lembrar o autor ao concluirmos os capítulos principais** de discutir a inclusão de um capítulo ou apêndice final que relacione os conceitos de engenharia e arquitetura aos acontecimentos da narrativa.
 - Possível formato: conceitos, termos e princípios (por exemplo, **YAGNI**, complexidade essencial/acidental, acoplamento, trade-offs, dívida técnica, resiliência), com cenas concretas em que foram aplicados, ignorados ou violados e suas consequências.
 - **Ideia em aberto, não aprovada como capítulo definitivo.** Definir estrutura e posição somente no fim, para preservar o ritmo literário.
+
+## 2026-11-05 — Consolidação editorial dos capítulos 5 e 6
+- Capítulos **1–6** e prólogo aprovados e salvos no GitHub. Manter manuscritos aprovados intactos sem autorização específica.
+- Capítulo 5: a entrega do novo cálculo de benefícios é tecnicamente bem-sucedida, mas reduz valores inesperadamente; o conflito central são as consequências e a responsabilidade pelo resultado, não outra falha de rede.
+- Capítulo 6: a discussão sobre **qual equipe desenvolve, sustenta e responde pela nova funcionalidade** foi deliberadamente transferida para um capítulo próprio, usando o simulador de impacto de benefícios como continuidade causal do capítulo 5.
+- No capítulo 6, benefícios responde pelo resultado, com contribuições delimitadas de canais, dados e plataforma; prioridades precisam ser renegociadas para liberar capacidade.
+- Capítulos 7–10 mantêm o planejamento de governança/autonomia, legado/dívida técnica, IA e maturidade arquitetural. Preservar diversidade de conflitos e evitar estrutura narrativa repetitiva.
+- Apêndice final de conceitos da pós: manter como **proposta para avaliar ao concluir o manuscrito**, relacionando conceitos a cenas, aplicações, violações e consequências; não incluí-lo automaticamente.
+- Sumário, bíblia e documento de personagens foram sincronizados com o estado aprovado; não modificar os capítulos por conta dessas atualizações.
