@@ -1,54 +1,54 @@
-# Bíblia do livro — versão inicial
+# Bíblia do livro — atualizada em 2026-11-05
 
 ## Identidade
 - Título de trabalho: **A Arquitetura do Caos**.
 - Idioma: português brasileiro.
-- Extensão desejada: aproximadamente 100 páginas (preferência por qualidade, não preenchimento).
-- Natureza: ficção satírica e investigação tecnológica com ensino orgânico de arquitetura, system design, complexidade e sistemas sociotécnicos.
-- Objetivo: **ensinar entretendo**; obra coesa, original, agradável mesmo para quem não procura um manual técnico.
-- Não é tutorial de Java, frameworks ou ferramentas específicas.
+- Extensão desejada: aproximadamente 100 páginas; qualidade antes de volume.
+- Ficção satírica narrada por uma IA, com arquitetura, system design, complexidade, sistemas distribuídos e dimensões sociotécnicas incorporados organicamente.
+- Objetivo: **ensinar entretendo**; não é tutorial de Java, frameworks ou ferramentas.
 
-## Voz
-NORA narra em primeira pessoa. Inteligente, observadora, sarcástica, às vezes ácida e irreverente. Não é onisciente, não é infalível, não se torna simplesmente humana. Seu arco é reconhecer que compreender o funcionamento técnico não equivale a compreender todas as consequências de uma decisão.
+## Voz e arco de NORA
+NORA (Núcleo de Observação, Raciocínio e Análise) narra em primeira pessoa. Inteligente, sarcástica, observadora, ácida quando cabe, mas não onisciente ou infalível. Evolui de confiar em métricas e critérios técnicos para questionar seus próprios critérios e reconhecer consequências humanas e organizacionais. Não precisa tornar-se humana.
 
-O humor deve surgir da observação e do contraste, não de piadas obrigatórias em todo parágrafo. Variar ritmo, construção e forma de abertura dos capítulos. Evitar bordões repetidos, sermões, estruturas didáticas fixas e caricaturas simplistas.
+Variar ritmo, aberturas, cenas e formas de humor. Evitar bordões, explicações didáticas disfarçadas, incidentes repetidos, piadas mecânicas e reuniões que substituam toda a ação. Os registros privados fazem parte de um arco pessoal paralelo.
 
 ## Tese central
-Projetar sistemas é conviver com complexidade, incerteza, restrições e limitações de quem os constrói. Decisões localmente razoáveis podem produzir resultados coletivos absurdos.
+Projetar sistemas exige conviver com complexidade, incerteza, restrições e limitações de quem os constrói. Decisões localmente razoáveis podem produzir resultados coletivos absurdos.
 
-## Narrativa central
-A plataforma fictícia **Ordem** nasceu como um sistema de senhas e agendamentos e cresceu, ao longo de vinte anos, até sustentar serviços essenciais de milhões de pessoas. Ana Almeida, 73 anos, aparece em registros simultâneos e incompatíveis. NORA investiga e encontra dependências históricas, decisões defensáveis, falhas distribuídas e conflitos humanos. A investigação culmina na necessidade de recomendar uma modernização cujos impactos não são apenas técnicos.
+## Mundo e narrativa
+A plataforma fictícia **Ordem** nasceu como sistema de senhas e agendamentos e cresceu por cerca de vinte anos para sustentar serviços públicos essenciais. O caso inicial de Ana Almeida revela inconsistências e dependências históricas. A investigação amplia-se para escolhas de arquitetura, regras administrativas, equipes, governança, legado e inteligência artificial. Não há um único culpado ou solução sem custo.
 
-## Personagens
-Consultar [Personagens e universo](personagens-e-universo.md). **Marcelo Duarte**, homem, substitui a personagem inicialmente chamada Helena Duarte; não reutilizar o nome anterior em capítulos novos.
-
-## Critérios editoriais
-- Cada capítulo deve avançar a narrativa e apresentar uma contribuição conceitual própria.
-- Conceitos se acumulam: não redefinir o mesmo termo em capítulos sucessivos.
-- Os títulos e as descrições de aprendizagem são ferramentas de planejamento, não cabeçalhos obrigatórios no texto literário.
-- Diferenciar claramente acontecimentos fictícios de fatos históricos verificáveis.
-- Sem discursos ideológicos artificiais; conflitos éticos relevantes podem ser explorados com nuance.
-- Acompanhar continuidade de tempo, personagem, causalidade, sistemas, piadas e vocabulário.
-- Não substituir silenciosamente texto aprovado. Revisões explícitas, em commits recuperáveis.
+## Personagens e continuidade
+Consultar [Personagens e universo](personagens-e-universo.md). Personagens canônicos incluem **Marcelo Duarte**, **Rafael Brandão**, **Aline Monteiro**, **Ana Almeida** (cidadã), **Helena** (gestora de benefícios) e **Teresa** (atendimento). Não confundir Ana com Teresa nem reutilizar nomes antigos de rascunhos. Novos personagens do capítulo 6: Bruno (benefícios), Patrícia (canais), Diego (dados), Camila (plataforma), Júlia, Eduardo e Marina.
 
 ## Estado editorial
-- Estrutura de dez capítulos: aprovada.
-- Prólogo “Uma espécie peculiarmente confiante”: aprovado pelo autor como primeira versão-base.
-- Capítulos 1–10 e epílogo: planejados, ainda não escritos.
-- Sinopse e detalhes de personagens: proposta narrativa desenvolvida, sujeita a refinamento.
+- **Aprovados e salvos no GitHub:** prólogo e capítulos **1 a 6**.
+- **Ainda não escritos/aprovados:** capítulos **7 a 10** e epílogo.
+- **Capítulo 5:** cálculo de benefícios tecnicamente correto, porém com reduções inesperadas para cerca de 4.300 cidadãos; impactos humanos, regras históricas incompletas, decisões de contenção e lacuna de responsabilidade.
+- **Capítulo 6:** simulador de impactos; discussão de ownership e capacidade entre equipes; benefícios assume responsabilidade pelo resultado com apoio de canais, dados e plataforma; escopo inicial é reduzido e validado com usuários.
+- **Capítulo 7:** explorar governança, limites e autonomia; não repetir a disputa de ownership do 6.
+- O sumário contém o mapa de conceitos e o planejamento atualizado.
+
+## Regras editoriais
+- Cada capítulo avança a narrativa e contribui com conceitos próprios; não repetir definições já estabelecidas.
+- Conceitos técnicos devem ser corretos, mas a história prevalece sobre a cobertura exaustiva da pós.
+- Não repetir Ana Almeida, Teresa ou o mesmo tipo de falha como solução fácil para criar conflito.
+- Mostrar perspectivas legítimas e consequências concretas de escolhas técnicas e organizacionais.
+- Manter continuidade de nomes, datas, responsabilidades, serviços, eventos e humor.
+- Não substituir silenciosamente texto aprovado; revisões exigem autorização e commits rastreáveis.
+- Apêndice de conceitos é ideia a decidir ao fim, não capítulo aprovado.
 
 ## Registros privados de NORA
-- Os registros privados **não possuem numeração**. Não usar códigos ou identificadores enigmáticos.
-- Cada registro pode ter uma categoria temática discreta, como **Anomalias comportamentais** ou **Critérios de avaliação**. As categorias evoluem conforme NORA deixa de observar apenas os humanos e passa a examinar os próprios critérios.
-- Os registros são esparsos e significativos, não uma obrigação por capítulo ou cena. A narração comum continua comportando reflexões sem transformá-las em registros.
-- NORA mantém outros registros fora do que é mostrado ao leitor; isso pode ser sugerido organicamente, sem explicações expositivas.
-- Revisitar um registro antigo ou deixar de registrar uma descoberta pode integrar seu arco narrativo.
-- Capítulo 5 ainda depende de aprovação final; harmonizar seus registros com esta regra antes de salvá-lo.
+- **Sem numeração** nem códigos enigmáticos.
+- Categorias temáticas discretas podem evoluir: **Anomalias comportamentais**, **Critérios de avaliação**, **Revisão de critérios**, **Estruturas e responsabilidades**.
+- Devem ser esparsos e significativos; não obrigatórios em todos os capítulos.
+- NORA possui outros registros não exibidos. Pode revisitar, contradizer ou omitir registros; preservar sua evolução autônoma.
+- Os registros aprovados dos capítulos 5 e 6 já seguem a convenção.
 
-## Rotina de trabalho e passagem do tempo
-- Referência habitual para equipes administrativas e técnicas da Ordem: **9h às 18h**, com uma hora de almoço, geralmente **12h–13h** ou **13h–14h**. É uma convenção narrativa do universo, não uma afirmação de jornada universal no Brasil.
-- Chegadas antes das 9h e trabalho depois das 18h devem ter contexto plausível: exceção, urgência, plantão, horário flexível, compensação ou esforço extraordinário. Não pressupor que toda extensão seja necessariamente hora extra remunerada.
-- Madrugadas e fins de semana exigem justificativa narrativa, como incidente crítico, plantão ou implantação planejada. Atendimento e operações podem funcionar em turnos diferentes.
-- Usar horários para mostrar consequências humanas (cansaço, compromissos, vida familiar, decisões sob pressão), sem sobrecarregar o texto com relógios.
-- NORA não depende de sono nem de expediente, mas os humanos dependem de descanso. Explorar gradualmente essa diferença como parte de seu arco de compreensão dos custos organizacionais.
-- Antes de revisões de capítulos aprovados, verificar se horários já escritos representam exceções plausíveis; não reescrever automaticamente cenas apenas para encaixar a convenção.
+## Rotina de trabalho e tempo
+- Referência habitual para equipes administrativas e técnicas: **9h–18h**, com uma hora de almoço, geralmente **12h–13h** ou **13h–14h**.
+- Antes das 9h ou depois das 18h requer contexto plausível: plantão, implantação, incidente, horário flexível ou esforço extraordinário. Não presumir remuneração automática de horas extras.
+- Madrugadas e fins de semana precisam de justificativa; atendimento e operações podem operar por turnos.
+- Horários devem revelar custos humanos sem transformar a narrativa em relatório de ponto.
+- NORA não dorme; os humanos precisam descansar. Essa diferença importa para sua evolução.
+- Ao revisar material aprovado, conferir o contexto antes de alterar horários.
