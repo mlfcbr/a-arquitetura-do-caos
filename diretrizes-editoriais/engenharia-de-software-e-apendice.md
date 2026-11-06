@@ -54,3 +54,9 @@ Lei de Conway; acoplamento; observabilidade; YAGNI; débito técnico; monólitos
 - Não usar marcadores técnicos que interrompam a imersão no meio de cenas.
 - Não afirmar ocorrências sem verificar os textos finais.
 - Não confundir decisões de arquitetura questionáveis com erros absolutos: contextualizar trade-offs e limitações.
+
+## Terminologia nas seções «Por trás do caos»
+- Sempre que um conceito central tiver sigla consagrada, apresentar a sigla junto do nome em português e, quando útil, a expansão original em inglês (ex.: **DRY — Don't Repeat Yourself — Não se Repita**).
+- Explicar o conceito em linguagem acessível e vinculá-lo à cena; não transformar a seção em glossário.
+- Não inventar siglas nem tratar princípios relacionados como sinônimos (por exemplo, DRY, reutilização e SRP são distintos).
+- Aplicar a regra às próximas seções e considerar revisão pontual das já aprovadas, preservando a narrativa.
