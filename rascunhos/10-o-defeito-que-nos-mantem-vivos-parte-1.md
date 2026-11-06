@@ -24,7 +24,7 @@ O nome era antigo.
 
 O código, também.
 
-A última alteração identificável havia ocorrido nove anos antes.
+A última alteração identificável havia ocorrido cinco anos antes.
 
 Desde então, nenhuma implantação.
 
@@ -144,7 +144,7 @@ Júlia aproximou a cadeira.
 
 — Quanto tempo é bastante?
 
-— Nove anos.
+— Cinco anos.
 
 Marcelo ficou em silêncio.
 
@@ -252,7 +252,7 @@ Uma delas relacionava dois identificadores que pertenciam a pessoas diferentes.
 
 Examinei os registros.
 
-A associação havia sido criada onze anos antes.
+A associação havia sido criada cinco anos antes.
 
 Desde então, participara de centenas de processamentos.
 
@@ -320,7 +320,7 @@ Ana pareceu surpresa.
 
 — Há quanto tempo?
 
-— Uns onze anos.
+— Uns cinco anos.
 
 — Você lembra de uma rotina chamada Compensação de Continuidade?
 
@@ -500,7 +500,7 @@ Inclusive entre pessoas que, diante de uma dor persistente, preferem aumentar o 
 
 Marcelo examinou a tabela de equivalências.
 
-— Então temos uma rotina temporária executando há onze anos.
+— Então temos uma rotina temporária executando há cinco anos.
 
 — Sim — respondeu Ana.
 
