@@ -1,6 +1,6 @@
 # Capítulo 10 — O defeito que nos mantém vivos (continuação)
 
-> **STATUS: RASCUNHO — NÃO APROVADO.** Texto sujeito à revisão do autor.
+> **STATUS: APROVADO PELO AUTOR.** Capítulo 10 aprovado com referências históricas ajustadas para cinco anos.
 
 ***
 
