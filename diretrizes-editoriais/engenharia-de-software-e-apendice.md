@@ -60,3 +60,5 @@ Lei de Conway; acoplamento; observabilidade; YAGNI; débito técnico; monólitos
 - Explicar o conceito em linguagem acessível e vinculá-lo à cena; não transformar a seção em glossário.
 - Não inventar siglas nem tratar princípios relacionados como sinônimos (por exemplo, DRY, reutilização e SRP são distintos).
 - Aplicar a regra às próximas seções e considerar revisão pontual das já aprovadas, preservando a narrativa.
+
+- Priorizar siglas efetivamente reconhecidas e úteis no cotidiano da engenharia de software; não inserir termos em inglês só para conferir aparência técnica. Usar português natural para expressões como «conhecimento tácito» e «indicadores técnicos versus resultados de negócio»; manter siglas formais menos usuais (como V&V) apenas quando agregarem valor ao leitor.
