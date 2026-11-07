@@ -1,6 +1,6 @@
 # Decisões editoriais aprovadas — edição final
 
-**Aprovação expressa do autor:** estrutura do livro, seleção das doze ilustrações e seleção de trinta conceitos do apêndice.
+**Aprovação expressa do autor:** estrutura do livro, seleção das doze ilustrações e seleção de 32 conceitos do apêndice (decisão posterior documentada em `apendice-tecnico/revisao-30/DECISAO-32-CONCEITOS.md`).
 
 ## Escopo protegido
 Não alterar os dez capítulos, o prólogo, o epílogo, o interlúdio nem as dez seções “Por trás do caos”. Toda revisão de conteúdo restringe-se ao apêndice técnico.
@@ -31,7 +31,7 @@ Não alterar os dez capítulos, o prólogo, o epílogo, o interlúdio nem as dez
 
 Estilo interno: desenho arquitetônico em preto e branco, traços finos, poucas hachuras, sem molduras excessivas; capa colorida anterior, não substituir por novo conceito sem aprovação.
 
-## Trinta conceitos aprovados (organização final)
+## 32 conceitos aprovados (organização final)
 ### I — Princípios e decisões arquiteturais (6)
 1. Complexidade essencial e acidental
 2. Acoplamento, coesão e DRY
@@ -74,7 +74,7 @@ Estilo interno: desenho arquitetônico em preto e branco, traços finos, poucas 
 31. Sistemas sociotécnicos
 32. Riscos residuais e controles compensatórios
 
-**Nota de conferência:** A seleção intitulada “30 conceitos” na aprovação possui matematicamente **32 entradas** (6+6+7+5+8). Antes de fechar o apêndice, propor ao autor duas fusões adicionais ou manter 32, sem apagar conceitos aprovados silenciosamente.
+**Decisão consolidada:** o autor aprovou manter as **32 entradas** (6+6+7+5+8). Não reduzir artificialmente a 30; prevalece a decisão registrada em `apendice-tecnico/revisao-30/DECISAO-32-CONCEITOS.md`.
 
 ## Produção
-Formato 15 × 23 cm, diagramação compacta, texto ~10,5 pt, entrelinhas ~1,2. Sumário com páginas reais, ilustrações pontuais. Apêndice condensado a ser redigido e aprovado antes da edição integral.
+Edição principal em EPUB refluível, otimizada para celular; PDF para celular como complemento. As especificações físicas de 15 × 23 cm foram superadas pela decisão em `diretrizes-editoriais/edicao-digital-e-audiolivro.md`. Apêndice condensado a revisar antes da edição integral.
