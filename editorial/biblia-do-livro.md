@@ -22,7 +22,7 @@ A plataforma fictícia **Ordem** nasceu como sistema de senhas e agendamentos e 
 Consultar [Personagens e universo](personagens-e-universo.md). Personagens canônicos incluem **Marcelo Duarte**, **Rafael Brandão**, **Aline Monteiro**, **Ana Almeida** (cidadã), **Helena Vasconcelos** (gestora de benefícios) e **Teresa** (analista de operações/atendimento). Não confundir Ana com Teresa nem reutilizar nomes antigos de rascunhos. Novos personagens do capítulo 6: Bruno (benefícios), Patrícia (canais), Diego (dados), Camila (plataforma), Júlia, Eduardo e Marina.
 
 ## Estado editorial
-- **Aprovados e salvos no GitHub:** prólogo, capítulos **1 a 10**, interlúdio e epílogo, conforme registros editoriais posteriores. O capítulo 10 permanece tecnicamente em `rascunhos/`, apesar de aprovado; não confundir localização do arquivo com status de aprovação.
+- **Aprovados e salvos no GitHub:** prólogo, capítulos **1 a 10**, interlúdio e epílogo, conforme registros editoriais posteriores. O capítulo 10 foi promovido para `manuscrito/` após confirmação do status de aprovação, sem alteração de conteúdo (commit `6006fc7`).
 - **Em andamento:** auditoria de continuidade, estrutura editorial e geração de edição digital a partir da versão canônica do GitHub.
 - **Capítulo 5:** cálculo de benefícios tecnicamente correto, porém com reduções inesperadas para cerca de 4.300 cidadãos; impactos humanos, regras históricas incompletas, decisões de contenção e lacuna de responsabilidade.
 - **Capítulo 6:** simulador de impactos; discussão de ownership e capacidade entre equipes; benefícios assume responsabilidade pelo resultado com apoio de canais, dados e plataforma; escopo inicial é reduzido e validado com usuários.
