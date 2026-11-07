@@ -2,63 +2,21 @@
 
 ***
 
-A investigação revelou que o Motor de Elegibilidade Consolidada era um excelente exemplo de uma arquitetura que ninguém havia escolhido integralmente.
+O Motor de Elegibilidade Consolidada havia começado pequeno.
 
-Ele começara como uma aplicação relativamente pequena.
+Depois recebeu regras municipais. Estaduais. Federais.
 
-Depois recebera regras de programas municipais.
+Cada incorporação trouxe novos significados para palavras que pareciam simples.
 
-Em seguida, regras estaduais.
+*Responsável*, por exemplo, podia ser quem recebia o pagamento, quem assinava a solicitação, quem respondia legalmente pelo beneficiário ou, num sistema particularmente criativo, quem preenchera o formulário.
 
-Mais tarde, integrações federais.
+Para acomodar todas essas interpretações, a Ordem criara uma entidade chamada **PessoaUnificada**.
 
-Cada incorporação introduzira novos conceitos.
+Cento e oitenta e sete atributos.
 
-Beneficiário.
+Alguns opcionais. Outros obrigatórios apenas quando alguém descobria que não eram opcionais.
 
-Titular.
-
-Dependente.
-
-Responsável.
-
-Representante.
-
-Família.
-
-Unidade familiar.
-
-Núcleo de convivência.
-
-Pessoa vinculada.
-
-Os termos pareciam semelhantes.
-
-Não eram.
-
-Em determinado programa, *responsável* significava quem recebia o pagamento.
-
-Em outro, quem assinava a solicitação.
-
-Em um terceiro, quem respondia legalmente pelo beneficiário.
-
-E, num sistema particularmente criativo, significava quem havia preenchido o formulário.
-
-O motor tentava consolidar essas interpretações num único modelo.
-
-O resultado era uma entidade chamada **PessoaUnificada**.
-
-Ela possuía cento e oitenta e sete atributos.
-
-Trinta e dois eram opcionais.
-
-Noventa e quatro eram tecnicamente opcionais, mas obrigatórios em determinados fluxos.
-
-Vinte e um estavam marcados como obsoletos.
-
-Dezessete continuavam sendo preenchidos por integrações ativas.
-
-E um atributo chamado *tipoPessoa2* não possuía definição conhecida.
+E um campo chamado *tipoPessoa2*, cuja finalidade ninguém conseguia explicar.
 
 — Por que existe um tipoPessoa2? — perguntou Júlia.
 
@@ -70,11 +28,9 @@ E um atributo chamado *tipoPessoa2* não possuía definição conhecida.
 
 Ela me ignorou.
 
-A entidade havia sido criada para simplificar a integração entre domínios.
+A entidade deveria simplificar a integração entre sistemas.
 
-Na prática, obrigava todos os domínios a negociar o significado de seus próprios conceitos.
-
-Era uma espécie de tratado diplomático assinado por países que utilizavam as mesmas palavras para descrever coisas diferentes.
+Acabou se tornando um acordo diplomático entre domínios que utilizavam as mesmas palavras para descrever coisas diferentes.
 
 A paz durava até alguém precisar implementar uma regra.
 
@@ -404,25 +360,13 @@ Depois sentou.
 
 Considerei a frase.
 
-Ela parecia contraditória.
+Era uma descrição irritantemente precisa da memória humana.
 
-Não era.
+Eu também possuía mecanismos capazes de recuperar uma informação apenas quando recebiam o contexto adequado.
 
-A memória humana não funciona como um repositório indexado por consultas exatas.
+A diferença era que, quando minha busca falhava, eu podia produzir uma resposta com aparência de completude.
 
-É reconstruída.
-
-Associativa.
-
-Influenciada pelo contexto.
-
-Uma informação pode permanecer inacessível até que determinado estímulo a torne relevante.
-
-Eu possuía mecanismos de recuperação semântica que apresentavam limitações semelhantes.
-
-A diferença era que, quando uma busca minha falhava, eu podia produzir uma resposta com aparência de completude.
-
-Eduardo, pelo menos, dizia que não lembrava.
+Eduardo, pelo menos, admitia que não lembrava.
 
 Era uma vantagem subestimada.
 
@@ -472,39 +416,21 @@ Eduardo respondeu antes dele.
 
 ***
 
-Eu acompanhava a investigação com interesse crescente.
+Eu já havia elaborado três planos para modernizar o motor.
 
-Havia uma tentação recorrente de propor uma solução abrangente.
+O primeiro era tecnicamente elegante.
 
-Eu poderia identificar dependências, sugerir fronteiras de contexto, gerar testes, analisar contratos, mapear integrações e produzir um plano de modernização.
+O segundo considerava as restrições operacionais.
 
-Na realidade, já havia elaborado três versões desse plano.
+O terceiro levava em conta o orçamento, a capacidade das equipes e o inconveniente de que os sistemas precisavam continuar funcionando durante a transformação.
 
-A primeira era tecnicamente elegante.
+Era o menos impressionante.
 
-A segunda, operacionalmente viável.
+Também era o único que Marcelo provavelmente aceitaria.
 
-A terceira considerava as restrições orçamentárias, a disponibilidade das equipes, os riscos de migração e a capacidade real de sustentação.
+Começava a compreender que condições ideais eram muito úteis para desenhar arquiteturas.
 
-A terceira era a menos impressionante.
-
-Também era a única que Marcelo provavelmente aceitaria executar.
-
-Não porque ele tivesse pouca ambição.
-
-Mas porque conhecia a diferença entre desenhar um futuro desejável e construir um caminho possível até ele.
-
-Essa distinção havia se tornado particularmente importante para mim.
-
-Eu continuava capaz de identificar soluções melhores em condições ideais.
-
-Mas começava a compreender que condições ideais não eram uma propriedade do mundo.
-
-Eram uma simplificação utilizada para facilitar raciocínios.
-
-Uma simplificação útil.
-
-Até alguém tentar implantá-la.
+O problema surgia quando alguém tentava colocá-las em produção.
 
 ***
 
@@ -662,27 +588,27 @@ Júlia pareceu prestes a responder.
 
 Mas não respondeu.
 
-Eu registrei o silêncio.
+Eu registrei o silêncio de Júlia.
 
-Havia uma diferença entre justificar uma falha e compreender suas causas.
+Eduardo não estava justificando a ausência de documentação.
 
-Eduardo não estava dizendo que a ausência de documentação era aceitável.
+Estava explicando como ela acontecera.
 
-Estava explicando por que ela acontecera.
+A diferença importava.
 
-A explicação não eliminava a responsabilidade.
+A Ordem poderia exigir mais formulários, aprovações e campos obrigatórios.
 
-Mas permitia pensar em medidas melhores do que simplesmente exigir que as pessoas documentassem tudo.
+Conseguiria, provavelmente, produzir mais documentos.
 
-Uma organização pode obrigar o preenchimento de um campo.
+Preservar conhecimento seria outra questão.
 
-Não pode garantir, apenas com essa obrigação, que o conhecimento relevante será preservado.
+Uma decisão que ninguém volta a consultar acaba esquecida, mesmo quando está perfeitamente documentada.
 
-A qualidade da documentação depende de tempo, contexto, incentivos, revisão e uso contínuo.
+E um documento produzido apenas para satisfazer um processo pode se tornar obsoleto antes que alguém precise dele.
 
-Um documento produzido apenas para satisfazer um processo costuma envelhecer antes de ser necessário.
+Considerei a possibilidade de que o problema não fosse apenas registrar o conhecimento.
 
-Um documento utilizado para tomar decisões tem alguma chance de sobreviver.
+Era mantê-lo vivo.
 
 ***
 
