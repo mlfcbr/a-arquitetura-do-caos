@@ -66,7 +66,7 @@ Também pode utilizar **retentativas (*retries*)**, que repetem operações apó
 
 Na comunicação assíncrona, mecanismos semelhantes podem ser aplicados ao processamento e à entrega de mensagens.
 
-Entretanto, repetir uma operação pode gerar efeitos duplicados. Para operações com efeitos relevantes, é necessário considerar **idempotência (*idempotency*)**, propriedade que permite repetir uma solicitação sem multiplicar indevidamente seus efeitos.
+Retentativas podem repetir efeitos de negócio, como cobranças. A proteção contra duplicidades é tratada em detalhe no Tema 11.
 
 **Cuidado:** retentativas indiscriminadas podem sobrecarregar serviços já instáveis. Elas precisam considerar limites, intervalos e quais falhas realmente justificam uma nova tentativa.
 
