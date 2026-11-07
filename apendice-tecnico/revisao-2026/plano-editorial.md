@@ -1,6 +1,6 @@
 # Plano editorial — novo apêndice técnico
 
-Status: **diretrizes aprovadas; índice em avaliação; capítulos técnicos ainda não aprovados**.
+Status: **diretrizes aprovadas; índice em avaliação; tema 01 aprovado; demais temas pendentes**.
 Data: 2026-11-07.
 
 ## Limites
@@ -15,6 +15,8 @@ Avaliar relevância prática, reconhecimento no mercado, importância, valor did
 Português brasileiro como idioma principal. Traduzir termos quando o equivalente é claro e consagrado; preservar jargões relevantes entre parênteses para permitir pesquisa e reconhecimento, por exemplo retentativa (*retry*) e tempo limite (*timeout*). Manter siglas consolidadas como DRY, KISS, YAGNI, SOLID, DDD e ADR; explicar a expressão original, tradução e sentido prático na primeira ocorrência. Evitar traduções artificiais.
 
 ## Formato dos temas
+**Padrão condensado aprovado em 2026-11-07:** textos objetivos, sem código, diagramas ou exemplos detalhados por padrão; definição e tradução, importância, aplicação, limites e trade-offs, comparação breve quando útil. Um exemplo curto apenas quando indispensável. A extensão pode variar conforme a complexidade; não repetir conclusões ou criar checklists extensos sem necessidade. O apêndice deve complementar o romance, não competir com ele. Esta diretriz prevalece sobre a orientação inicial de aprofundamento extenso.
+
 Perguntas e respostas adaptadas ao assunto: o que é; por que importa; quando utilizar; como aplicar ou avaliar; trade-offs; erros comuns; critérios práticos. Usar tabelas e exemplos técnicos quando acrescentarem clareza. Profundidade proporcional ao tema; evitar repetição e conteúdo artificialmente extenso.
 
 ## Índice candidato — sujeito a aprovação
@@ -61,3 +63,7 @@ Perguntas e respostas adaptadas ao assunto: o que é; por que importa; quando ut
 2. Registrar a aprovação ou os ajustes explicitamente solicitados.
 3. Somente depois da aprovação, marcar o texto técnico como definitivo.
 4. Repetir por tema, revisar coerência do conjunto e então gerar novo EPUB.
+
+## Controle de aprovação dos temas
+- **Tema 01 — DRY, KISS e YAGNI: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-01-dry-kiss-yagni.md`.
+- **Tema 02 em diante: NÃO APROVADOS**, aguardando apresentação e avaliação.
