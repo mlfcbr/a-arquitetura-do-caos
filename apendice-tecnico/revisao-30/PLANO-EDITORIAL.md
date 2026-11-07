@@ -1,6 +1,6 @@
 # Plano editorial — Revisão do apêndice técnico para aproximadamente 30 conceitos
 
-**Status:** Diretrizes aprovadas pelo autor; implementação parcial.
+**Status:** Documento histórico de planejamento. Decisão posterior aprovada: manter 32 conceitos (ver `DECISAO-32-CONCEITOS.md`); implementação e revisão final devem seguir a decisão mais recente.
 
 ## Escopo imutável
 - Não alterar nenhum dos dez capítulos, prólogo, epílogo ou interlúdio.
@@ -28,7 +28,7 @@ Escrever em português; usar siglas e termos consagrados quando agregarem precis
 - #43 Vendor Lock-in incorporado à discussão de riscos de adoção de IA (não permanece como entrada independente).
 - #55 Dependências operacionais ocultas incorporadas a #50 resiliência operacional (não permanece como entrada independente).
 
-**Correção editorial da contagem:** a lista de 33 acima é a seleção independente definitiva após as três fusões adicionais, e não deve ser chamada de lista de 30. Revisar e consolidar mais três entradas na elaboração dos blocos seguintes para obter aproximadamente 30, sem cortes artificiais. A primeira parte condensada possui 6 entradas.
+**Nota histórica:** a lista acima continha 33 entradas e foi posteriormente substituída pela seleção expressamente aprovada de 32 conceitos em `DECISAO-32-CONCEITOS.md`. Não usar esta lista como inventário final. A primeira parte condensada possui 6 entradas.
 
 ### Demais decisões de fusão
 - #6 Reversibilidade → #5 Trade-offs.
@@ -59,10 +59,10 @@ Escrever em português; usar siglas e termos consagrados quando agregarem precis
 - Versões anteriores das partes I–V estão em `apendice-tecnico/01-...` até `05-...`.
 - A parte VI foi apenas rascunhada em conversa e não foi aprovada nem salva.
 - A nova parte I está em `apendice-tecnico/revisao-30/01-principios-e-decisoes-arquiteturais.md`.
-- As novas partes II–V ainda precisam ser elaboradas e revisadas.
+- As partes II–V da revisão de 32 conceitos devem ser conferidas individualmente quanto ao conteúdo e à aprovação; não inferir status pelo nome da pasta.
 - Não substituir versões antigas antes da aprovação editorial da nova versão integral.
 
 ## Prévia editorial do livro
-- Formato visual proposto: livro 15 × 23 cm, capa, folha de rosto, sumário, aberturas de capítulos, ilustrações e paginação.
+- Proposta histórica de 15 × 23 cm superada pela decisão de EPUB refluível e PDF para celular em `diretrizes-editoriais/edicao-digital-e-audiolivro.md`.
 - A prévia visual é apenas estudo de diagramação; nomes, autoria, títulos e números de página devem vir do texto real, nunca de imagens conceituais.
 - Não alterar a narrativa para adequá-la ao projeto gráfico.
