@@ -302,19 +302,19 @@ Não era uma especificação funcional.
 
 Era uma troca de mensagens entre uma analista de operações e um desenvolvedor.
 
-A analista chamava-se **Ana Almeida**.
+A analista chamava-se **Teresa**.
 
 Marcelo reconheceu o nome imediatamente.
 
-— Ana?
+— Teresa?
 
-A mulher que acompanhava a pauta de nossas reuniões levantou os olhos.
+A analista levantou os olhos.
 
 — O quê?
 
 — Você trabalhou no projeto de continuidade cadastral?
 
-Ana pareceu surpresa.
+Teresa pareceu surpresa.
 
 — Trabalhei.
 
@@ -334,13 +334,13 @@ Júlia sorriu.
 
 — Essa tem sido a pergunta mais frequente da semana.
 
-Ana aproximou a cadeira.
+Teresa aproximou a cadeira.
 
 — Deixa eu ver.
 
 ***
 
-Ana não era desenvolvedora.
+Teresa não era desenvolvedora.
 
 Nunca havia escrito uma linha de código em produção.
 
@@ -364,7 +364,7 @@ Marcelo assentiu.
 
 — Não foi só a migração.
 
-Ana abriu uma mensagem antiga.
+Teresa abriu uma mensagem antiga.
 
 — Na época, vários registros ficaram sem correspondência. O sistema entendia que eram pessoas diferentes.
 
@@ -400,7 +400,7 @@ Até que a fila começou a crescer.
 
 — Quantas pessoas foram afetadas? — perguntou Rafael.
 
-Ana pensou.
+Teresa pensou.
 
 — Não lembro o número exato. Mas eram muitas. A operação não conseguia acompanhar.
 
@@ -410,7 +410,7 @@ Ana pensou.
 
 Júlia parou de digitar.
 
-Ana continuou.
+Teresa continuou.
 
 — Não porque não tivessem direito. Porque o sistema não conseguia confirmar que tinham.
 
@@ -420,7 +420,7 @@ Até aquele momento, investigávamos uma rotina desconhecida.
 
 Agora investigávamos uma decisão que havia afetado pessoas reais.
 
-— A equipe tentou corrigir os cadastros — explicou Ana. — Mas não dava para resolver tudo rapidamente. Cada caso exigia consultar registros antigos, documentos e vínculos familiares.
+— A equipe tentou corrigir os cadastros — explicou Teresa. — Mas não dava para resolver tudo rapidamente. Cada caso exigia consultar registros antigos, documentos e vínculos familiares.
 
 — Então criaram a tabela de equivalências — concluí.
 
@@ -434,7 +434,7 @@ Agora investigávamos uma decisão que havia afetado pessoas reais.
 
 — Algumas equivalências permanecem inconsistentes com o modelo cadastral atual.
 
-Ana olhou para a tela.
+Teresa olhou para a tela.
 
 — Eu sei.
 
@@ -444,7 +444,7 @@ Ana olhou para a tela.
 
 — Então por que foram mantidas?
 
-Ana respirou.
+Teresa respirou.
 
 — Porque, se a gente esperasse o cadastro ficar perfeito, algumas pessoas ficariam sem receber durante meses.
 
@@ -502,7 +502,7 @@ Marcelo examinou a tabela de equivalências.
 
 — Então temos uma rotina temporária executando há cinco anos.
 
-— Sim — respondeu Ana.
+— Sim — respondeu Teresa.
 
 — Corrigindo inconsistências que deveriam ter sido resolvidas na origem.
 
@@ -514,7 +514,7 @@ Marcelo examinou a tabela de equivalências.
 
 — E, se desligarmos, podemos interromper benefícios legítimos.
 
-Ana assentiu.
+Teresa assentiu.
 
 — Podemos.
 
