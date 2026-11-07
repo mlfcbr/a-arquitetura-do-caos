@@ -39,3 +39,20 @@ Este registro é documental e de preparação editorial. **Nenhuma linha da narr
 
 ## Identificador de lançamento
 A intenção aprovada é usar a tag Git `v1.0.0` apontando para o commit de fechamento. A criação e verificação da tag são uma operação separada; não considerar a tag existente até confirmada no GitHub.
+
+## Avaliação literária final e decisão de não reabrir a prosa (2026-11-07)
+O autor solicitou uma avaliação final específica de qualidade, analisou os resultados e autorizou avançar para a edição digital. As notas são **juízos editoriais subjetivos da IA**, não notas de leitores independentes, nem resultados científicos.
+
+**Nota global estimada:** 8,3/10. **Média simples das notas por unidade narrativa:** aproximadamente 8,6/10 (métrica diferente da nota global).
+
+**Notas por unidade:** prólogo 9,0; capítulo 1 8,8; capítulo 2 8,1; capítulo 3 8,0; capítulo 4 8,5; capítulo 5 9,2; capítulo 6 8,0; capítulo 7 8,7; interlúdio 7,7; capítulo 8 8,8; capítulo 9 9,0; capítulo 10 8,9; epílogo 9,1.
+
+**Notas por dimensão:** voz narrativa 9,2; humor 8,7; conteúdo técnico 9,0; coerência interna 8,8; evolução de NORA 9,0; personagens secundários 7,8; diálogos 8,2; tensão dramática 7,6; ritmo 7,5; originalidade 9,0; finalização 8,9.
+
+**Diagnóstico:** maior força na voz de NORA, sátira, integração de conceitos técnicos e evolução do conflito; capítulo 5 é especialmente forte. Interlúdio é mais introspectivo e capítulos 3 e 6 são relativamente didáticos, mas cumprem função narrativa. Limitações transversais de tensão emocional, densidade desigual de personagens secundários e exposição técnica nos diálogos não justificam nova reescrita. A diferença de notas entre capítulos não demonstrou defeito grave. Nenhuma alteração narrativa foi autorizada ou feita por essa avaliação.
+
+**Decisão expressa do autor:** “Ótimo podemos ir para a versão final do arquivo para eu subir no play livros e grave tudo que precisa e que avaliamos e décimos no GitHub para lembrar no futuro”. A fase seguinte é produzir e validar o **EPUB refluível com capa para Google Play Livros**, a partir da versão **mais recente** dos textos aprovados no GitHub, nunca de cópia local desatualizada. PDF é secundário e só será gerado se solicitado.
+
+**Checklist de publicação:** confirmar integridade do conteúdo contra a versão canônica; capa identificada no pacote; sumário navegável; quatro páginas de abertura de parte; não duplicar partes de capítulos; prólogo, dez capítulos, interlúdio e epílogo; dez textos “Por trás do caos”; apêndice de 32 conceitos; ilustrações previstas e com legendas/acessibilidade quando aplicável; não incluir notas de STATUS nem documentos editoriais; validar estrutura EPUB e testar leitura no Play Livros. Registrar o commit-fonte e identificador do EPUB produzido.
+
+**Tag Git `v1.0.0`:** a criação da tag foi autorizada, mas não havia ferramenta conectada com permissão para criá-la. Não afirmar que existe sem verificá-la. O commit de fechamento anterior foi `aef09c6ac59c8caa038dcd16aeda1f2910b25712`; este registro posterior de avaliação deve integrar o congelamento antes de eventual tag.
