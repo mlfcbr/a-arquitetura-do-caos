@@ -61,3 +61,15 @@ O manuscrito aprovado é a fonte da verdade. Corrigir somente erros objetivos e 
 - **VERIFICADO APÓS COMMIT:** ambos os arquivos aparecem na pasta `manuscrito/`, que passou a conter 20 arquivos; a pasta `rascunhos/` deixou de existir por não ter outros arquivos.
 - **DOCUMENTAÇÃO:** bíblia editorial atualizada para refletir o caminho definitivo (commit `cf2c25d`).
 - **ATENÇÃO:** referências editoriais ou scripts de geração que apontem para o caminho antigo devem ser auditados antes da produção digital. O status de aprovação não significa que a revisão de continuidade esteja concluída.
+
+## Quinta passagem — inventário integral e documentos de montagem (2026-11-07)
+- **INVENTÁRIO DO REPOSITÓRIO:** árvore recursiva `main` não truncada; 20 arquivos narrativos em `manuscrito/` (prólogo + capítulos 1–10 em partes + interlúdio), epílogo em `epilogo/`, dez seções em `por-tras-do-caos/`. Não há pasta `rascunhos/` restante.
+- **CORRIGIDO — README:** dizia que só o prólogo estava aprovado; agora reflete o estado atual (commit `c93ca2c`).
+- **CORRIGIDO — Sumário editorial:** atualizados estados de aprovação, títulos canônicos das Partes II/III, título real do epílogo e situação do apêndice (commit `13a3c84`).
+- **CORRIGIDO — Decisão de 32 conceitos:** o documento de aprovações finais ainda chamava de 30 e sugeria fusões, contrariando aprovação posterior de 32. Atualizado para 32 sem excluir conceitos (commit `1db06bf`).
+- **CORRIGIDO — Plano histórico do apêndice:** sinalizado que o plano de 30/33 conceitos e formato físico 15×23 cm foi superado por decisões posteriores (commit `3910324`).
+- **VALIDADO — Aberturas:** títulos da Parte I nos capítulos 1–2; Parte II nos capítulos 3–5; Parte III nos capítulos 6–7; a apresentação única de cada parte é responsabilidade da montagem EPUB/PDF. O capítulo 8 em diante usa cabeçalho de capítulo sem título de parte. Não inserir parte nova sem decisão editorial.
+- **PENDÊNCIA IMPORTANTE — versão do capítulo 7:** `editorial/revisao-de-plausibilidade-pendente.md` declara expressamente que a versão aprovada em conversa era diferente da versão salva no GitHub. Não é possível declarar equivalência sem localizar e comparar a versão aprovada. Preservar o texto atual e submeter diferenças substantivas à decisão do autor.
+- **PENDÊNCIA DE PUBLICAÇÃO — apêndice:** as 32 entradas foram aprovadas como seleção, mas a redação das partes deve ser auditada; não confundir aprovação do inventário com aprovação do texto.
+- **PENDÊNCIA DE PUBLICAÇÃO — ilustrações:** árvore GitHub não contém binários de ilustrações; a aprovação das 12 imagens está documentada, mas seu upload e correspondência aos capítulos não estão verificados.
+- **PENDÊNCIA DE PUBLICAÇÃO — links de montagem:** não há script de geração EPUB/PDF na árvore atual; produzir a partir de `manuscrito/`, `epilogo/` e complementos canônicos e validar a sequência.
