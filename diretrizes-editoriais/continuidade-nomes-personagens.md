@@ -29,3 +29,5 @@
 
 ## Correção adicional aplicada
 - Capítulo 10, parte 1: todas as referências à analista **Ana Almeida / Ana** foram corrigidas para **Teresa**; a descrição que a confundia com a participante da pauta da reunião do capítulo 9 foi ajustada para **“A analista levantou os olhos.”** A personagem **Ana Almeida** do prólogo permanece inalterada.
+
+- Capítulo 10, parte 2 (2026-11-07): corrigidas **cinco** ocorrências residuais de **Ana** para **Teresa**, todas referentes à analista de operações introduzida na parte 1. O texto restante foi preservado. Commit `cb3e58d`.
