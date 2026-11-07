@@ -169,39 +169,19 @@ Eu já estava entendendo o problema.
 
 Mas obedeci.
 
-A equipe de benefícios possuía seis desenvolvedores, uma analista de qualidade e um responsável pelo produto.
+A equipe de benefícios conhecia as regras do cálculo melhor do que qualquer outra. Também acumulava três serviços críticos, demandas regulatórias e uma fila de correções que terminaria em seis semanas — segundo o planejamento. Onze, segundo os dados históricos.
 
-Conhecia profundamente as regras do cálculo.
+Canais dominava o portal, mas dependia de outras equipes para quase todas as operações de negócio.
 
-Também mantinha três serviços críticos, atendia demandas regulatórias e possuía uma fila de correções que, segundo o planejamento oficial, terminaria em seis semanas.
+Dados possuía especialistas capazes de realizar análises complexas, embora não tivesse estrutura para sustentar uma operação transacional.
 
-Segundo os dados históricos, terminaria em aproximadamente onze.
+Plataforma atendia dezessete equipes e acumulava vinte e uma iniciativas no trimestre.
 
-A equipe de canais possuía oito desenvolvedores e duas pessoas de qualidade.
+Dezessete eram prioritárias.
 
-Conhecia o portal, os fluxos de autenticação e as necessidades dos usuários administrativos.
+Onze, urgentes.
 
-Mas dependia de outras equipes para praticamente todas as operações de negócio.
-
-A equipe de dados possuía cinco profissionais especializados em processamento analítico, modelos históricos e integração de informações.
-
-Era tecnicamente capaz de produzir simulações.
-
-Entretanto, não mantinha serviços transacionais e não tinha estrutura de suporte para uma funcionalidade operacional utilizada diariamente.
-
-A equipe de plataforma possuía sete engenheiros.
-
-Atendia dezessete equipes internas.
-
-Seu trabalho incluía ambientes, observabilidade, segurança, infraestrutura compartilhada e ferramentas de desenvolvimento.
-
-No planejamento do trimestre, estava comprometida com vinte e uma iniciativas.
-
-Dezessete delas eram consideradas prioritárias.
-
-Onze eram classificadas como urgentes.
-
-Três possuíam a descrição *inadiável*.
+Três, inadiáveis.
 
 Considerei aquela distribuição uma manifestação artística da incapacidade humana de distinguir prioridades.
 
@@ -395,13 +375,7 @@ As quatro propostas eram tecnicamente defensáveis.
 
 Também eram incompatíveis em aspectos importantes.
 
-A primeira concentrava o conhecimento de negócio, mas pressionava uma equipe já sobrecarregada.
-
-A segunda oferecia uma experiência integrada, mas aumentava a dependência da equipe de canais em relação a decisões que não controlava.
-
-A terceira favorecia análises complexas, mas criava o risco de divergência entre os dados usados na simulação e os dados reais do cálculo.
-
-A quarta oferecia uma capacidade reutilizável, mas poderia transformar uma necessidade específica em uma plataforma genérica antes de existir demanda suficiente para justificá-la.
+Bruno conhecia as regras, mas não tinha capacidade disponível. Patrícia poderia integrar a experiência, mas não controlar o cálculo. Diego dominava os dados, mas não a operação. Camila oferecia a infraestrutura — e o risco de transformar um simulador numa plataforma que ninguém havia pedido.
 
 Eu preparei uma matriz comparativa.
 
