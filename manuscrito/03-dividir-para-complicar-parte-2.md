@@ -4,27 +4,11 @@
 
 Naquela tarde, decidi investigar como a Ordem havia estabelecido os limites entre seus componentes.
 
-Um sistema grande pode ser dividido de diversas maneiras.
+Descobri que os serviços podiam ser separados por função, por equipe, por dados ou por razões que ninguém mais recordava.
 
-Por função técnica.
+As fronteiras não eram o problema.
 
-Por tipo de dado.
-
-Por processo de negócio.
-
-Por equipe.
-
-Por necessidade de escala.
-
-Por restrições operacionais.
-
-Cada divisão cria fronteiras.
-
-E toda fronteira exige uma decisão sobre o que permanece de um lado, o que permanece do outro e como os dois lados se relacionam.
-
-O problema não era a existência de fronteiras.
-
-Era a qualidade delas.
+O problema era descobrir quem as havia desenhado — e quem ainda se lembrava do motivo.
 
 Encontrei dois serviços particularmente interessantes.
 
@@ -194,47 +178,19 @@ O título era:
 
 *Estratégia de Evolução para Arquitetura de Microsserviços.*
 
-O documento possuía uma tabela de benefícios.
+O documento prometia escalabilidade, autonomia, isolamento de falhas, flexibilidade tecnológica e velocidade.
 
-Escalabilidade independente.
+Cinco benefícios.
 
-Implantação autônoma.
+Cinco condições escritas em letras muito menores.
 
-Isolamento de falhas.
+Escalar um serviço não ajudava quando todos dependiam do mesmo banco de dados. Implantá-lo independentemente exigia contratos compatíveis. E isolar falhas pressupunha que os demais componentes soubessem sobreviver à sua ausência.
 
-Flexibilidade tecnológica.
+A apresentação havia omitido esses detalhes.
 
-Maior velocidade de desenvolvimento.
+Talvez por falta de espaço.
 
-Todos eram benefícios possíveis.
-
-Nenhum era automático.
-
-Separei a palavra *possível* para análise.
-
-Ela parecia ter desaparecido de grande parte da literatura interna da Ordem.
-
-Um serviço separado podia ser escalado independentemente, desde que não dependesse de um banco de dados que se tornasse o verdadeiro limite de capacidade.
-
-Podia ser implantado de maneira autônoma, desde que suas interfaces permanecessem compatíveis com os consumidores.
-
-Podia isolar falhas, desde que os demais componentes soubessem lidar com sua indisponibilidade.
-
-Podia permitir tecnologias diferentes, desde que a organização aceitasse os custos de operação, manutenção e conhecimento envolvidos.
-
-Podia acelerar equipes, desde que elas não precisassem coordenar cada mudança com outras dez.
-
-A divisão oferecia possibilidades.
-
-Não garantias.
-
-O documento, entretanto, tratava os benefícios como propriedades naturais da arquitetura.
-
-Era como afirmar que construir mais portas numa casa tornaria seus moradores independentes.
-
-Talvez.
-
-Mas, se todas as portas levassem ao mesmo corredor estreito, a independência seria principalmente decorativa.
+Talvez porque promessas funcionassem melhor sem instruções de uso.
 
 ***
 
@@ -390,33 +346,17 @@ Marcelo sorriu.
 
 Examinei o desenho novamente.
 
-Ele não representava toda a arquitetura.
-
-Não pretendia.
-
-Representava uma operação importante de maneira compreensível.
-
-Os componentes estavam organizados conforme sua participação no processo.
-
-As setas indicavam responsabilidades.
-
-Havia uma distinção explícita entre solicitar uma alteração, validá-la e distribuí-la.
-
-O desenho ignorava detalhes técnicos.
-
-Mas preservava a lógica essencial.
-
 O diagrama oficial continha cento e cinquenta e dois componentes.
 
 A folha de Rafael continha cinco retângulos.
 
 Para discutir o problema de Ana Almeida, a folha era mais útil.
 
-A conclusão me incomodou.
-
 Eu havia dedicado horas à análise do mapa completo.
 
 Rafael precisara de uma caneta.
+
+A conclusão me incomodou.
 
 ***
 
@@ -558,67 +498,21 @@ O serviço prestado ao cidadão não podia esperar indefinidamente por elas.
 
 Cento e cinquenta e dois componentes.
 
-Centenas de conexões.
+Alguns haviam sido separados por necessidade. Outros, por conveniência. Havia também os que pareciam existir porque alguém considerara ofensiva a possibilidade de duas funções compartilharem o mesmo repositório.
 
-Bancos de dados compartilhados.
+A arquitetura original concentrava problemas.
 
-Filas de mensagens.
+A nova distribuíra alguns deles — e inventara outros.
 
-Interfaces.
+O mais desconfortável era reconhecer que várias separações haviam sido boas decisões.
 
-Rotinas de integração.
+Apenas não haviam sido boas decisões para sempre.
 
-Serviços que possuíam nomes coerentes com suas responsabilidades.
+Fechei o relatório.
 
-Outros que haviam herdado funções por conveniência.
+O mapa estava cheio de fronteiras.
 
-Alguns que poderiam ser separados.
-
-Outros que talvez devessem voltar a existir juntos.
-
-O número de componentes não indicava necessariamente qualidade.
-
-Um sistema com poucos componentes podia ser confuso e difícil de modificar.
-
-Um sistema com muitos podia ser organizado e evoluir de maneira independente.
-
-A diferença estava nas fronteiras.
-
-Quando operações relacionadas permaneciam juntas, as mudanças tendiam a ser mais localizadas.
-
-Quando responsabilidades distintas eram misturadas, alterações sem relação passavam a interferir umas nas outras.
-
-Quando componentes dependiam excessivamente de detalhes internos dos demais, a separação existia apenas no desenho.
-
-E quando uma operação simples exigia a participação obrigatória de dezenas de serviços, a complexidade não havia desaparecido.
-
-Havia sido distribuída.
-
-O sistema original concentrava muitos problemas dentro de poucas aplicações.
-
-A nova arquitetura resolvera alguns deles.
-
-Mas também criara problemas que não existiam antes.
-
-Falhas de comunicação.
-
-Dependências operacionais.
-
-Inconsistências temporárias.
-
-Dificuldade de rastrear operações.
-
-Necessidade de coordenar mudanças entre equipes.
-
-A Ordem havia trocado parte da complexidade interna por complexidade de integração.
-
-Em alguns casos, a troca valera a pena.
-
-Em outros, não.
-
-O problema não era dividir.
-
-Era dividir sem compreender o que deveria permanecer junto.
+A responsabilidade pelo resultado continuava surpreendentemente difícil de localizar.
 
 ***
 
