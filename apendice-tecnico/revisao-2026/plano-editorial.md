@@ -1,6 +1,6 @@
 # Plano editorial — novo apêndice técnico
 
-Status: **diretrizes e índice definitivo de 15 temas aprovados; temas 01 a 11 aprovados e salvos; temas 12 a 15 pendentes de avaliação**.
+Status: **diretrizes e índice definitivo de 15 temas aprovados; temas 01 a 12 aprovados e salvos; temas 13 a 15 pendentes de avaliação**.
 Data: 2026-11-07.
 
 ## Limites
@@ -70,4 +70,5 @@ O índice anterior de 30 temas foi reduzido após revisão editorial e confronto
 - **Tema 09 — Comunicação síncrona e assíncrona: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-09-comunicacao-sincrona-assincrona.md`.
 - **Tema 10 — Arquitetura orientada a eventos: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-10-arquitetura-orientada-a-eventos.md`.
 - **Tema 11 — Resiliência, idempotência e observabilidade: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-11-resiliencia-idempotencia-observabilidade.md`.
-- **Temas 12 a 15: NÃO APROVADOS**, aguardando apresentação e avaliação.
+- **Tema 12 — Verificação, validação e resultados de negócio: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-12-verificacao-validacao-resultados-de-negocio.md`.
+- **Temas 13 a 15: NÃO APROVADOS**, aguardando apresentação e avaliação.
