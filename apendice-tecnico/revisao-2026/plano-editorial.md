@@ -1,6 +1,6 @@
 # Plano editorial — novo apêndice técnico
 
-Status: **diretrizes aprovadas; índice em avaliação; temas 01, 02, 03, 04, 05 e 06 aprovados; demais temas pendentes**.
+Status: **diretrizes aprovadas; índice em avaliação; temas 01, 02, 03, 04, 05, 06 e 07 aprovados; demais temas pendentes**.
 Data: 2026-11-07.
 
 ## Limites
@@ -71,4 +71,5 @@ Perguntas e respostas adaptadas ao assunto: o que é; por que importa; quando ut
 - **Tema 04 — Complexidade essencial e acidental: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-04-complexidade-essencial-e-acidental.md`.
 - **Tema 05 — Dívida técnica: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-05-divida-tecnica.md`.
 - **Tema 06 — Decisões arquiteturais, trade-offs, reversibilidade e ADR: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-06-decisoes-arquiteturais-trade-offs-reversibilidade-adr.md`.
-- **Tema 07 em diante: NÃO APROVADOS**, aguardando apresentação e avaliação.
+- **Tema 07 — Monólitos, monólitos modulares e microsserviços: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-07-monolitos-monolitos-modulares-microsservicos.md`.
+- **Tema 08 em diante: NÃO APROVADOS**, aguardando apresentação e avaliação.
