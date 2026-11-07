@@ -20,7 +20,7 @@
 ## Alteração aplicada
 - O arquivo `manuscrito/00-prologo.md` foi atualizado: **Henrique → Marcelo** e **Teresa → Ana** nas referências ao técnico e à cidadã do incidente.
 
-## Auditoria de nomes — ponto pendente
-- No capítulo 9, parte 1, aparece a frase **“Ana Almeida acompanhava a pauta.”** numa reunião interna sobre a nova IA. Como Ana Almeida é a cidadã idosa do incidente inicial, essa presença parece incoerente e pode resultar de uma substituição antiga aplicada à pessoa errada. **Não corrigir por adivinhação**: identificar quem deveria estar na reunião (possivelmente uma pessoa do atendimento ou de benefícios) antes de editar.
+## Auditoria de nomes — correções e observações
+- No capítulo 9, parte 1, a frase **“Ana Almeida acompanhava a pauta.”** foi corrigida, com aprovação do autor, para **“Helena Vasconcelos acompanhava a pauta.”** Helena é gestora de benefícios e faz sentido como participante da reunião interna de apresentação da ÍRIS.
 - A busca nos arquivos narrativos não encontrou ocorrências de **Augusto**; a regra Augusto → Marcelo segue revogada.
 - O prólogo foi corrigido no GitHub; a cópia local e as edições EPUB/PDF antigas podem continuar desatualizadas.
