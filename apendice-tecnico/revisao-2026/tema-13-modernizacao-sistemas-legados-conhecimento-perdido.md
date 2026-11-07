@@ -37,7 +37,7 @@ Algumas surgiram para atender exigências legais. Outras foram criadas para corr
 
 Com a saída de profissionais e a perda de registros históricos, essas decisões podem deixar de ser compreendidas.
 
-É o chamado **conhecimento tácito (*tacit knowledge*)**: informações e experiências que existem principalmente na memória das pessoas, sem registro suficiente para sua transferência.
+Parte desse conhecimento é **tácita (*tacit knowledge*)**: depende da experiência das pessoas e não foi suficientemente explicitada. Outra parte permanece incorporada ao comportamento do sistema, mesmo depois que os profissionais que conheciam suas razões deixam a organização.
 
 Quando esse conhecimento desaparece, o próprio código pode se tornar a principal evidência das decisões anteriores.
 
