@@ -54,3 +54,10 @@ O manuscrito aprovado é a fonte da verdade. Corrigir somente erros objetivos e 
 - **VERIFICAÇÃO DE ARCO — ÍRIS:** introduzida no capítulo 9, atua no capítulo 10 e aparece no epílogo; sequência macro consistente nas amostras verificadas. Ainda não é validação linha a linha de causalidade e tempo.
 
 **Próximos controles:** inventário de links e referências de arquivos, consistência temporal detalhada, transições e apêndice técnico, ilustrações e artefatos digitais.
+
+## Quarta passagem — rascunhos aprovados (2026-11-07)
+- **INVENTÁRIO CONFIRMADO:** a pasta `rascunhos/` continha somente os dois arquivos do capítulo 10; ambos declaravam `STATUS: APROVADO PELO AUTOR`.
+- **RESOLVIDO — promoção para manuscrito:** os dois arquivos foram movidos de `rascunhos/` para `manuscrito/` em um único commit atômico (`6006fc7`), preservando exatamente os SHA dos blobs (parte 1: `ca0aee3`; parte 2: `6438382`). Portanto, não houve alteração textual nessa promoção.
+- **VERIFICADO APÓS COMMIT:** ambos os arquivos aparecem na pasta `manuscrito/`, que passou a conter 20 arquivos; a pasta `rascunhos/` deixou de existir por não ter outros arquivos.
+- **DOCUMENTAÇÃO:** bíblia editorial atualizada para refletir o caminho definitivo (commit `cf2c25d`).
+- **ATENÇÃO:** referências editoriais ou scripts de geração que apontem para o caminho antigo devem ser auditados antes da produção digital. O status de aprovação não significa que a revisão de continuidade esteja concluída.
