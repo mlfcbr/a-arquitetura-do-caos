@@ -128,3 +128,10 @@ O manuscrito aprovado é a fonte da verdade. Corrigir somente erros objetivos e 
 - **CORREÇÃO EDITORIAL EXECUTADA:** cabeçalhos dos cinco blocos uniformizados para `seleção dos 32 conceitos aprovada pelo autor; redação condensada em revisão`. Os antigos cabeçalhos dos blocos II–V afirmavam aprovação integral sem respaldo documental inequívoco. Atualizado também `DECISAO-32-CONCEITOS.md`, cujo status de redação estava desatualizado.
 - **PRESERVAÇÃO:** nenhuma frase explicativa dos 32 conceitos, nenhum capítulo e nenhuma seção `Por trás do caos` foi alterada nesta passagem.
 - **STATUS:** revisão técnica e de alinhamento concluída com parecer favorável; **aprovação textual final do apêndice ainda depende de confirmação expressa do autor**. Não confundir isso com a aprovação já existente da seleção e da estrutura.
+
+## Décima terceira passagem — aprovação definitiva do apêndice (2026-11-07)
+- **CONFIRMAÇÃO EXPRESSA DO AUTOR:** aprovação integral da redação dos **32 conceitos**, além da seleção e da estrutura já aprovadas.
+- **VERSÃO CANÔNICA:** cinco arquivos condensados em `apendice-tecnico/revisao-30/`, conceitos 1–32, aprovados para montagem da edição digital.
+- **EXECUÇÃO:** atualizados os cinco cabeçalhos de status para `APROVADO PELO AUTOR` e ratificada a decisão editorial. Nenhum texto explicativo foi modificado.
+- **HISTÓRICO:** os cinco arquivos de 49 conceitos em `apendice-tecnico/` permanecem preservados como referência histórica, não como versão de publicação.
+- **PRÓXIMA FASE:** montagem e verificação dos arquivos de leitura EPUB e PDF mobile-first a partir dos conteúdos canônicos atuais, sem alterar a narrativa.
