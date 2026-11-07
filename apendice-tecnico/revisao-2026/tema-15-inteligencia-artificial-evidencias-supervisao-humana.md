@@ -30,7 +30,7 @@ Em aplicações de IA, isso pode envolver documentos, bases de dados, registros 
 
 Uma abordagem comum é a **geração aumentada por recuperação (*Retrieval-Augmented Generation*, ou RAG)**, na qual informações externas são recuperadas e fornecidas ao modelo para apoiar a elaboração da resposta.
 
-Essa técnica pode melhorar a precisão e permitir referências às fontes utilizadas.
+Essa técnica pode fornecer contexto relevante e referências às fontes consultadas, mas a qualidade da resposta continua dependendo da recuperação, da interpretação e da verificação das informações.
 
 Entretanto, recuperar informações não garante que elas estejam corretas, atualizadas ou tenham sido interpretadas adequadamente.
 
