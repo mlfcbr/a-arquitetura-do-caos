@@ -158,3 +158,11 @@ O manuscrito aprovado é a fonte da verdade. Corrigir somente erros objetivos e 
 - **RESULTADO:** arquivo de 23.532 para 21.125 caracteres; redução líquida de 2.407 caracteres (aproximadamente 10,2%).
 - **COMMIT DO MANUSCRITO:** `09f2251c2c6754d5e4e36d9a0191fefed8a710c0`.
 - **PRÓXIMO PASSO EDITORIAL:** revisar capítulo 8, apresentando propostas antes de alterações.
+
+## Décima sétima passagem — edição literária aprovada do capítulo 8 (2026-11-07)
+- **AUTORIZAÇÃO EXPRESSA:** autor aprovou quatro ajustes pontuais em `manuscrito/08-ninguem-sabe-por-que-isso-funciona-parte-2.md`: (1) modelo PessoaUnificada, (2) memória de Eduardo, (3) planos de modernização, (4) reflexão sobre documentação.
+- **EXECUÇÃO:** quatro substituições textuais delimitadas na parte 2; parte 1 e todos os demais trechos preservados.
+- **RESULTADO:** parte 2 de 24.612 para 22.992 caracteres; redução líquida de 1.620 caracteres (aproximadamente 6,6%).
+- **COMMIT DO MANUSCRITO:** `f5d8f2dbcc44b528fd123d663b925c59e79b8e93`.
+- **CONTINUIDADE:** preservados incidente de Osvaldo Ferreira, recomendação de NORA com 96,4% de confiança, dupla validação histórica, modernização incremental, despedida de Eduardo, registro privado e fechamento.
+- **PRÓXIMO PASSO EDITORIAL:** avaliar fluidez global após as revisões dos capítulos 3, 6, 8 e interlúdio; apresentar eventuais propostas antes de editar.
