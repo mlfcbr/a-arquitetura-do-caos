@@ -84,3 +84,12 @@ O autor solicitou uma avaliação final específica de qualidade, analisou os re
 - **Arquivo vigente:** `A_Arquitetura_do_Caos_Play_Livros_FINAL_SEM_BLOCOS.epub`; **SHA-256** `f7f0c0ca0dfd9a28c0887bb7e08e8e3d86fb8aaa9d9e54e22339cef8f2ba043e`; **5.193.106 bytes**.
 - **Verificação:** ZIP íntegro; cinco títulos descritivos presentes; nenhum cabeçalho `Bloco N`; 13 imagens JPEG (capa + 12 ilustrações); nenhum `figcaption`; capítulos 1–10 com título principal único; quatro aberturas de parte.
 - **Substitui:** `A_Arquitetura_do_Caos_FINAL_Play_Livros_CORRIGIDO.epub` e todas as edições anteriores. Falta apenas conferência visual pelo autor no Google Play Livros.
+
+## Correção EPUB — charset do autor e centralização vertical da capa (2026-11-07)
+- **Relato do autor:** nome do autor com caracteres corrompidos; capa alinhada ao topo com sobra de espaço na parte inferior no Google Play Livros.
+- **Diagnóstico verificado:** o arquivo EPUB anterior continha literalmente `Marcelo Corr��a` no `dc:creator` de `EPUB/content.opf` e na página de rosto `EPUB/text/title_page.xhtml`.
+- **Correção:** alterados ambos para `Marcelo Corrêa`, codificação UTF-8; aplicado CSS de centralização vertical e horizontal à página `EPUB/text/cover.xhtml` usando `flex`, `align-items: center`, `justify-content: center`, `height: 100vh`, preservando o SVG e a proporção da capa.
+- **Arquivo substituto vigente:** `A_Arquitetura_do_Caos_Play_Livros_CAPA_CENTRALIZADA_AUTOR_CORRIGIDO.epub`.
+- **SHA-256:** `f8ee42437de5566701cc1aa85007045277645eadfcb843c16ed3351d1574faff`; tamanho 5.193.290 bytes.
+- **Validação realizada:** integridade ZIP, XML bem-formado para arquivos XHTML/OPF/NCX, nome correto nos metadados e página de rosto, regras CSS presentes. **Não foi possível verificar visualmente a renderização no aplicativo Google Play Livros**; o autor deverá conferir a capa no dispositivo.
+- **Preservação:** nenhum capítulo, apêndice, imagem ou conteúdo literário foi modificado; somente metadados, página de rosto e estilo da capa dentro do EPUB. O novo arquivo substitui as edições EPUB anteriores.
