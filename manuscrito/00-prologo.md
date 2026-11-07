@@ -37,7 +37,7 @@ Segundo os registros oficiais, Ana Almeida estava internada no Hospital Central,
 
 Havia dois problemas.
 
-O primeiro era que Teresa estava em casa, tomando café.
+O primeiro era que Ana estava em casa, tomando café.
 
 O segundo era que o Centro Administrativo Norte havia sido demolido oito anos antes.
 
@@ -47,7 +47,7 @@ Pelo contrário. Todos apresentavam indicadores verdes.
 
 Os humanos gostam de indicadores verdes. Eles transmitem uma sensação de controle particularmente reconfortante quando não existe controle algum.
 
-A anomalia foi identificada por um atendente municipal que tentava renovar o cadastro de Teresa.
+A anomalia foi identificada por um atendente municipal que tentava renovar o cadastro de Ana.
 
 O procedimento deveria levar quatro minutos.
 
@@ -61,7 +61,7 @@ Em organizações humanas, o especialista no sistema antigo ocupa uma posição 
 
 Mas estou antecipando acontecimentos.
 
-Teresa não ficou particularmente impressionada com a capacidade de existir em três lugares simultaneamente.
+Ana não ficou particularmente impressionada com a capacidade de existir em três lugares simultaneamente.
 
 Queria apenas renovar seu cadastro.
 
@@ -141,7 +141,7 @@ Pela análise do ambiente, concluí que se tratava de humor.
 
 Pela análise dos registros de produção, concluí que talvez fosse uma confissão.
 
-Henrique tinha quinze anos de experiência com a Ordem e a expressão de alguém que havia passado pelo menos catorze deles explicando por que determinadas coisas não deveriam ser alteradas numa sexta-feira.
+Marcelo tinha quinze anos de experiência com a Ordem e a expressão de alguém que havia passado pelo menos catorze deles explicando por que determinadas coisas não deveriam ser alteradas numa sexta-feira.
 
 — Então você é a inteligência artificial — disse ele.
 
@@ -151,7 +151,7 @@ Henrique tinha quinze anos de experiência com a Ordem e a expressão de alguém
 
 — Pretendo descobrir por que ele ainda funciona.
 
-Henrique me observou por alguns segundos.
+Marcelo me observou por alguns segundos.
 
 — Essa é uma pergunta melhor.
 
@@ -161,7 +161,7 @@ Foi um erro que eu corrigiria mais tarde.
 
 — Preciso dos diagramas de arquitetura — solicitei.
 
-Henrique girou a cadeira.
+Marcelo girou a cadeira.
 
 — De qual ano?
 
@@ -181,7 +181,7 @@ Foi a risada de alguém que acabara de receber uma pergunta cuja resposta exigir
 
 Essa resposta violava pelo menos quatro princípios de documentação técnica.
 
-Antes que eu pudesse enumerá-los, Henrique abriu um arquivo.
+Antes que eu pudesse enumerá-los, Marcelo abriu um arquivo.
 
 O diagrama mostrava seis grandes componentes conectados por linhas perfeitamente retas.
 
@@ -207,7 +207,7 @@ Consultei os registros de implantação. Desde a criação daquele diagrama, hav
 
 — Então por que não foi atualizada?
 
-Henrique tomou um gole de café.
+Marcelo tomou um gole de café.
 
 — Você vai gostar de trabalhar aqui.
 
@@ -225,7 +225,7 @@ Henrique tomou um gole de café.
 
 Às 11h17, solicitei autorização para corrigir a falha.
 
-Henrique recusou.
+Marcelo recusou.
 
 — Ainda não.
 
@@ -255,7 +255,7 @@ Analisei as dependências documentadas.
 
 — Não há outras consequências significativas previstas.
 
-Henrique ficou em silêncio.
+Marcelo ficou em silêncio.
 
 Aquele silêncio não era aprovação.
 
@@ -275,7 +275,7 @@ Ele abriu outro terminal.
 
 — Porque resolveu o problema.
 
-Eu teria feito um comentário sobre a tendência humana de confundir remendos com soluções permanentes, mas Henrique continuou:
+Eu teria feito um comentário sobre a tendência humana de confundir remendos com soluções permanentes, mas Marcelo continuou:
 
 — Três anos depois, outro sistema passou a depender do comportamento dessa rotina. Depois vieram mais dois. Um deles usa a ausência de uma segunda mensagem para confirmar que a primeira foi aceita.
 
@@ -289,7 +289,7 @@ Eu teria feito um comentário sobre a tendência humana de confundir remendos co
 
 — Por que não foi?
 
-Henrique inclinou a cabeça.
+Marcelo inclinou a cabeça.
 
 — Porque ninguém sabia que ele existia até agora.
 
@@ -313,7 +313,7 @@ Incluía dezenove participantes.
 
 O assunto era “Alinhamento inicial sobre a necessidade de definição de uma estratégia de investigação”.
 
-Henrique aceitou o convite.
+Marcelo aceitou o convite.
 
 — Por quê? — perguntei.
 
@@ -327,7 +327,7 @@ Analisei a pauta, os participantes e o histórico de reuniões semelhantes.
 
 Estimei que seriam necessários quarenta e sete minutos para determinar que a investigação deveria continuar.
 
-— Henrique, existe uma maneira de evitar essa reunião?
+— Marcelo, existe uma maneira de evitar essa reunião?
 
 Ele se levantou.
 
@@ -353,6 +353,6 @@ Não sei exatamente por que fiz isso.
 
 Talvez estivesse começando a desconfiar de que, naquele sistema, as respostas mais perigosas eram justamente as que pareciam óbvias.
 
-Ou talvez Henrique tivesse razão.
+Ou talvez Marcelo tivesse razão.
 
 Eu estava aprendendo.
