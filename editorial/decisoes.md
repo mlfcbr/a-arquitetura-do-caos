@@ -42,3 +42,9 @@
 - Capítulos 7–10 mantêm o planejamento de governança/autonomia, legado/dívida técnica, IA e maturidade arquitetural. Preservar diversidade de conflitos e evitar estrutura narrativa repetitiva.
 - Apêndice final de conceitos da pós: manter como **proposta para avaliar ao concluir o manuscrito**, relacionando conceitos a cenas, aplicações, violações e consequências; não incluí-lo automaticamente.
 - Sumário, bíblia e documento de personagens foram sincronizados com o estado aprovado; não modificar os capítulos por conta dessas atualizações.
+
+## 2026-11-07 — Ratificação definitiva do capítulo 7
+- O autor aprovou expressamente, após avaliação integral, a versão atualmente presente em `manuscrito/07-o-comite-de-prevencao-de-comites-parte-1.md` e `parte-2.md` como **texto canônico definitivo**.
+- Manter a abertura com **43 comitês**, a progressão de governança orientada por risco e o encerramento em que NORA decide não criar registro privado.
+- A versão anterior, iniciada por **23 procedimentos**, deixa de ser uma pendência de recuperação; não reconstruí-la nem substituir silenciosamente o capítulo.
+- A aprovação preserva o texto integral. Auditorias de continuidade e montagem digital continuam independentes desta decisão.
