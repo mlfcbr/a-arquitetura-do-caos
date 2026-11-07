@@ -6,7 +6,9 @@
 - **Rafael Brandão**: profissional de Operações; conferir substituições anteriores em contexto.
 - **Aline Monteiro**: liderança da Ordem; conferir substituições anteriores em contexto.
 - **Helena Vasconcelos**: nome definitivo da gestora de benefícios, personagem feminina sem parentesco com Marcelo Duarte. A apresentação no capítulo 5 foi atualizada para o nome completo; demais referências isoladas a Helena são mantidas. A substituição por Carlos foi cancelada.
-- **Carlos**: ex-funcionário citado no capítulo 1; não confundir com Helena Duarte.
+- **Carlos**: ex-funcionário citado no capítulo 1; não confundir com Helena Vasconcelos.
+
+- **Teresa**: analista de operações que conhece o projeto de continuidade cadastral, apresentada no capítulo 10. É personagem distinta de **Ana Almeida**, cidadã de 73 anos do prólogo. Nome Teresa aprovado pelo autor.
 
 ## Não confirmado
 - **Augusto → Marcelo**: **NÃO aplicar**. Não foi identificada com segurança a identidade de Augusto; pode ser resíduo editorial. Investigar eventual ocorrência em contexto antes de qualquer mudança. Se não existir personagem Augusto na versão vigente, retirar a regra antiga, sem criar personagem novo.
@@ -24,3 +26,6 @@
 - No capítulo 9, parte 1, a frase **“Ana Almeida acompanhava a pauta.”** foi corrigida, com aprovação do autor, para **“Helena Vasconcelos acompanhava a pauta.”** Helena é gestora de benefícios e faz sentido como participante da reunião interna de apresentação da ÍRIS.
 - A busca nos arquivos narrativos não encontrou ocorrências de **Augusto**; a regra Augusto → Marcelo segue revogada.
 - O prólogo foi corrigido no GitHub; a cópia local e as edições EPUB/PDF antigas podem continuar desatualizadas.
+
+## Correção adicional aplicada
+- Capítulo 10, parte 1: todas as referências à analista **Ana Almeida / Ana** foram corrigidas para **Teresa**; a descrição que a confundia com a participante da pauta da reunião do capítulo 9 foi ajustada para **“A analista levantou os olhos.”** A personagem **Ana Almeida** do prólogo permanece inalterada.
