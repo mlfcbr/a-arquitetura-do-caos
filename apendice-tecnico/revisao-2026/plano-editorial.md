@@ -1,6 +1,6 @@
 # Plano editorial — novo apêndice técnico
 
-Status: **diretrizes aprovadas; índice em avaliação; temas 01 e 02 aprovados; demais temas pendentes**.
+Status: **diretrizes aprovadas; índice em avaliação; temas 01, 02 e 03 aprovados; demais temas pendentes**.
 Data: 2026-11-07.
 
 ## Limites
@@ -67,4 +67,5 @@ Perguntas e respostas adaptadas ao assunto: o que é; por que importa; quando ut
 ## Controle de aprovação dos temas
 - **Tema 01 — DRY, KISS e YAGNI: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-01-dry-kiss-yagni.md`.
 - **Tema 02 — SOLID: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-02-solid.md`.
-- **Tema 03 em diante: NÃO APROVADOS**, aguardando apresentação e avaliação.
+- **Tema 03 — Acoplamento, coesão e modularidade: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-03-acoplamento-coesao-modularidade.md`.
+- **Tema 04 em diante: NÃO APROVADOS**, aguardando apresentação e avaliação.
