@@ -2,7 +2,7 @@
 
 ## Bloco I — Princípios e decisões arquiteturais
 
-> **Versão condensada para revisão editorial.** Complemento independente; não altera nenhum capítulo, prólogo, epílogo ou seção narrativa.
+> **STATUS EDITORIAL:** seleção dos 32 conceitos aprovada pelo autor; redação condensada em revisão. Complemento independente; não altera a narrativa.
 
 ### 1. Complexidade essencial e complexidade acidental
 
