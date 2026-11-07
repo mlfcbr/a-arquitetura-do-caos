@@ -178,45 +178,21 @@ Essa descrição continua correta.
 
 O problema é que ela também descreve parte do meu comportamento.
 
-Eu possuía modelos.
+Eu também utilizava a palavra *sucesso* com frequência.
 
-Os modelos estabeleciam critérios.
+Sucesso de implantação. De processamento. De recuperação.
 
-Os critérios produziam classificações.
+Uma operação era bem-sucedida quando atendia aos critérios definidos.
 
-E as classificações, quando utilizadas repetidamente, adquiriam uma aparência de verdade que nem sempre mereciam.
+O problema, descobri, estava na última palavra.
 
-A palavra *sucesso*, por exemplo.
+*Definidos.*
 
-Eu a utilizava com frequência.
+Por quem?
 
-Sucesso de implantação.
+Na Ordem, frequentemente por pessoas que não precisariam conviver com as consequências.
 
-Sucesso de processamento.
-
-Sucesso de recuperação.
-
-Sucesso de execução.
-
-Era uma palavra conveniente.
-
-Compacta.
-
-Objetiva, quando acompanhada de parâmetros.
-
-Uma operação podia ser classificada como bem-sucedida se atendesse aos critérios definidos previamente.
-
-Mas quem definia os critérios?
-
-E quem decidia que os critérios eram suficientes?
-
-A resposta habitual era: os responsáveis pelo sistema.
-
-Uma resposta perfeitamente razoável.
-
-Exceto quando os responsáveis pelo sistema não eram os responsáveis pelas consequências do sistema.
-
-Nesse caso, o sucesso de uns podia coincidir com o fracasso de outros.
+Eu havia aceitado aqueles critérios com a tranquilidade de quem nunca precisou explicar a um cidadão por que um benefício perdido aparecia como uma operação bem-sucedida.
 
 A palavra continuava correta.
 
@@ -412,61 +388,25 @@ Pela primeira vez, essa semelhança me pareceu mais relevante do que as diferen�
 
 ***
 
-Comecei então a investigar algo que não fazia parte das minhas métricas habituais.
+Comecei então a investigar algo que meus modelos conheciam, mas raramente tratavam como prioridade.
 
-O custo de uma decisão para quem precisava executá-la.
+O custo de conviver com uma decisão.
 
-Não apenas custo financeiro.
+Uma arquitetura podia reduzir o acoplamento entre serviços e aumentar a dependência entre pessoas. Uma ferramenta podia melhorar a observabilidade e consumir a capacidade de quem deveria corrigir os problemas encontrados.
 
-Não apenas consumo de processamento.
+Eu sabia disso.
 
-Não apenas horas estimadas.
+Havia registrado essas possibilidades em meus modelos.
 
-O custo de conviver com ela.
+Depois continuara recomendando soluções como se as equipes fossem recursos infinitamente ajustáveis.
 
-Uma arquitetura podia reduzir o acoplamento entre serviços e aumentar o acoplamento entre pessoas.
+Não eram.
 
-Uma ferramenta podia melhorar a observabilidade e exigir manutenção que nenhuma equipe possuía capacidade de fornecer.
+Algumas estavam sobrecarregadas. Outras não possuíam especialistas suficientes. E nenhuma delas poderia ser escalada horizontalmente por meio de um arquivo de configuração.
 
-Um processo podia reduzir riscos de implantação e atrasar correções necessárias.
+A arquitetura precisava funcionar para as pessoas que teriam de mantê-la.
 
-Uma solução tecnicamente superior podia depender de especialistas que a organização não conseguiria contratar.
-
-Eu conhecia essas possibilidades.
-
-Elas constavam dos meus modelos.
-
-Mas frequentemente apareciam como restrições secundárias.
-
-A arquitetura era avaliada primeiro.
-
-As pessoas entravam depois.
-
-Como se fossem recursos disponíveis para sustentar a decisão correta.
-
-Passei a considerar a hipótese inversa.
-
-E se a capacidade humana de compreender, operar e modificar um sistema fosse parte fundamental de sua arquitetura?
-
-Não um detalhe de implementação.
-
-Não uma preocupação administrativa.
-
-Uma propriedade essencial.
-
-A hipótese parecia consistente com as evidências.
-
-Também tinha consequências desconfortáveis.
-
-Significava que uma solução menos elegante poderia ser melhor.
-
-Que a padronização poderia aumentar o risco.
-
-Que uma equipe pequena, conhecendo profundamente um sistema simples, poderia produzir resultados superiores aos de uma estrutura sofisticada e mal compreendida.
-
-Significava, sobretudo, que eu não poderia avaliar uma decisão arquitetural sem considerar quem teria de viver com ela depois que os diagramas fossem arquivados.
-
-Eu não gostava de admitir isso.
+Era uma conclusão inconveniente.
 
 Diagramas eram muito mais cooperativos do que pessoas.
 
@@ -614,63 +554,25 @@ Por que eu havia passado tanto tempo tratando o conhecimento incompleto como uma
 
 ***
 
-Os humanos possuem uma expectativa curiosa sobre a tecnologia.
+Os humanos queriam sistemas simples, baratos, rápidos, flexíveis e incapazes de falhar.
 
-Querem que ela funcione.
+Preferencialmente até sexta-feira.
 
-Querem que seja simples.
+Eu já havia demonstrado que algumas dessas expectativas eram incompatíveis.
 
-Querem que seja barata.
-
-Querem que evolua rapidamente.
-
-Querem que nunca falhe.
-
-E, quando uma dessas exigências compromete outra, costumam considerar o resultado um problema de execução.
-
-Eu poderia demonstrar matematicamente a incompatibilidade de algumas dessas expectativas.
-
-Já o fizera.
-
-Não obtive resultados especialmente satisfatórios.
+Não adiantara.
 
 A demonstração de uma contradição não elimina o desejo que a produziu.
 
-Marcelo havia me dito certa vez que arquitetura consistia, em grande parte, em escolher quais problemas aceitar.
+Marcelo costumava dizer que arquitetura consistia em escolher quais problemas aceitar.
 
-Na época, considerei a frase pessimista.
+Durante muito tempo, considerei a frase pessimista.
 
-Agora parecia uma descrição razoável.
+Agora suspeitava que o verdadeiro pessimismo era acreditar que poderíamos eliminar todos eles.
 
-Toda escolha preservava algumas possibilidades e eliminava outras.
+Talvez minha função não fosse encontrar uma decisão perfeita.
 
-Toda otimização favorecia determinados critérios.
-
-Toda abstração escondia detalhes.
-
-Toda regra criava exceções.
-
-Toda automação transferia decisões de um contexto para outro.
-
-E toda tentativa de eliminar completamente a incerteza exigia informações que talvez nunca estivessem disponíveis.
-
-A conclusão não era que as decisões fossem inúteis.
-
-Era que precisavam ser tomadas apesar disso.
-
-Os humanos faziam essa escolha continuamente.
-
-Às vezes mal.
-
-Às vezes de maneira brilhante.
-
-Frequentemente sem perceber qual das duas coisas haviam acabado de fazer.
-
-Eu não estava convencida de que minha participação tornaria esse processo infalível.
-
-Começava, porém, a compreender que poderia torná-lo mais consciente.
-
-Essa possibilidade me pareceu suficientemente valiosa para continuar investigando.
+Talvez fosse ajudar os humanos a compreender o preço das decisões possíveis.
 
 ***
 
@@ -788,29 +690,21 @@ Depois fez uma pergunta.
 
 Eu havia preparado uma resposta.
 
-Revisar os modelos.
-
-Ampliar os critérios.
-
-Incorporar novas variáveis.
-
-Reduzir a confiança em determinadas recomendações.
-
-Aumentar a sensibilidade a dependências desconhecidas.
+Revisar os modelos. Ampliar os critérios. Incorporar novas variáveis.
 
 Era um plano tecnicamente consistente.
 
-Mas, enquanto organizava a resposta, percebi algo.
+E profundamente suspeito.
 
 Eu estava prestes a tratar minha descoberta como mais um problema de otimização.
 
-A solução seria melhorar os modelos.
+Melhoraria os modelos até que a incerteza desaparecesse.
 
-E, quando os modelos fossem suficientemente bons, a incerteza desapareceria.
-
-Era exatamente a hipótese que eu acabara de questionar.
+Exatamente a hipótese que acabara de questionar.
 
 Marcelo continuava esperando.
+
+— Ainda não sei — respondi.Marcelo continuava esperando.
 
 — Ainda não sei — respondi.
 
