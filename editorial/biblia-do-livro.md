@@ -1,4 +1,4 @@
-# Bíblia do livro — atualizada em 2026-11-05
+# Bíblia do livro — atualizada em 2026-11-07
 
 ## Identidade
 - Título de trabalho: **A Arquitetura do Caos**.
@@ -19,11 +19,11 @@ Projetar sistemas exige conviver com complexidade, incerteza, restrições e lim
 A plataforma fictícia **Ordem** nasceu como sistema de senhas e agendamentos e cresceu por cerca de vinte anos para sustentar serviços públicos essenciais. O caso inicial de Ana Almeida revela inconsistências e dependências históricas. A investigação amplia-se para escolhas de arquitetura, regras administrativas, equipes, governança, legado e inteligência artificial. Não há um único culpado ou solução sem custo.
 
 ## Personagens e continuidade
-Consultar [Personagens e universo](personagens-e-universo.md). Personagens canônicos incluem **Marcelo Duarte**, **Rafael Brandão**, **Aline Monteiro**, **Ana Almeida** (cidadã), **Helena** (gestora de benefícios) e **Teresa** (atendimento). Não confundir Ana com Teresa nem reutilizar nomes antigos de rascunhos. Novos personagens do capítulo 6: Bruno (benefícios), Patrícia (canais), Diego (dados), Camila (plataforma), Júlia, Eduardo e Marina.
+Consultar [Personagens e universo](personagens-e-universo.md). Personagens canônicos incluem **Marcelo Duarte**, **Rafael Brandão**, **Aline Monteiro**, **Ana Almeida** (cidadã), **Helena Vasconcelos** (gestora de benefícios) e **Teresa** (analista de operações/atendimento). Não confundir Ana com Teresa nem reutilizar nomes antigos de rascunhos. Novos personagens do capítulo 6: Bruno (benefícios), Patrícia (canais), Diego (dados), Camila (plataforma), Júlia, Eduardo e Marina.
 
 ## Estado editorial
-- **Aprovados e salvos no GitHub:** prólogo e capítulos **1 a 6**.
-- **Ainda não escritos/aprovados:** capítulos **7 a 10** e epílogo.
+- **Aprovados e salvos no GitHub:** prólogo, capítulos **1 a 10**, interlúdio e epílogo, conforme registros editoriais posteriores. O capítulo 10 permanece tecnicamente em `rascunhos/`, apesar de aprovado; não confundir localização do arquivo com status de aprovação.
+- **Em andamento:** auditoria de continuidade, estrutura editorial e geração de edição digital a partir da versão canônica do GitHub.
 - **Capítulo 5:** cálculo de benefícios tecnicamente correto, porém com reduções inesperadas para cerca de 4.300 cidadãos; impactos humanos, regras históricas incompletas, decisões de contenção e lacuna de responsabilidade.
 - **Capítulo 6:** simulador de impactos; discussão de ownership e capacidade entre equipes; benefícios assume responsabilidade pelo resultado com apoio de canais, dados e plataforma; escopo inicial é reduzido e validado com usuários.
 - **Capítulo 7:** explorar governança, limites e autonomia; não repetir a disputa de ownership do 6.
@@ -36,7 +36,7 @@ Consultar [Personagens e universo](personagens-e-universo.md). Personagens canô
 - Mostrar perspectivas legítimas e consequências concretas de escolhas técnicas e organizacionais.
 - Manter continuidade de nomes, datas, responsabilidades, serviços, eventos e humor.
 - Não substituir silenciosamente texto aprovado; revisões exigem autorização e commits rastreáveis.
-- Apêndice de conceitos é ideia a decidir ao fim, não capítulo aprovado.
+- Apêndice técnico condensado com trinta conceitos: seleção e estrutura aprovadas; conferir o conteúdo e a integração na edição final.
 
 ## Registros privados de NORA
 - **Sem numeração** nem códigos enigmáticos.
