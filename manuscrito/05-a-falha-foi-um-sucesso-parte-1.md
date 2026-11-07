@@ -213,7 +213,7 @@ Mas ninguém havia demonstrado que tudo o que precisava estar escrito realmente 
 
 ***
 
-Às 11h42, Helena, responsável pela gestão dos benefícios, entrou na sala de reunião.
+Às 11h42, Helena Vasconcelos, responsável pela gestão dos benefícios, entrou na sala de reunião.
 
 Trazia uma pasta fina e uma expressão incompatível com a espessura dela.
 
