@@ -15,4 +15,4 @@ Distribuição:
 
 **Escopo protegido:** não modificar prólogo, dez capítulos, interlúdio, epílogo nem dez seções “Por trás do caos”. Somente o apêndice técnico está sujeito à revisão.
 
-**Situação da redação (atualizada em 2026-11-07):** os cinco blocos condensados (conceitos 1–32) estão salvos no GitHub e foram conferidos quanto à estrutura e à correspondência geral com a narrativa. A **seleção** de 32 conceitos está aprovada; a **aprovação textual integral** não está comprovada pelos registros disponíveis. Os cabeçalhos dos cinco blocos foram uniformizados para indicar revisão editorial. Não declarar o apêndice finalizado sem ratificação textual do autor.
+**Situação definitiva da redação (2026-11-07): APROVADA PELO AUTOR.** O autor confirmou expressamente a aprovação integral dos textos dos 32 conceitos, distribuídos nos cinco blocos condensados. Esta ratificação posterior prevalece sobre os registros anteriores de revisão pendente. Os arquivos em `apendice-tecnico/revisao-30/` são a versão canônica para a edição digital; a versão de 49 conceitos em `apendice-tecnico/` permanece como referência histórica, sem exclusão.
