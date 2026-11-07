@@ -76,3 +76,11 @@ O autor solicitou uma avaliação final específica de qualidade, analisou os re
 - **Validação:** cada capítulo 1–10 tem exatamente um título H1; existem quatro títulos H1 de partes; zero legendas de ilustrações visíveis e zero `figcaption`; 12 imagens narrativas, capa e sumário preservados; arquivo ZIP/EPUB íntegro.
 - **Versão anterior:** o EPUB sem sufixo `CORRIGIDO`, com hash `94495b6e2c990085702ce371c0612ff5c97b9ecd39376478b1a1f625983e313a`, está **substituído** e não deve ser distribuído.
 - **Próxima validação:** o autor deverá confirmar visualmente a renderização no Google Play Livros. Não alegar que esse teste foi realizado pela IA.
+
+## Correção final de montagem do apêndice — 2026-11-07
+- **Problema relatado:** ao final do EPUB, o apêndice exibia rótulos artificiais `Bloco 1`, `Bloco 2` etc. e, nos blocos II–V, um segundo cabeçalho editorial repetido.
+- **Correção de apresentação:** substituir os rótulos por cinco títulos descritivos únicos: `Princípios e decisões arquiteturais`; `Arquitetura distribuída e integração`; `Qualidade e evolução de sistemas`; `Organização e governança`; `Inteligência artificial, resiliência e impacto humano`.
+- **Preservação:** 32 conceitos e suas explicações mantidos; nenhum arquivo-fonte narrativo ou do apêndice no repositório foi modificado. Ajuste feito somente no Markdown intermediário de montagem do EPUB.
+- **Arquivo vigente:** `A_Arquitetura_do_Caos_Play_Livros_FINAL_SEM_BLOCOS.epub`; **SHA-256** `f7f0c0ca0dfd9a28c0887bb7e08e8e3d86fb8aaa9d9e54e22339cef8f2ba043e`; **5.193.106 bytes**.
+- **Verificação:** ZIP íntegro; cinco títulos descritivos presentes; nenhum cabeçalho `Bloco N`; 13 imagens JPEG (capa + 12 ilustrações); nenhum `figcaption`; capítulos 1–10 com título principal único; quatro aberturas de parte.
+- **Substitui:** `A_Arquitetura_do_Caos_FINAL_Play_Livros_CORRIGIDO.epub` e todas as edições anteriores. Falta apenas conferência visual pelo autor no Google Play Livros.
