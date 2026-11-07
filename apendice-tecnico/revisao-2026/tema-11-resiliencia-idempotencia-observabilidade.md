@@ -32,7 +32,7 @@ Esses mecanismos devem ser aplicados conforme o contexto. Repetir operações in
 
 ## 2. Idempotência — Repetir sem multiplicar o problema
 
-A **idempotência (*idempotency*)** é a propriedade pela qual executar uma operação novamente produz o mesmo efeito relevante que executá-la uma única vez.
+A **idempotência (*idempotency*)** é a propriedade pela qual executar uma operação mais de uma vez produz o mesmo efeito relevante que executá-la uma única vez, considerando as mesmas condições de operação.
 
 Imagine uma solicitação de cobrança enviada a um serviço externo. A cobrança é realizada, mas a confirmação se perde devido a uma falha de comunicação.
 
