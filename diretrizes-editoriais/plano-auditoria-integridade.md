@@ -135,3 +135,11 @@ O manuscrito aprovado é a fonte da verdade. Corrigir somente erros objetivos e 
 - **EXECUÇÃO:** atualizados os cinco cabeçalhos de status para `APROVADO PELO AUTOR` e ratificada a decisão editorial. Nenhum texto explicativo foi modificado.
 - **HISTÓRICO:** os cinco arquivos de 49 conceitos em `apendice-tecnico/` permanecem preservados como referência histórica, não como versão de publicação.
 - **PRÓXIMA FASE:** montagem e verificação dos arquivos de leitura EPUB e PDF mobile-first a partir dos conteúdos canônicos atuais, sem alterar a narrativa.
+
+## Décima quarta passagem — edição literária aprovada do capítulo 3 (2026-11-07)
+- **AUTORIZAÇÃO EXPRESSA:** autor aprovou quatro alterações específicas em `manuscrito/03-dividir-para-complicar-parte-2.md`: (1) abertura sobre fronteiras, (2) benefícios dos microsserviços, (3) reflexão sobre o desenho de Rafael, (4) recapitulação final.
+- **EXECUÇÃO:** quatro substituições textuais exatas, cada uma encontrada uma única vez no arquivo; nenhum outro trecho do manuscrito foi modificado.
+- **RESULTADO:** parte 2 passou de 21.701 para 19.311 caracteres, redução líquida de 2.390 caracteres (aproximadamente 11%).
+- **COMMIT DO MANUSCRITO:** `3f4df8590ede2f9e89d28a2de16c0fdbf668fcf5`.
+- **CONTINUIDADE:** preservadas as cenas de Ana Almeida, Marcelo, Rafael, o desenho de cinco retângulos, a descoberta de notificações e a ponte para o capítulo 4.
+- **PRÓXIMO PASSO EDITORIAL:** apresentar propostas pontuais para o capítulo 6 ou interlúdio, sem alterar prosa antes de nova aprovação.
