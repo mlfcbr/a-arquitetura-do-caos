@@ -10,7 +10,7 @@ Compreendê-la ajuda a evitar dois erros frequentes: tentar eliminar uma complex
 
 ## 1. Complexidade essencial — A dificuldade pertence ao problema?
 
-Complexidade essencial (*essential complexity*) é aquela que decorre da natureza do problema, independentemente da tecnologia utilizada.
+Complexidade essencial (*essential complexity*) corresponde às dificuldades inerentes ao problema que o software precisa resolver, e que não desaparecem simplesmente pela troca de tecnologia.
 
 Um sistema financeiro, por exemplo, pode precisar lidar com regras tributárias, conciliação, autorizações, estornos, auditoria e exigências regulatórias. Essas responsabilidades não desaparecem simplesmente porque a aplicação foi reescrita em uma linguagem moderna.
 
