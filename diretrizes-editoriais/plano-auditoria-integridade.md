@@ -45,3 +45,12 @@ O manuscrito aprovado é a fonte da verdade. Corrigir somente erros objetivos e 
 - **REGRA DE INTEGRIDADE:** não confundir uma correção de continuidade comprovada com reescrita estilística; quaisquer mudanças de causalidade ou papéis dependem de autorização.
 
 **Limite:** esta passagem cobriu cabeçalhos e transições estruturais e confronto com documentos editoriais; não equivale a validação integral de toda a narrativa.
+
+## Terceira passagem — decisões aplicadas (2026-11-07)
+- **RESOLVIDO — Título da Parte III:** o autor confirmou **“A organização do absurdo”**; capítulo 7, parte 1, padronizado conforme capítulo 6 (commit `91a4cf6`). A edição digital exibirá o título da parte apenas na sua abertura, conforme decisão anterior.
+- **RESOLVIDO — Bíblia editorial desatualizada:** atualizado o status dos capítulos 7–10, interlúdio, epílogo, apêndice aprovado e nomes canônicos (commit `334fda8`).
+- **RESOLVIDO — Colisão Ana/Teresa:** capítulo 10, parte 1, já corrigido conforme autorização do autor (commits `29a47df` e `d47f00a`).
+- **CONFIRMADO — Capítulo 10:** ambas as partes registram expressamente `STATUS: APROVADO PELO AUTOR`; a localização em `rascunhos/` é um problema de organização, não evidência de falta de aprovação. Ainda não movido para evitar quebrar referências existentes.
+- **VERIFICAÇÃO DE ARCO — ÍRIS:** introduzida no capítulo 9, atua no capítulo 10 e aparece no epílogo; sequência macro consistente nas amostras verificadas. Ainda não é validação linha a linha de causalidade e tempo.
+
+**Próximos controles:** inventário de links e referências de arquivos, consistência temporal detalhada, transições e apêndice técnico, ilustrações e artefatos digitais.
