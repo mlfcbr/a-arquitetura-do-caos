@@ -12,7 +12,7 @@ Eu mapeei os serviços que consumiam seus resultados.
 
 Júlia criou testes de caracterização.
 
-Ana ajudou a interpretar as equivalências.
+Teresa ajudou a interpretar as equivalências.
 
 Rafael identificou os impactos financeiros e operacionais.
 
@@ -382,7 +382,7 @@ Não como um milagre ocasional.
 
 ***
 
-Na sexta-feira, Ana passou pela sala de Marcelo.
+Na sexta-feira, Teresa passou pela sala de Marcelo.
 
 Trazia uma pasta antiga.
 
@@ -406,7 +406,7 @@ Ela ficou em silêncio.
 
 — Quem escreveu? — perguntou.
 
-Ana sorriu.
+Teresa sorriu.
 
 — Não lembro.
 
@@ -422,7 +422,7 @@ Júlia examinou a frase.
 
 — Por que não virou uma regra oficial?
 
-Ana pensou.
+Teresa pensou.
 
 — Porque todo mundo achava óbvio.
 
@@ -728,7 +728,7 @@ Depois respondeu:
 
 Júlia desligou o computador.
 
-Ana recolheu os documentos.
+Teresa recolheu os documentos.
 
 Rafael saiu de uma reunião.
 
