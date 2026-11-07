@@ -33,7 +33,7 @@ Revisões pontuais, sem reescrita de capítulos aprovados. Preservar versões or
 - Cap. 5: manter 99,98%, 12.486 solicitações e aproximadamente 4.300 afetados.
 - Cap. 6: propor redução da apresentação de 47 slides, ainda não substituir.
 - Cap. 6: manter as categorias de prioridades, desde que sejam sobrepostas.
-- Cap. 7: revisar exagero de 43–45 comitês na versão que está no GitHub, mas observar que **o Capítulo 7 aprovado em conversa é uma versão diferente**. Não sobrescrever nenhuma versão do Capítulo 7 sem resolver a divergência.
+- Cap. 7: **RESOLVIDO EM 2026-11-07.** O autor ratificou expressamente a versão atual do GitHub, com 43–45 comitês como recurso satírico, como texto canônico definitivo. A versão anterior dos 23 procedimentos não será reconstruída. Não modificar o capítulo sem nova autorização.
 
 ## Preservação
 O interlúdio “O problema de estar certa” está salvo em manuscrito/07-interludio-o-problema-de-estar-certa.md e aprovado. Não alterá-lo nesta auditoria. Manter todo o trabalho do Capítulo 8 apresentado na conversa, inclusive diálogos, acontecimentos e registro privado de NORA.
