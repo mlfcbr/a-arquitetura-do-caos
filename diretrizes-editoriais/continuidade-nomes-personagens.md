@@ -5,7 +5,7 @@
 - **Ana Almeida**: cidadã do incidente inicial no prólogo. Referências antigas a **Teresa** nesse contexto devem ser **Ana**.
 - **Rafael Brandão**: profissional de Operações; conferir substituições anteriores em contexto.
 - **Aline Monteiro**: liderança da Ordem; conferir substituições anteriores em contexto.
-- **Helena Duarte**: **permanece mulher e mantém o nome Helena Duarte**. A decisão provisória de substituí-la por Carlos Duarte foi cancelada.
+- **Helena (gestora de benefícios)**: permanece mulher e deve ter sobrenome diferente de Duarte para não sugerir parentesco com Marcelo Duarte. **Helena Vasconcelos** é uma proposta, ainda aguardando confirmação. A substituição por Carlos foi cancelada.
 - **Carlos**: ex-funcionário citado no capítulo 1; não confundir com Helena Duarte.
 
 ## Não confirmado
