@@ -151,3 +151,10 @@ O manuscrito aprovado é a fonte da verdade. Corrigir somente erros objetivos e 
 - **COMMITS DO MANUSCRITO:** `2eabde4f868f8a636012a71e71de8b7db83aeb38` (parte 1) e `cee42473cdcbc257e2fba723eb252418941ece62` (parte 2).
 - **CONTINUIDADE:** mantidas as cenas do simulador, os conflitos de capacidade e priorização, a decisão de responsabilidade, o registro privado e o encerramento humorístico.
 - **PRÓXIMO PASSO EDITORIAL:** revisar o interlúdio ou capítulo 8, apresentando propostas antes de qualquer alteração.
+
+## Décima sexta passagem — edição literária aprovada do interlúdio (2026-11-07)
+- **AUTORIZAÇÃO EXPRESSA:** autor aprovou quatro ajustes pontuais em `manuscrito/07-interludio-o-problema-de-estar-certa.md`: (1) reflexão sobre a palavra “sucesso”, (2) custo humano das decisões, (3) expectativas humanas sobre tecnologia, (4) hesitação na conversa final com Marcelo.
+- **EXECUÇÃO:** quatro substituições textuais delimitadas, preservando todo o restante do interlúdio, inclusive a investigação de NORA, a conversa dos dois desenvolvedores, o diálogo com Marcelo e o encerramento.
+- **RESULTADO:** arquivo de 23.532 para 21.125 caracteres; redução líquida de 2.407 caracteres (aproximadamente 10,2%).
+- **COMMIT DO MANUSCRITO:** `09f2251c2c6754d5e4e36d9a0191fefed8a710c0`.
+- **PRÓXIMO PASSO EDITORIAL:** revisar capítulo 8, apresentando propostas antes de alterações.
