@@ -61,7 +61,7 @@ Isso pode facilitar a inclusão de notificações, auditoria e integrações pos
 
 Também pode reduzir o acoplamento temporal: o publicador não precisa aguardar a conclusão de todos os consumidores.
 
-Entretanto, o fluxo de negócio pode se tornar menos explícito. Quando vários componentes reagem a eventos sucessivos, compreender o processamento completo exige boa documentação e observabilidade.
+Entretanto, fluxos distribuídos entre consumidores podem dificultar o acompanhamento de uma operação completa.
 
 **Cuidado:** substituir chamadas diretas por eventos não elimina o acoplamento quando os consumidores dependem de detalhes internos, de uma ordem rígida de execução ou de alterações coordenadas nos contratos.
 
@@ -77,10 +77,10 @@ Alguns conceitos são particularmente relevantes:
 |---|---|
 | **Entrega pelo menos uma vez (*at-least-once*)** | Uma mensagem pode ser entregue novamente; duplicidades precisam ser consideradas |
 | **Entrega no máximo uma vez (*at-most-once*)** | Uma mensagem pode não ser entregue, mas não é repetida pelo mecanismo de entrega |
-| **Idempotência** | O processamento repetido não deve multiplicar indevidamente os efeitos |
+| **Idempotência** | Proteção contra efeitos indevidos quando uma mensagem é processada novamente (Tema 11) |
 | **Ordenação** | A sequência de processamento pode precisar ser preservada dentro de determinados limites |
 
-Garantias de processamento *exatamente uma vez* (*exactly-once*) podem existir em escopos específicos, mas não devem ser confundidas com a garantia automática de que todos os efeitos de negócio ocorrerão uma única vez entre sistemas independentes.
+Algumas plataformas oferecem garantias de processamento *exatamente uma vez* (*exactly-once*) dentro de limites definidos. Isso não garante, por si só, que efeitos externos — como cobranças em outro sistema — ocorrerão apenas uma vez.
 
 **Cuidado:** presumir entrega única e ordem global sem verificar as garantias reais da plataforma é uma fonte frequente de inconsistências.
 
