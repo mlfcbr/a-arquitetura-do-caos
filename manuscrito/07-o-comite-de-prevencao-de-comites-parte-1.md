@@ -1,5 +1,5 @@
 # A Arquitetura do Caos
-*Parte III — O componente humano*
+*Parte III — A organização do absurdo*
 
 ## Capítulo 7 — O comitê de prevenção de comitês
 
