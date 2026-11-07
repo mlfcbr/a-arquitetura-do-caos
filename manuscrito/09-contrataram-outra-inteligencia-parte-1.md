@@ -44,7 +44,7 @@ Marcelo estava sentado à esquerda.
 
 Rafael Brandão examinava a apresentação.
 
-Ana Almeida acompanhava a pauta.
+Helena Vasconcelos acompanhava a pauta.
 
 Um representante do fornecedor, chamado Vicente, ocupava a posição mais próxima da tela.
 
