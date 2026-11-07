@@ -69,7 +69,7 @@ A quantidade de usuários ou o tamanho do código, isoladamente, não determinam
 
 Uma chamada entre componentes de uma mesma aplicação costuma ser diferente de uma chamada entre serviços remotos.
 
-Na comunicação pela rede, é necessário considerar indisponibilidade, tempo limite (*timeout*), retentativas (*retries*), autenticação, compatibilidade de contratos e possíveis respostas duplicadas.
+A comunicação pela rede introduz falhas parciais, latência e dependências operacionais que precisam ser tratadas explicitamente.
 
 Além disso, a autonomia de implantação pode ser comprometida quando os serviços compartilham diretamente bancos de dados, exigem liberações coordenadas ou dependem de alterações simultâneas.
 
