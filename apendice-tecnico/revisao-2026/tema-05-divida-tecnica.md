@@ -83,4 +83,4 @@ Nem toda melhoria técnica possui retorno suficiente para receber prioridade ime
 
 O diálogo entre engenharia e negócio melhora quando a dívida é traduzida em consequências compreensíveis: maior tempo para implementar mudanças, risco de falhas, dependência de especialistas ou custos operacionais adicionais.
 
-**A lição central:** dívida técnica não é necessariamente sinal de má engenharia. É uma consequência possível de escolhas feitas sob restrições. A maturidade está em reconhecer quando vale assumi-la, compreender seus custos e decidir conscientemente quando pagá-la.
+Administrar dívida técnica significa tornar explícitos os custos de decisões anteriores e decidir quando vale continuar pagando seus juros — ou investir para reduzi-los.
