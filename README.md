@@ -22,4 +22,4 @@ Livro original em desenvolvimento, em português brasileiro.
 4. Não tratar conteúdo inventado como fato histórico ou técnico; verificar informações factuais.
 5. O repositório é público por escolha do autor. A publicação aqui não implica que o manuscrito esteja finalizado.
 
-**Estado atual:** prólogo aprovado pelo autor; capítulos ainda não redigidos.
+**Estado atual (2026-11-07):** prólogo, capítulos 1–10, interlúdio e epílogo presentes no repositório e registrados como aprovados. Auditoria de continuidade e edição digital ainda em andamento. Ver [auditoria](diretrizes-editoriais/plano-auditoria-integridade.md) e [decisões finais](diretrizes-editoriais/aprovacoes-edicao-final.md).
