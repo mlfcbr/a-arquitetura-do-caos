@@ -84,4 +84,4 @@ Entretanto, sua aplicação excessiva pode gerar abstrações prematuras, interf
 
 Os princípios precisam ser equilibrados com DRY, KISS e YAGNI. Uma arquitetura não se torna melhor simplesmente por apresentar mais interfaces, camadas ou padrões de projeto.
 
-**A lição central:** SOLID ajuda a organizar responsabilidades e dependências para facilitar mudanças. Seu valor está na qualidade das decisões de projeto, não na quantidade de abstrações criadas.
+SOLID oferece critérios para organizar responsabilidades e dependências. Sua aplicação deve tornar as mudanças mais seguras e compreensíveis, não multiplicar abstrações sem necessidade.
