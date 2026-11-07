@@ -143,3 +143,11 @@ O manuscrito aprovado é a fonte da verdade. Corrigir somente erros objetivos e 
 - **COMMIT DO MANUSCRITO:** `3f4df8590ede2f9e89d28a2de16c0fdbf668fcf5`.
 - **CONTINUIDADE:** preservadas as cenas de Ana Almeida, Marcelo, Rafael, o desenho de cinco retângulos, a descoberta de notificações e a ponte para o capítulo 4.
 - **PRÓXIMO PASSO EDITORIAL:** apresentar propostas pontuais para o capítulo 6 ou interlúdio, sem alterar prosa antes de nova aprovação.
+
+## Décima quinta passagem — edição literária aprovada do capítulo 6 (2026-11-07)
+- **AUTORIZAÇÃO EXPRESSA:** autor aprovou quatro alterações específicas: (1) inventário das quatro equipes, (2) explicação das quatro propostas, (3) diálogo sobre responsabilidade, (4) reflexão final de NORA.
+- **EXECUÇÃO:** duas substituições delimitadas em `manuscrito/06-o-organograma-tambem-compila-parte-1.md` e duas em `manuscrito/06-o-organograma-tambem-compila-parte-2.md`. Demais trechos preservados, inclusive registro privado de NORA.
+- **RESULTADO:** parte 1 de 12.845 para 11.850 caracteres (-995); parte 2 de 11.520 para 10.420 (-1.100); redução total de 2.095 caracteres, cerca de 8,6%.
+- **COMMITS DO MANUSCRITO:** `2eabde4f868f8a636012a71e71de8b7db83aeb38` (parte 1) e `cee42473cdcbc257e2fba723eb252418941ece62` (parte 2).
+- **CONTINUIDADE:** mantidas as cenas do simulador, os conflitos de capacidade e priorização, a decisão de responsabilidade, o registro privado e o encerramento humorístico.
+- **PRÓXIMO PASSO EDITORIAL:** revisar o interlúdio ou capítulo 8, apresentando propostas antes de qualquer alteração.
