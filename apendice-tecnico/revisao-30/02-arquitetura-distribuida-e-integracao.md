@@ -2,7 +2,7 @@
 
 > **Bloco II — Arquitetura distribuída e integração**
 >
-> **STATUS EDITORIAL:** seleção dos 32 conceitos aprovada pelo autor; redação condensada em revisão. Complemento independente; não altera a narrativa.
+> **STATUS: APROVADO PELO AUTOR.** Seleção e redação definitiva dos 32 conceitos aprovadas em 2026-11-07. Complemento independente; não altera a narrativa.
 
 ### 7. Monólitos e microsserviços
 
