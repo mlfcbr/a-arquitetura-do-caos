@@ -102,3 +102,10 @@ O autor solicitou uma avaliação final específica de qualidade, analisou os re
 - **Arquivo vigente:** `A_Arquitetura_do_Caos_Play_Livros_EDICAO_COMENTADA.epub`; **SHA-256** `5d19b581d9886be2dce2788ad9ef784f8871ae009c29953b72b920178170a564`; tamanho **5.193.159 bytes**.
 - **Validação:** ZIP íntegro; XHTML bem formado; exatamente dez capítulos com um complemento `Por trás do caos` cada; `Nota ao leitor` presente; seção agrupada antiga ausente; 13 imagens JPEG; nome do autor correto nos metadados e na página de rosto; CSS da capa preservado. **Renderização no Google Play Livros ainda não testada visualmente.**
 - **Status:** esta edição substitui os EPUBs anteriores. Manuscrito narrativo aprovado permanece congelado.
+
+## Acabamento visual da edição pessoal — 2026-11-07
+- **Decisão do autor:** manter na folha de rosto a indicação `Primeira edição · 2026`, embora a obra seja destinada ao próprio autor e a amigos, sem venda ou previsão de reescrita.
+- **Folha de rosto:** título centralizado, subtítulo discreto, nome do autor em corpo menor, edição e ano na base. Apenas apresentação XHTML/CSS; nenhuma alteração de narrativa.
+- **Leituras complementares:** as dez seções `Por trás do caos` receberam cabeçalho visualmente distinto com filete lateral e indicação opcional, sem colocar os parágrafos em itálico e sem caixa integral; mantidos os textos originais.
+- **EPUB vigente:** `A_Arquitetura_do_Caos_Play_Livros_EDICAO_PESSOAL_2026.epub`, SHA-256 `73bca6b0c3a5ba6e1145f93b2d69e709d6c5875f6f2b73b289dd428f575a97d5`, 5.193.813 bytes.
+- **Validação:** integridade ZIP, XML bem-formado, dez complementos presentes e folha de rosto atualizada. Renderização visual no Google Play Livros ainda não confirmada pelo autor.
