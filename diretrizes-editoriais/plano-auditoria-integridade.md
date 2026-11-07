@@ -90,3 +90,9 @@ O manuscrito aprovado é a fonte da verdade. Corrigir somente erros objetivos e 
 - **CONTINUIDADE:** a reflexão sobre decisões historicamente justificáveis e revisão posterior prepara o interlúdio e o capítulo 8. Não foi identificada contradição causal inequívoca nos trechos comparados.
 - **RESSALVA EDITORIAL:** alguns diálogos têm caráter expositivo; isso é sugestão estilística, não erro objetivo, e não autoriza reescrita de texto aprovado.
 - **STATUS:** parecer favorável, **aguardando ratificação expressa do autor** para encerrar a divergência entre a versão de 23 procedimentos e a versão atual de 43 comitês. Nenhuma linha narrativa alterada nesta passagem.
+
+## Oitava passagem — ratificação definitiva do capítulo 7 (2026-11-07)
+- **APROVAÇÃO EXPRESSA DO AUTOR:** após leitura integral e parecer editorial, o autor confirmou a versão atualmente armazenada no GitHub como **versão canônica e definitiva** do capítulo 7, **“O comitê de prevenção de comitês”**.
+- **ARQUIVOS CANÔNICOS:** `manuscrito/07-o-comite-de-prevencao-de-comites-parte-1.md` e `manuscrito/07-o-comite-de-prevencao-de-comites-parte-2.md`, incluindo a abertura com **43 comitês**, a evolução do processo de governança e o encerramento sem registro privado de NORA.
+- **DIVERGÊNCIA ENCERRADA POR DECISÃO AUTORAL:** a versão anterior iniciada por **23 procedimentos** não precisa ser recuperada nem reconstruída para a edição final. As observações das passagens sexta e sétima permanecem como histórico de auditoria, mas o status **“pendente de ratificação”** está superado por esta decisão.
+- **PRESERVAÇÃO:** nenhuma alteração textual foi feita no capítulo 7. Eventuais mudanças futuras exigem nova aprovação específica. Seguir auditoria de continuidade nos demais capítulos e materiais.
