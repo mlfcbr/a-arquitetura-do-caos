@@ -1,6 +1,6 @@
 # Plano editorial — novo apêndice técnico
 
-Status: **diretrizes e índice definitivo de 15 temas aprovados; temas 01 a 14 aprovados e salvos; tema 15 pendente de avaliação**.
+Status: **diretrizes e índice definitivo de 15 temas aprovados; temas 01 a 15 aprovados e salvos; revisão editorial e integração ao livro pendentes**.
 Data: 2026-11-07.
 
 ## Limites
@@ -73,4 +73,5 @@ O índice anterior de 30 temas foi reduzido após revisão editorial e confronto
 - **Tema 12 — Verificação, validação e resultados de negócio: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-12-verificacao-validacao-resultados-de-negocio.md`.
 - **Tema 13 — Modernização de sistemas legados e conhecimento perdido: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-13-modernizacao-sistemas-legados-conhecimento-perdido.md`.
 - **Tema 14 — Lei de Conway, governança e autonomia: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-14-lei-de-conway-governanca-autonomia.md`.
-- **Tema 15: NÃO APROVADO**, aguardando apresentação e avaliação.
+- **Tema 15 — Inteligência artificial, evidências e supervisão humana: APROVADO** pelo autor em 2026-11-07, na versão condensada, arquivo `apendice-tecnico/revisao-2026/tema-15-inteligencia-artificial-evidencias-supervisao-humana.md`.
+- **Todos os 15 temas: APROVADOS.** A integração editorial e a geração de nova edição do livro dependem de revisão final e aprovação específica; preservar integralmente prólogo, capítulos 1–10, interlúdio, epílogo e textos «Por trás do caos».
