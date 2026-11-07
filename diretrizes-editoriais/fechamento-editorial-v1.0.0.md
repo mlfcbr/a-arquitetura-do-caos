@@ -93,3 +93,12 @@ O autor solicitou uma avaliação final específica de qualidade, analisou os re
 - **SHA-256:** `f8ee42437de5566701cc1aa85007045277645eadfcb843c16ed3351d1574faff`; tamanho 5.193.290 bytes.
 - **Validação realizada:** integridade ZIP, XML bem-formado para arquivos XHTML/OPF/NCX, nome correto nos metadados e página de rosto, regras CSS presentes. **Não foi possível verificar visualmente a renderização no aplicativo Google Play Livros**; o autor deverá conferir a capa no dispositivo.
 - **Preservação:** nenhum capítulo, apêndice, imagem ou conteúdo literário foi modificado; somente metadados, página de rosto e estilo da capa dentro do EPUB. O novo arquivo substitui as edições EPUB anteriores.
+
+## Evolução de organização de leitura — 2026-11-07
+- **Autorização do autor:** manter a narrativa integral e mover os dez textos `Por trás do caos` para o final dos respectivos capítulos, adicionando uma página introdutória adequada a um romance.
+- **Título adotado:** `Nota ao leitor`, antes do prólogo. Texto novo explica que a leitura complementar é opcional e que o apêndice técnico segue disponível para consulta.
+- **Alterações de montagem:** dez complementos originais movidos sem reescrita, cada um sob `Por trás do caos` e `Leitura complementar · opcional`, após o encerramento narrativo do capítulo; removida a antiga seção agrupada no final. Apêndice de 32 conceitos mantido. Não alterados os textos da história, prólogo, interlúdio ou epílogo.
+- **Preservados:** metadados com autor `Marcelo Corrêa`, CSS de capa centralizada, 12 ilustrações e capa, quatro partes e títulos limpos do apêndice.
+- **Arquivo vigente:** `A_Arquitetura_do_Caos_Play_Livros_EDICAO_COMENTADA.epub`; **SHA-256** `5d19b581d9886be2dce2788ad9ef784f8871ae009c29953b72b920178170a564`; tamanho **5.193.159 bytes**.
+- **Validação:** ZIP íntegro; XHTML bem formado; exatamente dez capítulos com um complemento `Por trás do caos` cada; `Nota ao leitor` presente; seção agrupada antiga ausente; 13 imagens JPEG; nome do autor correto nos metadados e na página de rosto; CSS da capa preservado. **Renderização no Google Play Livros ainda não testada visualmente.**
+- **Status:** esta edição substitui os EPUBs anteriores. Manuscrito narrativo aprovado permanece congelado.
