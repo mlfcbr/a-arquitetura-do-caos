@@ -82,7 +82,7 @@ Da mesma forma, uma mudança pode melhorar o tempo médio de atendimento, mas pi
 
 É importante observar distribuições, exceções e grupos afetados, não apenas médias e totais agregados.
 
-**Cuidado:** otimizar uma métrica isoladamente pode incentivar comportamentos que melhoram o indicador enquanto prejudicam o objetivo real.
+Uma métrica deve ser interpretada à luz do objetivo que pretende representar. Melhorar o indicador não é suficiente quando o resultado real piora.
 
 ## 6. Qualidade é uma responsabilidade compartilhada
 
