@@ -40,7 +40,7 @@ Por exemplo, um “cliente” pode representar uma organização contratante no 
 
 Essas representações não precisam ser idênticas. Cada contexto deve preservar as informações e regras necessárias às suas responsabilidades.
 
-**Cuidado:** um contexto delimitado não corresponde obrigatoriamente a um microsserviço, banco de dados ou equipe. Ele representa uma fronteira de modelo e significado, que pode ser implementada de diferentes maneiras.
+Um contexto delimitado é uma fronteira na qual determinado modelo de domínio e sua linguagem possuem significado consistente. Ele não precisa corresponder a um microsserviço, banco de dados ou equipe.
 
 ## 4. DDD estratégico e tático — Duas perspectivas complementares
 
