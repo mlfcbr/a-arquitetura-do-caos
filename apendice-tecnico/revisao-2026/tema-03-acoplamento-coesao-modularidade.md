@@ -40,7 +40,7 @@ Um módulo deve oferecer funcionalidades claras e, sempre que possível, protege
 
 Essa organização permite que equipes compreendam, testem e modifiquem partes do sistema sem precisar conhecer todos os seus detalhes.
 
-A modularidade não depende de microsserviços. Uma aplicação monolítica pode ser altamente modular, enquanto um conjunto de microsserviços pode apresentar dependências tão intensas que qualquer alteração exige coordenação entre todos eles.
+A modularidade independe da forma de implantação: pode existir tanto em uma aplicação monolítica quanto em sistemas distribuídos.
 
 **Cuidado:** criar módulos apenas para distribuir arquivos ou classes não garante modularidade. As fronteiras precisam refletir responsabilidades reais, e não apenas uma organização visual do código.
 
