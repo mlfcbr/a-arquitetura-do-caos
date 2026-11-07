@@ -56,3 +56,13 @@ O autor solicitou uma avaliação final específica de qualidade, analisou os re
 **Checklist de publicação:** confirmar integridade do conteúdo contra a versão canônica; capa identificada no pacote; sumário navegável; quatro páginas de abertura de parte; não duplicar partes de capítulos; prólogo, dez capítulos, interlúdio e epílogo; dez textos “Por trás do caos”; apêndice de 32 conceitos; ilustrações previstas e com legendas/acessibilidade quando aplicável; não incluir notas de STATUS nem documentos editoriais; validar estrutura EPUB e testar leitura no Play Livros. Registrar o commit-fonte e identificador do EPUB produzido.
 
 **Tag Git `v1.0.0`:** a criação da tag foi autorizada, mas não havia ferramenta conectada com permissão para criá-la. Não afirmar que existe sem verificá-la. O commit de fechamento anterior foi `aef09c6ac59c8caa038dcd16aeda1f2910b25712`; este registro posterior de avaliação deve integrar o congelamento antes de eventual tag.
+
+## EPUB final gerado a partir do ZIP atualizado (2026-11-07)
+- **Arquivo:** `A_Arquitetura_do_Caos_FINAL_Play_Livros.epub`.
+- **Fonte:** ZIP da branch `main` enviado pelo autor após a confirmação do commit `d9116963e882f1b9e3d753ac2a865c991cef60c8`.
+- **SHA-256 do EPUB:** `94495b6e2c990085702ce371c0612ff5c97b9ecd39376478b1a1f625983e313a`.
+- **Tamanho:** 5.194.102 bytes.
+- **Geração:** Pandoc EPUB3, conteúdo refluível em português do Brasil, sumário navegável, CSS de leitura, capa incorporada, 12 ilustrações extraídas da edição ilustrada anterior e 32 verbetes do apêndice canônico.
+- **Inspeção automática:** 4 aberturas de partes em seções próprias; prólogo; capítulos 1–10; interlúdio após o capítulo 7; epílogo; 10 leituras complementares; 5 blocos do apêndice; 13 imagens JPEG no pacote (capa + 12 ilustrações); nenhuma ocorrência do marcador `STATUS: APROVADO` nas páginas XHTML.
+- **Observação de integridade:** nenhuma alteração foi realizada nos arquivos-fonte narrativos; a limpeza de marcadores e junção das partes de capítulos foram feitas apenas na montagem. As imagens foram reaproveitadas da edição anterior, com distribuição sequencial prólogo, capítulos 1–10 e epílogo. Não declarar teste de importação no Google Play Livros antes de o autor realizá-lo.
+- **Disponibilização:** arquivo produzido no ambiente da conversa para download; não foi enviado ao GitHub como binário. Este registro preserva as decisões e a identificação criptográfica da versão.
