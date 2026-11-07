@@ -46,7 +46,7 @@ Entretanto, governança não precisa significar centralização de todas as esco
 
 Uma abordagem eficaz diferencia decisões que exigem alinhamento organizacional daquelas que podem ser tomadas pelas próprias equipes.
 
-**Cuidado:** quando toda decisão depende de autorização externa, a governança pode se transformar em um gargalo. O processo criado para reduzir riscos passa a produzir atrasos, dependências e perda de responsabilidade.
+Quando toda decisão depende de autorização externa, a governança deixa de orientar as equipes e passa a limitar sua capacidade de agir. O controle precisa ser proporcional ao risco da decisão.
 
 ## 4. Autonomia com limites claros
 
@@ -86,7 +86,7 @@ Uma alternativa é estabelecer critérios claros para identificar decisões que 
 
 Decisões locais, reversíveis e de baixo impacto podem permanecer sob responsabilidade das equipes.
 
-Registros de decisões arquiteturais (*Architecture Decision Records*, ou **ADRs**) ajudam a documentar escolhas importantes, seus motivos e consequências, sem necessariamente exigir estruturas complexas de aprovação.
+Os registros de decisões arquiteturais (ADRs), apresentados no Tema 06, permitem preservar decisões relevantes sem transformar cada escolha em uma autorização obrigatória.
 
 **Cuidado:** a quantidade de pessoas envolvidas em uma decisão não determina sua qualidade. Participação deve acrescentar conhecimento e responsabilidade, não apenas etapas ao processo.
 
