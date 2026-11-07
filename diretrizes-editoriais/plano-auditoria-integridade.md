@@ -36,3 +36,12 @@ O manuscrito aprovado é a fonte da verdade. Corrigir somente erros objetivos e 
 - **PUBLICAÇÃO:** capítulo 10 permanece na pasta `rascunhos/` embora integre a narrativa; confirmar status editorial antes da geração final.
 
 **Escopo desta passagem:** conferência automatizada de nomes antigos e nomes completos nos arquivos narrativos, seguida de leitura contextual das ocorrências suspeitas. A auditoria profunda de cronologia, transições e conceitos técnicos permanece em andamento, não validada.
+
+## Segunda passagem — estrutura e transições (2026-11-07)
+- **PENDÊNCIA DE DECISÃO — Título da Parte III:** capítulo 6 usa **“Parte III — A organização do absurdo”**, mas capítulo 7 usa **“Parte III — O componente humano”**. São títulos diferentes para a mesma parte. Como o autor aprovou aberturas únicas de partes, confirmar o título canônico antes de alterar qualquer capítulo ou índice.
+- **INCONSISTÊNCIA DOCUMENTAL — Bíblia do livro:** `editorial/biblia-do-livro.md` (datada 2026-11-05) afirma que capítulos 7–10 e epílogo ainda não foram escritos/aprovados, mas os arquivos existem e há registro de aprovação final. Atualizar o status editorial após confirmar a localização definitiva do capítulo 10.
+- **INCONSISTÊNCIA DE PUBLICAÇÃO — Capítulo 10:** as duas partes estão em `rascunhos/`, apesar de seus cabeçalhos declararem aprovação pelo autor. Não mover automaticamente antes de conferir referências e o pipeline de geração.
+- **VALIDADO PARCIALMENTE — Aberturas:** capítulo 3 inicia a Parte II; capítulo 6 inicia a Parte III. O capítulo 7 repete um título divergente da Parte III, embora a decisão editorial seja exibir a parte somente na abertura. A remoção visual da repetição é de diagramação, não exige mudar o texto narrativo.
+- **REGRA DE INTEGRIDADE:** não confundir uma correção de continuidade comprovada com reescrita estilística; quaisquer mudanças de causalidade ou papéis dependem de autorização.
+
+**Limite:** esta passagem cobriu cabeçalhos e transições estruturais e confronto com documentos editoriais; não equivale a validação integral de toda a narrativa.
