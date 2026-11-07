@@ -66,3 +66,13 @@ O autor solicitou uma avaliação final específica de qualidade, analisou os re
 - **Inspeção automática:** 4 aberturas de partes em seções próprias; prólogo; capítulos 1–10; interlúdio após o capítulo 7; epílogo; 10 leituras complementares; 5 blocos do apêndice; 13 imagens JPEG no pacote (capa + 12 ilustrações); nenhuma ocorrência do marcador `STATUS: APROVADO` nas páginas XHTML.
 - **Observação de integridade:** nenhuma alteração foi realizada nos arquivos-fonte narrativos; a limpeza de marcadores e junção das partes de capítulos foram feitas apenas na montagem. As imagens foram reaproveitadas da edição anterior, com distribuição sequencial prólogo, capítulos 1–10 e epílogo. Não declarar teste de importação no Google Play Livros antes de o autor realizá-lo.
 - **Disponibilização:** arquivo produzido no ambiente da conversa para download; não foi enviado ao GitHub como binário. Este registro preserva as decisões e a identificação criptográfica da versão.
+
+## Correção de diagramação EPUB — títulos e legendas duplicados (2026-11-07)
+- **Relato do autor:** no Google Play Livros, as páginas iniciais dos capítulos exibiam título repetido, linha de parte repetida e legenda desnecessária sob a ilustração; exemplo visual fornecido do capítulo 3.
+- **Causa:** o Markdown intermediário de montagem continha um título `# Capítulo` seguido por imagem cujo texto alternativo era tratado pelo conversor como legenda visível; nos capítulos 1–7 também havia linhas editoriais `*Parte ...*` e `## Capítulo ...` repetindo cabeçalhos já existentes. O prólogo tinha linha de título duplicada.
+- **Correção exclusivamente de montagem:** retiradas sete linhas de parte duplicadas, sete subtítulos de capítulo duplicados, um título duplicado do prólogo; as 12 ilustrações passaram a ser imagens sem legenda visível. Não houve modificação dos arquivos-fonte narrativos do GitHub.
+- **Arquivo substituto:** `A_Arquitetura_do_Caos_FINAL_Play_Livros_CORRIGIDO.epub`.
+- **SHA-256:** `b339a310daaa39f1d0b87a9a442bd66f870e75403f9ce69bf02c0be387eb348a`.
+- **Validação:** cada capítulo 1–10 tem exatamente um título H1; existem quatro títulos H1 de partes; zero legendas de ilustrações visíveis e zero `figcaption`; 12 imagens narrativas, capa e sumário preservados; arquivo ZIP/EPUB íntegro.
+- **Versão anterior:** o EPUB sem sufixo `CORRIGIDO`, com hash `94495b6e2c990085702ce371c0612ff5c97b9ecd39376478b1a1f625983e313a`, está **substituído** e não deve ser distribuído.
+- **Próxima validação:** o autor deverá confirmar visualmente a renderização no Google Play Livros. Não alegar que esse teste foi realizado pela IA.
