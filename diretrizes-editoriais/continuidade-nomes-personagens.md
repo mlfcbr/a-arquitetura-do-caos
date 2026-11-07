@@ -1,14 +1,21 @@
-# Continuidade dos nomes de personagens
+# Continuidade dos nomes de personagens — decisões atualizadas
 
-Decisões confirmadas:
+## Confirmados
+- **Marcelo Duarte**: personagem técnico experiente apresentado à NORA no prólogo. Referências antigas a **Henrique** nesse contexto devem ser **Marcelo**.
+- **Ana Almeida**: cidadã do incidente inicial no prólogo. Referências antigas a **Teresa** nesse contexto devem ser **Ana**.
+- **Rafael Brandão**: profissional de Operações; conferir substituições anteriores em contexto.
+- **Aline Monteiro**: liderança da Ordem; conferir substituições anteriores em contexto.
+- **Helena Duarte**: **permanece mulher e mantém o nome Helena Duarte**. A decisão provisória de substituí-la por Carlos Duarte foi cancelada.
+- **Carlos**: ex-funcionário citado no capítulo 1; não confundir com Helena Duarte.
 
-| Nome anterior | Nome definitivo |
-| --- | --- |
-| Henrique Duarte | Marcelo Duarte |
-| Marcelo Brandão | Rafael Brandão |
-| Lívia Monteiro | Aline Monteiro |
-| Teresa Almeida | Ana Almeida |
-| Helena Duarte | Carlos Duarte |
-| Augusto | Marcelo |
+## Não confirmado
+- **Augusto → Marcelo**: **NÃO aplicar**. Não foi identificada com segurança a identidade de Augusto; pode ser resíduo editorial. Investigar eventual ocorrência em contexto antes de qualquer mudança. Se não existir personagem Augusto na versão vigente, retirar a regra antiga, sem criar personagem novo.
 
-**Atenção:** corrigir tanto nomes completos quanto referências isoladas (Henrique, Teresa, Helena etc.), examinando cada ocorrência em contexto para evitar substituir pessoas diferentes. A personagem Helena Duarte passa a ser o personagem masculino Carlos Duarte; ajustar pronomes, artigos, flexões e concordâncias onde necessário, preservando o enredo e a redação aprovada fora dessas correções. Auditar prólogo, todos os capítulos, interlúdio, epílogo, textos complementares, EPUB e PDF. Não considerar as edições anteriores definitivas até concluir a revisão e regenerar os formatos.
+## Revisão de continuidade
+1. Conferir cada nome completo e menção isolada no prólogo, capítulos, interlúdio, epílogo e materiais complementares.
+2. Não fazer substituições globais que possam fundir personagens distintos.
+3. Preservar narrativa aprovada, alterando apenas nomes comprovadamente inconsistentes e concordâncias necessárias.
+4. Regenerar EPUB e PDF após a auditoria, pois edições anteriores podem conter nomes antigos.
+
+## Alteração aplicada
+- O arquivo `manuscrito/00-prologo.md` foi atualizado: **Henrique → Marcelo** e **Teresa → Ana** nas referências ao técnico e à cidadã do incidente.
