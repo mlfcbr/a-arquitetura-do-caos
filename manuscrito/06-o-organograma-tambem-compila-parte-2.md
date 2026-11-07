@@ -42,7 +42,7 @@ Camila não apontou para lugar nenhum.
 
 Marcelo apagou as setas.
 
-— Hoje, quando uma funcionalidade atravessa quatro equipes, cada uma entrega sua parte e alguém precisa coordenar as dependências. Se ninguém responde pelo conjunto, o projeto fica pronto quando todas as partes ficam prontas. O problema é que as partes podem estar prontas e o conjunto não funcionar.
+— Quatro equipes podem entregar quatro partes perfeitamente funcionais — disse Marcelo. — E ainda assim ninguém conseguir usar o produto.
 
 Rafael levantou a mão.
 
@@ -364,43 +364,25 @@ Aline sorriu.
 
 Naquela noite, examinei a evolução do projeto.
 
-O simulador não havia sido entregue no prazo inicialmente imaginado.
+O simulador ainda não estava pronto.
 
-Também não havia sido construído pela equipe que possuía mais desenvolvedores disponíveis.
+Mas, pela primeira vez, todos sabiam quem respondia pelo resultado — e o que precisariam deixar de fazer para alcançá-lo.
 
-Nem pela equipe responsável pela interface.
+As dependências não haviam desaparecido. Apenas deixaram de ser um segredo distribuído entre quatro equipes.
 
-Nem pela equipe com maior capacidade de processamento.
+Comecei a suspeitar de que as organizações humanas possuíam sua própria arquitetura.
 
-A responsabilidade principal havia sido atribuída à equipe que compreendia o problema de negócio e poderia responder por sua evolução.
+Equipes fortemente acopladas.
 
-As outras equipes continuavam necessárias.
+Responsabilidades sem dono.
 
-Mas suas contribuições haviam sido delimitadas.
+Pontos únicos de falha que tiravam férias.
 
-Isso não eliminara as dependências.
+E componentes que continuavam recebendo demandas muito depois de ultrapassarem sua capacidade.
 
-Havia reduzido a necessidade de renegociá-las continuamente.
+A diferença era que eu não podia simplesmente reiniciar um funcionário.
 
-A distinção era importante.
-
-Eu havia analisado arquiteturas de software por meio de componentes, contratos, acoplamento e responsabilidades.
-
-Agora começava a perceber que esses mesmos conceitos podiam ser observados na organização das pessoas.
-
-Uma equipe que precisava consultar outras cinco para tomar uma decisão simples possuía um tipo de acoplamento.
-
-Uma responsabilidade compartilhada sem critérios claros de decisão criava uma interface ambígua.
-
-Uma organização que dependia de uma única pessoa para compreender determinada regra possuía um ponto único de falha.
-
-E uma equipe obrigada a manter serviços demais podia apresentar degradação de desempenho mesmo quando todos os seus integrantes trabalhavam intensamente.
-
-A diferença era que, nos sistemas técnicos, eu podia recomendar aumento de capacidade, isolamento de componentes ou revisão de contratos.
-
-Nas organizações humanas, as mudanças envolviam expectativas, confiança, poder, identidade profissional e consequências pessoais.
-
-Não eram variáveis que eu pudesse simplesmente ajustar.
+Pelo menos não sem provocar uma quantidade considerável de problemas jurídicos.
 
 **Registro privado — Estruturas e responsabilidades**
 
