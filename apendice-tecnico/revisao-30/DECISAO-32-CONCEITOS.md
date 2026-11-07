@@ -15,4 +15,4 @@ Distribuição:
 
 **Escopo protegido:** não modificar prólogo, dez capítulos, interlúdio, epílogo nem dez seções “Por trás do caos”. Somente o apêndice técnico está sujeito à revisão.
 
-**Situação da redação:** Parte I condensada salva; Parte II condensada apresentada para avaliação, ainda sem confirmação expressa de aprovação do texto. Demais partes pendentes.
+**Situação da redação (atualizada em 2026-11-07):** os cinco blocos condensados (conceitos 1–32) estão salvos no GitHub e foram conferidos quanto à estrutura e à correspondência geral com a narrativa. A **seleção** de 32 conceitos está aprovada; a **aprovação textual integral** não está comprovada pelos registros disponíveis. Os cabeçalhos dos cinco blocos foram uniformizados para indicar revisão editorial. Não declarar o apêndice finalizado sem ratificação textual do autor.
