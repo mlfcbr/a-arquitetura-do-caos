@@ -1,7 +1,5 @@
 # Capítulo 10 — O defeito que nos mantém vivos
 
-> **STATUS: APROVADO PELO AUTOR.** Capítulo 10 aprovado com referências históricas ajustadas para cinco anos.
-
 A rotina executava todos os dias às duas da manhã.
 
 Não constava do inventário de aplicações.
