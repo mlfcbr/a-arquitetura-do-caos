@@ -1,7 +1,5 @@
 # Capítulo 10 — O defeito que nos mantém vivos (continuação)
 
-> **STATUS: APROVADO PELO AUTOR.** Capítulo 10 aprovado com referências históricas ajustadas para cinco anos.
-
 ***
 
 A equipe decidiu observar a rotina antes de modificá-la.
