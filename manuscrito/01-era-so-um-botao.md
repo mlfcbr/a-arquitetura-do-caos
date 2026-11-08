@@ -699,7 +699,7 @@ Gostei menos dele do que de Marcelo.
 
 Rafael abriu um painel de operações.
 
-— Temos um problema maior. A mesma rotina que desfez a correção dos dados da senhora está processando registros antigos de outras pessoas.
+— Temos um problema maior. A mesma rotina que desfez a correção dos dados de Ana Almeida está processando registros antigos de outras pessoas.
 
 — Por que está fazendo isso? — perguntou Marcelo.
 
