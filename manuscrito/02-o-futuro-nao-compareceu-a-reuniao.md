@@ -281,7 +281,7 @@ A arquitetura, aparentemente, exigia fazer isso mesmo quando as informações ne
 
 Abri o registro de mudanças.
 
-Havia uma proposta para executar uma correção emergencial na rotina de reconciliação de cadastros.
+Havia uma proposta para executar uma correção emergencial na rotina de reconciliação de cadastros, após as inconsistências que haviam feito Ana Almeida aparecer em três lugares ao mesmo tempo.
 
 A mudança fora solicitada às 7h52.
 
