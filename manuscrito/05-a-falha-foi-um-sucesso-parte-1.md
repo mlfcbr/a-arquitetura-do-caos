@@ -95,7 +95,7 @@ Uma melhoria arquitetural importante.
 
 O problema era o resultado.
 
-— Dezoito vírgula quatro por cento — disse Marcelo.
+— Uma redução de dezoito vírgula quatro por cento no valor total concedido — disse Marcelo.
 
 Rafael confirmou.
 
