@@ -1,6 +1,6 @@
-# Sumário editorial — estado atualizado em 2026-11-07
+# Sumário editorial — estado atualizado em 2026-11-08
 
-**Estrutura aprovada:** prólogo, dez capítulos e epílogo. **Meta:** aproximadamente 100 páginas; estimativas de páginas são orientativas e dependem da diagramação. Prólogo, capítulos 1–10, interlúdio e epílogo presentes e registrados como aprovados; auditoria de continuidade em andamento.
+**Estrutura aprovada:** prólogo, dez capítulos e epílogo. **Meta:** aproximadamente 100 páginas; estimativas de páginas são orientativas e dependem da diagramação. Prólogo, capítulos 1–10, interlúdio e epílogo presentes e registrados como aprovados; auditoria de continuidade concluída.
 
 ## Prólogo — Uma espécie peculiarmente confiante [APROVADO]
 NORA investiga registros incompatíveis da cidadã Ana Almeida e conhece a complexidade histórica da plataforma Ordem.
@@ -29,6 +29,6 @@ Conclusão do arco de NORA, sem obrigação de apresentar novos conceitos.
 ## Progressão dramática
 1–2: origem da complexidade e decisões; 3–4: fronteiras técnicas e sistemas distribuídos; 5: sucesso técnico versus consequências humanas; 6: fronteiras organizacionais e responsabilidade; 7: governança e autonomia; 8: legado e conhecimento perdido; 9: confronto entre inteligências e critérios; 10: decisão arquitetural madura e consequências; epílogo: reavaliação de NORA.
 
-**Apêndice de conceitos:** 32 entradas aprovadas, conforme `apendice-tecnico/revisao-30/DECISAO-32-CONCEITOS.md`. Revisão textual do apêndice e sua integração final ainda pendentes.
+**Apêndice de conceitos:** 15 temas definitivos, aprovados e revisados, conforme `apendice-tecnico/revisao-2026/plano-editorial.md`. A integração na edição de teste foi aprovada pelo autor; a versão anterior de 32 conceitos permanece preservada como histórico em `apendice-tecnico/revisao-30/`. A publicação definitiva é uma etapa distinta.
 
 **Nota:** planejamento é direção editorial, não fórmula de capítulo. Não adicionar conceitos só para completar uma lista. Não alterar manuscritos aprovados sem autorização explícita.
