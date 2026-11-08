@@ -320,7 +320,7 @@ As duas coisas nem sempre coincidiam.
 
 Naquela tarde, Eduardo apareceu na sala.
 
-Eu o conhecia pelos registros históricos da Ordem.
+Eu já conhecia Eduardo das discussões sobre o simulador de benefícios e dos registros históricos da Ordem.
 
 Era um dos poucos profissionais que haviam trabalhado nos primeiros anos do Motor de Elegibilidade Consolidada.
 
