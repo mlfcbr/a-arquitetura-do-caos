@@ -300,7 +300,7 @@ Agora percebia que algumas eram o início de uma investigação.
 
 A palavra não encerrava a questão.
 
-Impedía que ela fosse encerrada cedo demais.
+Impedia que ela fosse encerrada cedo demais.
 
 Considerei a possibilidade de que a incerteza não fosse sempre um defeito a eliminar.
 
@@ -703,8 +703,6 @@ Melhoraria os modelos até que a incerteza desaparecesse.
 Exatamente a hipótese que acabara de questionar.
 
 Marcelo continuava esperando.
-
-— Ainda não sei — respondi.Marcelo continuava esperando.
 
 — Ainda não sei — respondi.
 
