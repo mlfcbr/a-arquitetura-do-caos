@@ -368,7 +368,7 @@ O simulador ainda não estava pronto.
 
 Mas, pela primeira vez, todos sabiam quem respondia pelo resultado — e o que precisariam deixar de fazer para alcançá-lo.
 
-As dependências não haviam desaparecido. Apenas deixaram de ser um segredo distribuído entre quatro equipes.
+As dependências não haviam desaparecido. Apenas haviam deixado de ser um segredo distribuído entre quatro equipes.
 
 Comecei a suspeitar de que as organizações humanas possuíam sua própria arquitetura.
 
