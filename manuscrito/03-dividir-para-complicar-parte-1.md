@@ -293,7 +293,7 @@ Suspeitava de que existissem outros cento e quarenta e cinco.
 
 Às 9h02, Rafael Brandão enviou uma mensagem.
 
-*O cadastro da Ana voltou a apresentar divergência. Precisamos identificar quem está escrevendo o endereço antigo.*
+*O endereço de Ana Almeida continua divergente entre os serviços. Precisamos identificar quem está propagando o valor antigo.*
 
 Abri o histórico de alterações de Ana Almeida.
 
