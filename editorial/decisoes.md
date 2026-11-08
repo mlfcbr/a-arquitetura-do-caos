@@ -48,3 +48,9 @@
 - Manter a abertura com **43 comitês**, a progressão de governança orientada por risco e o encerramento em que NORA decide não criar registro privado.
 - A versão anterior, iniciada por **23 procedimentos**, deixa de ser uma pendência de recuperação; não reconstruí-la nem substituir silenciosamente o capítulo.
 - A aprovação preserva o texto integral. Auditorias de continuidade e montagem digital continuam independentes desta decisão.
+
+## 2026-11-08 — Aprovação editorial do capítulo 10
+- **Status:** aprovado pelo autor.
+- **Capítulo:** `manuscrito/10-o-defeito-que-nos-mantem-vivos-parte-1.md` e `manuscrito/10-o-defeito-que-nos-mantem-vivos-parte-2.md`.
+- **Decisão:** capítulo 10 aprovado com referências históricas ajustadas para **cinco anos**.
+- **Organização:** o aviso de aprovação, anteriormente repetido no início das duas partes, foi transferido para este registro editorial, sem alterar a narrativa literária.
