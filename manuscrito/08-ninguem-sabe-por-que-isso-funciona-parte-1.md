@@ -252,7 +252,7 @@ A segunda encontrava a situação encerrada dela.
 
 A divergência deveria interromper o pagamento.
 
-Sem a segunda verificação, o motor utilizava o cadastro ativo e prosseguia.
+Sem a segunda verificação, o motor associava o direito histórico à pensão ao cadastro ativo de Osvaldo e prosseguia com o pagamento.
 
 A regra que parecia duplicada não estava verificando a mesma coisa duas vezes.
 
@@ -382,7 +382,7 @@ Isso me pareceu um bom motivo para ouvi-lo.
 
 ***
 
-Quinze anos antes, a Ordem não existia como plataforma integrada.
+Quinze anos antes, quando o Motor de Elegibilidade Consolidada ainda fazia parte de uma estrutura fragmentada, a Ordem não existia como plataforma integrada.
 
 Havia sistemas municipais, estaduais e federais que trocavam arquivos em horários determinados, cada um com suas próprias regras, identificadores e interpretações da palavra *compatível*.
 
