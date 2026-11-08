@@ -28,7 +28,7 @@ A operação estava, segundo os relatórios, saudável.
 
 ÍRIS classificou o comportamento como anômalo.
 
-Eu também havia identificado a divergência.
+Eu também havia identificado os primeiros sinais da divergência.
 
 Três semanas antes.
 
