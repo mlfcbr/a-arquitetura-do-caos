@@ -348,7 +348,7 @@ Júlia iniciou a análise.
 
 Eu comparei os resultados esperados.
 
-A rotina permaneceu indisponível por quarenta e três minutos.
+O ambiente permaneceu indisponível por quarenta e três minutos, impedindo temporariamente a execução da rotina.
 
 Nenhum pagamento indevido foi realizado.
 
