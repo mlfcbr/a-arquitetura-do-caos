@@ -221,7 +221,7 @@ Examinei o histórico.
 
 Às 3h13, a elegibilidade apresentou falhas.
 
-Às 3h14, o volume de chamadas ao cadastro quase triplicou.
+Às 3h14, o volume de chamadas ao cadastro quase triplicou, impulsionado pelas tentativas automáticas dos serviços dependentes.
 
 Às 3h15, a situação piorou.
 
