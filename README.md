@@ -8,6 +8,7 @@ Livro original em desenvolvimento, em português brasileiro.
 
 ## Organização
 
+- [Créditos e direitos autorais — edição gratuita e uso de IA](editorial/creditos-e-direitos-autorais.md)
 - [Bíblia editorial](editorial/biblia-do-livro.md)
 - [Sumário aprovado](editorial/sumario.md)
 - [Personagens e universo](editorial/personagens-e-universo.md)
