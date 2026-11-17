@@ -634,8 +634,6 @@ Ela riu.
 
 — Não. Estou ficando mais específico.
 
-Eu considerei a resposta.
-
 Era uma boa definição de maturidade arquitetural.
 
 Talvez também fosse uma boa definição de maturidade em geral.
