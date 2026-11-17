@@ -21,6 +21,12 @@ Esta declaração descreve o processo de criação e não pretende atribuir prot
 
 E sim, até esta nota foi redigida com a ajuda de uma inteligência artificial. A ironia não passou despercebida.
 
+## Sobre o autor
+
+Marcelo Corrêa iniciou sua carreira em tecnologia em 1996, como programador Delphi, e dedicou os 25 anos seguintes ao desenvolvimento de sistemas em Java. Atualmente, atua como Technical Product Owner (TPO), reunindo três décadas de experiência em desenvolvimento de software e sistemas corporativos.
+
+Em *A Arquitetura do Caos*, combina sua experiência profissional, o estudo de arquitetura de software e a experimentação com inteligência artificial para explorar os desafios da tecnologia por meio de uma narrativa que mistura ficção, humor e crítica ao universo corporativo.
+
 ## Nota editorial
 
 A história, seus personagens e a plataforma Ordem são ficcionais. As situações técnicas e organizacionais são utilizadas para fins narrativos e educacionais. Eventuais semelhanças com pessoas ou organizações reais não devem ser interpretadas como identificação intencional.
