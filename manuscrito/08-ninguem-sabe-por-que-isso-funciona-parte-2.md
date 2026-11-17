@@ -258,9 +258,9 @@ Primeiro, descobririam quais comportamentos existiam.
 
 Depois, identificariam quais deveriam ser preservados, corrigidos ou eliminados.
 
-Eu considerei a abordagem adequada.
+A abordagem me pareceu adequada.
 
-Também considerei relevante o fato de que, semanas antes, talvez tivesse recomendado gerar automaticamente os testes a partir do comportamento atual e utilizá-los como evidência de equivalência.
+Havia, porém, outro detalhe relevante: semanas antes, talvez eu tivesse recomendado gerar automaticamente os testes a partir do comportamento atual e utilizá-los como evidência de equivalência.
 
 Uma estratégia eficiente.
 
@@ -358,7 +358,7 @@ Depois sentou.
 
 — Porque não lembrava que lembrava.
 
-Considerei a frase.
+A frase merecia atenção.
 
 Era uma descrição irritantemente precisa da memória humana.
 
