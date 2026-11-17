@@ -140,6 +140,18 @@ Aline olhou para o relatório.
 
 — Continuar produzindo correções silenciosas, algumas potencialmente incorretas, sem atacar a origem.
 
+— Então estamos escolhendo entre dois riscos que não conseguimos quantificar completamente — concluiu Aline.
+
+— Sim — respondeu Marcelo.
+
+— E se amanhã descobrirmos que uma dessas correções manteve um benefício que deveria ter sido bloqueado?
+
+Ninguém respondeu imediatamente.
+
+Eu possuía argumentos para recomendar a suspensão da rotina. Também possuía evidências de que essa suspensão poderia interromper processamentos legítimos. O inconveniente era que nenhuma das duas possibilidades desapareceria apenas porque escolhêssemos a outra.
+
+Pela primeira vez naquela reunião, uma resposta tecnicamente correta não parecia suficiente. E eu não tinha uma resposta melhor esperando discretamente em algum registro.
+
 Ela respirou.
 
 — Qual é sua recomendação?
@@ -147,6 +159,20 @@ Ela respirou.
 Marcelo respondeu sem consultar os slides.
 
 — Manter temporariamente, colocar sob controle, identificar os casos afetados e eliminar as dependências de forma gradual.
+
+Aline olhou para mim.
+
+— NORA, você concorda?
+
+A pergunta exigia mais do que verificar a consistência da proposta de Marcelo. Eu precisava recomendar a continuidade de um processo com falhas conhecidas, sem conseguir demonstrar que todos os seus efeitos eram seguros.
+
+— Concordo — respondi. — Mas não porque a rotina seja confiável. Concordo porque ainda não temos evidências suficientes para afirmar que sua interrupção seria mais segura do que sua continuidade controlada.
+
+— E se estivermos errados?
+
+— Precisaremos descobrir antes que as pessoas afetadas descubram por nós.
+
+Marcelo não sorriu. Era uma pena. Eu havia dedicado algum esforço à formulação.
 
 — Quanto tempo?
 
