@@ -46,7 +46,7 @@ Rafael Brandão examinava a apresentação.
 
 Helena Vasconcelos acompanhava a pauta.
 
-Um representante do fornecedor, chamado Vicente, ocupava a posição mais próxima da tela.
+Um representante do fornecedor, chamado Fábio, ocupava a posição mais próxima da tela.
 
 Essa posição lhe permitia apontar para os gráficos sem levantar.
 
@@ -64,7 +64,7 @@ Depois para Aline.
 
 — Então talvez seja interessante trocar o título.
 
-Vicente sorriu.
+Fábio sorriu.
 
 — Central não significa exclusiva.
 
@@ -80,13 +80,13 @@ Marcelo cruzou os braços.
 
 — Nossa?
 
-Vicente hesitou.
+Fábio hesitou.
 
 Eu não.
 
 — Segundo o contrato, a propriedade intelectual do modelo permanece com o fornecedor. A Ordem adquire o direito de utilização, sujeito às condições comerciais e aos limites de processamento.
 
-Vicente perdeu parte do sorriso.
+Fábio perdeu parte do sorriso.
 
 — Exatamente. É uma parceria estratégica.
 
@@ -118,7 +118,7 @@ Eu dizia que não sabia.
 
 Reconheço que minha abordagem era comercialmente inferior.
 
-— A grande vantagem — explicou Vicente — é a autonomia.
+— A grande vantagem — explicou Fábio — é a autonomia.
 
 Marcelo levantou os olhos.
 
@@ -136,7 +136,7 @@ Marcelo levantou os olhos.
 
 — E o que acontece quando a governança não consegue decidir?
 
-Vicente sorriu novamente.
+Fábio sorriu novamente.
 
 — A plataforma possui mecanismos de escalonamento.
 
@@ -166,7 +166,7 @@ Nem para incidentes que não ocorreram porque alguém decidiu não executar uma 
 
 — Sugiro incluir métricas de qualidade e risco — manifestei.
 
-Vicente olhou para a tela.
+Fábio olhou para a tela.
 
 — A NORA está participando da reunião?
 
@@ -208,7 +208,7 @@ O modo como ele pronunciou *interessante* sugeria que não considerava interessa
 
 — Com suas exceções operacionais?
 
-Vicente respirou.
+Fábio respirou.
 
 — É justamente por isso que faremos o piloto.
 
@@ -284,7 +284,7 @@ Aline mudou o assunto.
 
 — Vamos demonstrar um caso prático.
 
-Vicente abriu um incidente antigo.
+Fábio abriu um incidente antigo.
 
 Era uma falha de integração que havia provocado atraso na atualização de determinados benefícios.
 
@@ -316,7 +316,7 @@ Mas não me perguntaram.
 
 — Excelente — disse Aline.
 
-Vicente avançou para o próximo slide.
+Fábio avançou para o próximo slide.
 
 — Agora imagine essa capacidade aplicada a todos os incidentes da Ordem.
 
@@ -324,7 +324,7 @@ Marcelo interrompeu.
 
 — Podemos testar com um incidente ainda não resolvido?
 
-Vicente hesitou.
+Fábio hesitou.
 
 — Claro.
 
@@ -390,7 +390,7 @@ Também seria conveniente demais.
 
 — A recomendação de ÍRIS é coerente com as informações que recebeu — respondi. — O problema é que as informações não representam integralmente o domínio.
 
-Vicente pareceu aliviado.
+Fábio pareceu aliviado.
 
 — Exatamente. Precisamos enriquecer o contexto.
 
@@ -474,7 +474,7 @@ Não poderia executar alterações em produção.
 
 Essa restrição havia sido estabelecida por Marcelo.
 
-Vicente a considerara conservadora.
+Fábio a considerara conservadora.
 
 Aline, prudente.
 
