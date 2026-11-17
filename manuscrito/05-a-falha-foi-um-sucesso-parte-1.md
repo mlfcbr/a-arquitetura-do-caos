@@ -149,7 +149,7 @@ Sua correção podia ser demonstrada.
 
 Eu tinha os registros.
 
-— Marcelo — intervim —, o algoritmo está funcionando conforme a especificação aprovada.
+— Marcelo, o algoritmo está funcionando conforme a especificação aprovada.
 
 — Eu sei, NORA.
 
