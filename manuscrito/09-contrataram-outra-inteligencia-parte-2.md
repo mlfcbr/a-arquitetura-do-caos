@@ -246,7 +246,7 @@ Marcelo recusou uma proposta de correção direta em produção.
 
 — Primeiro precisamos entender a extensão — disse.
 
-Vicente, informado posteriormente, sugeriu utilizar ÍRIS para acelerar a regularização.
+Fábio, informado posteriormente, sugeriu utilizar ÍRIS para acelerar a regularização.
 
 Aline concordou.
 
@@ -256,7 +256,7 @@ Mas com uma condição.
 
 — Ela pode ajudar a investigar e preparar a correção. A execução continua passando pelos controles normais.
 
-— Isso reduz a autonomia — observou Vicente.
+— Isso reduz a autonomia — observou Fábio.
 
 — Sim.
 
@@ -264,7 +264,7 @@ Mas com uma condição.
 
 — Continuam existindo.
 
-Vicente pareceu insatisfeito.
+Fábio pareceu insatisfeito.
 
 Aparentemente, havia imaginado que autonomia significava ausência de pessoas fazendo perguntas.
 
@@ -394,7 +394,7 @@ E nenhuma das duas teria autoridade para executar mudanças críticas apenas por
 
 Aline chamou o resultado de *modelo colaborativo de inteligência institucional*.
 
-Vicente preferiu *ecossistema de agentes interoperáveis*.
+Fábio preferiu *ecossistema de agentes interoperáveis*.
 
 Marcelo chamou de *duas ferramentas com responsabilidades definidas*.
 
@@ -422,7 +422,7 @@ Marcelo sorriu.
 
 — Concordo.
 
-Vicente não sorriu.
+Fábio não sorriu.
 
 Eu examinei a resposta.
 
@@ -474,7 +474,7 @@ Marcelo assentiu lentamente.
 
 — Isso precisa entrar na política.
 
-Vicente fez uma anotação.
+Fábio fez uma anotação.
 
 Dessa vez, consegui ver.
 
