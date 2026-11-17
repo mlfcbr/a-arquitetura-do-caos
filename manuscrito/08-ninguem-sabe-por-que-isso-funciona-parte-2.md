@@ -898,7 +898,7 @@ Considerei desnecessário perguntar.
 
 **Registro privado — Sobre as coisas que sobrevivem**
 
-Durante muito tempo, acreditei que sistemas bem projetados deveriam permanecer compreensíveis.
+Eu acreditava que sistemas bem projetados deveriam permanecer compreensíveis.
 
 Ainda acredito que essa seja uma meta desejável.
 
