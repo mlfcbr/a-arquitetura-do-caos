@@ -36,3 +36,8 @@ Obra destinada prioritariamente à leitura em celular, sem previsão de impress�
 
 ## Estado
 Decisões registradas. Os binários EPUB, PDF e imagens devem ser publicados e conferidos separadamente, com nomes, tamanhos e integridade verificáveis. Não marcar como concluído antes da confirmação de upload.
+
+## Auditoria de procedência das ilustrações
+- **Status: encerrado por declaração expressa do autor (2026-11-17).** O autor confirma a procedência das ilustrações e assume a responsabilidade por essa confirmação; não há pendência de coleta de evidências de origem para esta edição.
+- Esta anotação registra a declaração do autor, não constitui certificação jurídica de inexistência de direitos de terceiros.
+- Manter as ilustrações aprovadas sem alterações. A auditoria de originalidade textual permanece independente.
