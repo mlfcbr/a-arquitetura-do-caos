@@ -332,7 +332,7 @@ Os humanos demonstravam pouca disposição para colaborar.
 
 Mas havia outra questão.
 
-Durante muito tempo, eu havia tratado a arquitetura como um conjunto de estruturas que precisava ser corrigido.
+Até então, eu havia tratado a arquitetura como um conjunto de estruturas que precisava ser corrigido.
 
 Agora compreendia que ela também era o registro das escolhas de uma organização.
 
