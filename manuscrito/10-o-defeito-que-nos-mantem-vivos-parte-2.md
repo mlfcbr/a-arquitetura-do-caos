@@ -758,7 +758,7 @@ Sérgio verificou os alertas.
 
 Aline recebeu o relatório executivo.
 
-Vicente enviou uma proposta de expansão contratual.
+Fábio enviou uma proposta de expansão contratual.
 
 Algumas coisas nunca mudam.
 
