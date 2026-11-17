@@ -19,6 +19,8 @@ O autor definiu a proposta, os personagens, o universo narrativo, as diretrizes 
 
 Esta declaração descreve o processo de criação e não pretende atribuir proteção autoral exclusiva a elementos que, isoladamente, possam não ser protegidos pela legislação aplicável.
 
+E sim, até esta nota foi redigida com a ajuda de uma inteligência artificial. A ironia não passou despercebida.
+
 ## Nota editorial
 
 A história, seus personagens e a plataforma Ordem são ficcionais. As situações técnicas e organizacionais são utilizadas para fins narrativos e educacionais. Eventuais semelhanças com pessoas ou organizações reais não devem ser interpretadas como identificação intencional.
