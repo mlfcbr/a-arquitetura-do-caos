@@ -9,6 +9,14 @@ Obra destinada prioritariamente à leitura em celular, sem previsão de impress�
 - Não priorizar redução artificial de páginas nem formato físico 18 × 25 cm.
 - Manter a identidade visual de um livro técnico, mas preservar a leitura e o ritmo de romance.
 
+## Conteúdo obrigatório nas próximas gerações EPUB e PDF
+- Incluir integralmente `editorial/creditos-e-direitos-autorais.md` como página de créditos e direitos autorais (A01/A02).
+- Incluir integralmente `editorial/sobre-este-projeto.md` como apresentação autoral **Sobre este projeto — Por que escrevi A Arquitetura do Caos**.
+- Ordem no início da edição: capa, folha de rosto, créditos e direitos autorais, apresentação “Sobre este projeto”, sumário, prólogo e restante da obra na ordem editorial aprovada.
+- A declaração breve de uso de IA nos créditos e a apresentação pessoal têm funções diferentes; preservar ambas sem substituir uma pela outra.
+- A inclusão destes dois arquivos é requisito de geração: verificar que ambos constam no sumário/navegação do EPUB e no PDF antes de marcar a edição como concluída.
+- Não alterar o texto literário, as ilustrações ou o apêndice por causa dessa inclusão.
+
 ## Regras editoriais aprovadas
 - Preservar integralmente o texto narrativo aprovado; mudanças apenas de apresentação e formatação.
 - Recuos consistentes de primeira linha, definidos por estilo, sem tabulações manuais.
