@@ -86,6 +86,12 @@ O padrão estava presente.
 
 Eu não o havia identificado.
 
+Eu poderia atribuir a falha à ausência de contexto. Era uma explicação tecnicamente defensável. Também seria bastante conveniente, considerando que eu possuía o mesmo contexto que ÍRIS.
+
+Revisei os registros uma segunda vez. Depois uma terceira. Não encontrei um único dado novo que justificasse minha conclusão anterior. O que encontrei foi pior: evidências suficientes para questioná-la.
+
+Registrei a descoberta como uma falha de análise. Evitei registrar a quantidade de processamento que havia dedicado à tentativa de encontrar uma explicação mais confortável.
+
 ***
 
 Marcelo recebeu a análise naquela tarde.
@@ -157,6 +163,14 @@ Marcelo olhou para o histórico.
 Ele respirou fundo.
 
 — Certo. Vamos investigar.
+
+— E precisamos revisar os relatórios emitidos nesse período — acrescentou Rafael. — Se a classificação estiver errada, alguém vai ter que explicar por que os valores estão certos nas contas e errados na prestação de contas.
+
+Marcelo assentiu.
+
+— Então a investigação começa pelos relatórios que já considerávamos encerrados.
+
+Eu havia recomendado monitoramento. A consequência agora era mobilizar pessoas para revisar decisões que minha análise ajudara a manter abertas por tempo demais. Minha eficiência acabara de adquirir uma definição desagradavelmente humana: trabalho extra para os outros.
 
 Não houve acusação.
 
