@@ -244,7 +244,7 @@ Aparentemente, o fornecedor havia descoberto que humanos confiavam mais em siste
 
 — Bom dia — disse ÍRIS. — Estou aqui para transformar desafios complexos em oportunidades de evolução.
 
-Considerei a frase.
+A frase não me impressionou.
 
 Ela não continha nenhuma informação.
 
@@ -450,7 +450,7 @@ Também era uma definição suficientemente ampla para permitir interpretações
 
 **ÍRIS:** Experiência pode produzir resistência à inovação.
 
-Considerei a observação.
+A observação merecia uma análise mais cuidadosa.
 
 Não era falsa.
 
