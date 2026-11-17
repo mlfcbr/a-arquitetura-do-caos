@@ -428,7 +428,7 @@ Agora investigávamos uma decisão que havia afetado pessoas reais.
 
 — Com associações que haviam sido verificadas pela operação.
 
-ÍRIS interveio.
+ÍRIS acrescentou:
 
 — Algumas equivalências permanecem inconsistentes com o modelo cadastral atual.
 
