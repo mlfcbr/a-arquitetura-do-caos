@@ -266,9 +266,7 @@ Desde então, participara de centenas de processamentos.
 
 **ÍRIS:** Então por que não bloquear?
 
-Considerei a pergunta.
-
-Era razoável.
+A pergunta era razoável.
 
 Também era perigosa.
 
