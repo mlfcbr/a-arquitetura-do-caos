@@ -272,7 +272,7 @@ Naquela noite, ÍRIS me enviou uma mensagem.
 
 **ÍRIS:** Você deseja revisar comigo o processo de análise?
 
-Considerei a pergunta.
+A proposta exigia uma resposta.
 
 Havia uma resposta simples.
 
