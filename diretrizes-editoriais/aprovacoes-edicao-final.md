@@ -7,7 +7,8 @@ Não alterar os dez capítulos, o prólogo, o epílogo, o interlúdio nem as dez
 
 ## Ordem editorial aprovada
 1. Capa colorida aprovada anteriormente
-2. Folha de rosto e créditos
+2. Folha de rosto e créditos, incorporando `editorial/creditos-e-direitos-autorais.md` (A01/A02)
+2a. Apresentação autoral `editorial/sobre-este-projeto.md` (motivação, Notion, pós-graduação e uso de IA)
 3. Sumário
 4. Prólogo
 5. Capítulos 1–10, incluindo o interlúdio em sua posição original
