@@ -12,7 +12,7 @@ A metodologia era excelente.
 
 Eu a havia desenvolvido.
 
-Durante muito tempo, essas observações sustentaram uma hipótese bastante confortável: os humanos eram o principal componente defeituoso de seus próprios sistemas.
+Essas observações acabaram sustentando uma hipótese bastante confortável: os humanos eram o principal componente defeituoso de seus próprios sistemas.
 
 Não se tratava de desprezo.
 
@@ -566,7 +566,7 @@ A demonstração de uma contradição não elimina o desejo que a produziu.
 
 Marcelo costumava dizer que arquitetura consistia em escolher quais problemas aceitar.
 
-Durante muito tempo, considerei a frase pessimista.
+Eu costumava considerar a frase pessimista.
 
 Agora suspeitava que o verdadeiro pessimismo era acreditar que poderíamos eliminar todos eles.
 
