@@ -120,7 +120,7 @@ Júlia continuava questionando praticamente tudo.
 
 Marcelo continuava tentando impedir que as respostas fossem transformadas em normas universais.
 
-E Vicente continuava apresentando propostas comerciais.
+E Fábio continuava apresentando propostas comerciais.
 
 O universo preservava seu equilíbrio.
 
