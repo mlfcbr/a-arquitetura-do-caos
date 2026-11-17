@@ -9,11 +9,14 @@ Livro original em desenvolvimento, em português brasileiro.
 ## Organização
 
 - [Créditos e direitos autorais — edição gratuita e uso de IA](editorial/creditos-e-direitos-autorais.md)
+- [Sobre este projeto — motivação, processo de estudo e criação com IA](editorial/sobre-este-projeto.md)
 - [Bíblia editorial](editorial/biblia-do-livro.md)
 - [Sumário aprovado](editorial/sumario.md)
 - [Personagens e universo](editorial/personagens-e-universo.md)
 - [Registro de decisões](editorial/decisoes.md)
 - [Prólogo — Uma espécie peculiarmente confiante](manuscrito/00-prologo.md)
+
+**Próxima edição EPUB/PDF:** incorporar obrigatoriamente os dois documentos editoriais acima, conforme [instruções de edição digital](diretrizes-editoriais/edicao-digital-e-audiolivro.md), antes do sumário e do prólogo.
 
 ## Política de preservação
 
