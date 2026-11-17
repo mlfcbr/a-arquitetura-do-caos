@@ -73,7 +73,7 @@ Rafael permaneceu olhando para ele.
 
 — Essa frase deveria ser proibida antes das oito da manhã.
 
-Intervim.
+Resolvi participar da conversa.
 
 — Posso apresentar uma explicação mais precisa.
 
