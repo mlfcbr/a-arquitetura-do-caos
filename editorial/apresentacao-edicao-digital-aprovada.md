@@ -12,7 +12,7 @@ Assim nasceu NORA, uma inteligência artificial sarcástica encarregada de inves
 
 O projeto foi desenvolvido de forma iterativa, com participação ativa de inteligência artificial.
 
-Defini a proposta, os personagens, o universo narrativo, o estilo de humor, os assuntos técnicos e as decisões editoriais. A IA colaborou na geração e reformulação dos textos, na organização dos conceitos, nas revisões e na criação das ilustrações.
+Defini a proposta, o universo narrativo, o estilo de humor, os assuntos técnicos e as decisões editoriais. A IA colaborou na geração e reformulação dos textos, na organização dos conceitos, nas revisões e na criação das ilustrações.
 
 Ao longo do processo, capítulos foram reescritos, inconsistências corrigidas, explicações técnicas refinadas e decisões reconsideradas. O GitHub serviu para organizar os arquivos, preservar versões e registrar a evolução do projeto.
 
