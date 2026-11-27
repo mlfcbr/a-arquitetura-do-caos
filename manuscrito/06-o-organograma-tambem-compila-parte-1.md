@@ -21,7 +21,7 @@ Sua finalidade era permitir que a gestão alterasse parâmetros, comparasse cen�
 
 Uma ideia sensata.
 
-Particularmente depois que uma alteração tecnicamente bem-sucedida havia reduzido os benefícios de aproximadamente quatro mil e trezentas pessoas.
+Particularmente depois que a Ordem conseguira concluir mais depressa os pedidos de mobilidade e conceder menos benefícios.
 
 A proposta era simples: antes de mudar uma regra, descobrir o que aconteceria.
 
@@ -319,13 +319,13 @@ Marcelo largou os talheres.
 
 — Ele teria mostrado as diferenças. Isso não significa que alguém teria interpretado corretamente os resultados.
 
-— Mas teríamos visto quatro mil pessoas perdendo benefício.
+— Mas teríamos visto a queda nas concessões.
 
-— Se tivéssemos incluído os complementos históricos na comparação.
+— Se tivéssemos pedido ao simulador que contasse quantos pedidos acabavam em concessão.
 
-— E não incluiríamos?
+— E não teríamos pedido?
 
-— Não sei. Foi justamente o que deixamos de compreender na implantação anterior.
+— Naquela manhã, vinte e seis pessoas olharam para o painel. Quem perguntou quantos benefícios tinham sido concedidos?
 
 Rafael olhou para o prato.
 

@@ -36,7 +36,7 @@
 
 ## 2026-11-05 — Consolidação editorial dos capítulos 5 e 6
 - Capítulos **1–6** e prólogo aprovados e salvos no GitHub. Manter manuscritos aprovados intactos sem autorização específica.
-- Capítulo 5: a entrega do novo cálculo de benefícios é tecnicamente bem-sucedida, mas reduz valores inesperadamente; o conflito central são as consequências e a responsabilidade pelo resultado, não outra falha de rede.
+- Capítulo 5: a entrega do novo cálculo de benefícios é tecnicamente bem-sucedida, mas reduz valores inesperadamente; o conflito central são as consequências e a responsabilidade pelo resultado, não outra falha de rede. **Decisão histórica, substituída em 2026-11-27 pelo registro ao final deste documento.**
 - Capítulo 6: a discussão sobre **qual equipe desenvolve, sustenta e responde pela nova funcionalidade** foi deliberadamente transferida para um capítulo próprio, usando o simulador de impacto de benefícios como continuidade causal do capítulo 5.
 - No capítulo 6, benefícios responde pelo resultado, com contribuições delimitadas de canais, dados e plataforma; prioridades precisam ser renegociadas para liberar capacidade.
 - Capítulos 7–10 mantêm o planejamento de governança/autonomia, legado/dívida técnica, IA e maturidade arquitetural. Preservar diversidade de conflitos e evitar estrutura narrativa repetitiva.
@@ -54,3 +54,7 @@
 - **Capítulo:** `manuscrito/10-o-defeito-que-nos-mantem-vivos-parte-1.md` e `manuscrito/10-o-defeito-que-nos-mantem-vivos-parte-2.md`.
 - **Decisão:** capítulo 10 aprovado com referências históricas ajustadas para **cinco anos**.
 - **Organização:** o aviso de aprovação, anteriormente repetido no início das duas partes, foi transferido para este registro editorial, sem alterar a narrativa literária.
+
+## 2026-11-27 — Continuidade entre os capítulos 5 e 6
+
+O conflito aprovado para o capítulo 5 é o encerramento automático de solicitações incompletas. A regra foi implementada como especificada. As metas operacionais melhoraram enquanto as concessões diminuíram. O capítulo 6 retoma a escolha dos indicadores na conversa sobre o simulador e mantém a disputa entre equipes pela responsabilidade sobre a entrega.
