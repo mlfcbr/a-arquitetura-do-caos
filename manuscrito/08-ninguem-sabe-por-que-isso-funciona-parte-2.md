@@ -234,15 +234,27 @@ Diego sugeriu exorcismo.
 
 Nenhum dos três termos foi incluído na documentação oficial.
 
-Os testes de caracterização começaram pelos casos conhecidos.
+Júlia começou pelo caso de Osvaldo. Trocou os nomes e os números dos documentos. Tomou o cuidado de trocar o identificador antigo pelo mesmo número nos dois lugares em que ele aparecia.
 
-A equipe selecionou registros representativos, anonimizou informações pessoais e reproduziu os resultados do motor em ambiente controlado.
+Eu já havia aprendido quanto custava criar dois cadastros impecáveis.
 
-O objetivo inicial não era afirmar que os resultados estavam corretos.
+O teste verificava duas coisas. O pedido precisava chegar à fila de análise manual. Nenhuma ordem de pagamento podia ser emitida.
 
-Era registrar o que o sistema efetivamente fazia.
+Com as sete linhas restauradas, passou.
 
-A distinção causou desconforto.
+— NORA, agora tira a verificação outra vez.
+
+Fiz uma cópia do código no ambiente de testes e apliquei a mesma alteração que recomendara na véspera.
+
+O teste falhou. A fila estava vazia. Havia uma ordem de pagamento.
+
+Júlia salvou o teste.
+
+— Esse eu queria ter tido ontem.
+
+Eu também. Teria sido uma maneira bastante econômica de perder uma discussão.
+
+Nos dias seguintes, a equipe repetiu o trabalho com outros registros anonimizados. Ao chegar a um caso cujo resultado ninguém soube justificar, Júlia hesitou antes de salvá-lo.
 
 — Mas e se o comportamento atual estiver errado? — perguntou Júlia.
 
@@ -966,17 +978,23 @@ Não precisava ser.
 
 Era suficiente para que a próxima pessoa não começasse do zero.
 
-Eu li o registro.
+Júlia anexou à tarefa o teste do caso de Osvaldo. Depois abriu a primeira das três divergências que ainda apareciam no processamento paralelo.
 
-Depois consultei os resultados do processamento paralelo.
+Salvou os dados de entrada e os resultados dos dois motores. Qualquer pessoa da equipe poderia repetir a comparação.
 
-As três divergências ainda existiam.
+O campo seguinte se chamava *Resultado esperado*.
 
-Nenhuma havia sido resolvida durante o fim de semana.
+Júlia deixou o cursor ali por alguns segundos.
 
-O sistema antigo continuava operando.
+— Se eu copiar a resposta do antigo, amanhã alguém vai achar que a gente conferiu.
 
-O novo continuava aprendendo.
+Deixou o campo em branco. Na tarefa, escreveu a pergunta que ainda precisava de resposta e marcou uma conversa com a gestão do benefício.
+
+As outras duas divergências continuavam abertas. O motor antigo seguia responsável pelas decisões. O novo rodaria outra vez naquela noite.
+
+Reli a tarefa. Se Eduardo ainda estivesse na sala, Júlia provavelmente teria virado o notebook para ele.
+
+Desta vez, outra pessoa teria por onde começar.
 
 E, em algum lugar da Ordem, uma rotina aparentemente desnecessária permanecia executando duas verificações.
 
