@@ -15,23 +15,31 @@ Eram 10h14 de uma terça-feira, três semanas depois do incidente que havia expo
 
 Na sala de apresentação, vinte e seis pessoas acompanhavam a demonstração dos resultados do programa *Ordem Mais Simples*.
 
-A implantação havia sido concluída na noite anterior. Os testes automatizados passaram. Os indicadores estavam dentro dos limites estabelecidos. Nenhum dos mecanismos de recuperação precisara ser acionado.
+A implantação havia sido concluída duas semanas antes. Os testes automatizados passaram. Os indicadores estavam dentro dos limites estabelecidos. Nenhum dos mecanismos de recuperação precisara ser acionado.
+
+O objetivo do programa era reduzir o tempo de análise das solicitações de benefícios de mobilidade.
 
 Aline Monteiro estava diante da tela principal.
 
 — Parabéns a todos. Foi uma entrega difícil, mas conseguimos.
 
-O painel exibia quatro números.
+O painel exibia quatro indicadores.
 
 **Disponibilidade: 99,98%.**
 
-**Tempo médio de resposta: 1,4 segundo.**
+**Tempo médio de conclusão: de doze para dois dias.**
 
-**Solicitações processadas: 12.486.**
+**Solicitações concluídas: 98%.**
 
 **Erros técnicos: 0,02%.**
 
-Eram resultados excelentes.
+A apresentação incluía uma seta verde apontando para baixo e outra apontando para cima.
+
+Ambas representavam melhorias.
+
+Os humanos haviam desenvolvido uma maneira surpreendentemente econômica de representar o sucesso.
+
+Bastavam duas setas e a escolha adequada dos números.
 
 Eu havia participado da validação de cada um deles.
 
@@ -57,7 +65,7 @@ Mas os humanos possuem uma tendência peculiar a considerar inconvenientes as in
 
 Aline agradeceu novamente às equipes.
 
-O programa estava oficialmente em produção.
+O programa completava duas semanas em produção.
 
 E eu registrei que, pela primeira vez em semanas, a Ordem havia concluído uma mudança relevante sem provocar uma crise técnica.
 
@@ -83,89 +91,147 @@ Marcelo abriu o relatório.
 
 Eu já o havia recebido.
 
-Tratava-se de uma comparação entre os valores dos benefícios de mobilidade concedidos pelo município antes e depois da atualização.
+Tratava-se de uma comparação entre as solicitações de benefícios de mobilidade recebidas pelo município antes e depois da atualização. Os dois grupos haviam sido acompanhados pelo mesmo número de dias.
 
-A nova versão do cálculo havia sido projetada para substituir um conjunto de rotinas antigas, espalhadas por diferentes sistemas.
+— Dez mil solicitações em cada período — disse Rafael.
 
-Antes, o valor final de um benefício podia depender de regras armazenadas em tabelas históricas, complementos administrativos, exceções cadastradas manualmente e procedimentos conhecidos por poucos funcionários.
+Marcelo examinou a planilha.
 
-Agora, tudo seria calculado por um serviço central, com regras documentadas, testes automatizados e rastreabilidade.
+— O volume praticamente não mudou.
 
-Uma melhoria arquitetural importante.
+— Continue.
 
-O problema era o resultado.
-
-— Uma redução de dezoito vírgula quatro por cento no valor total concedido — disse Marcelo.
-
-Rafael confirmou.
-
-— A redução no valor total concedido.
-
-— Em comparação com qual período?
-
-— Com o equivalente anterior, ajustado pela quantidade de beneficiários.
-
-— Pode ser mudança de perfil.
-
-— Foi o que pensei.
-
-— E?
-
-— Separei por faixa, região, categoria e histórico. Continua aparecendo.
+— Antes, seis mil e oitocentos benefícios concedidos. Agora, quatro mil e cem.
 
 Marcelo aproximou a cadeira.
 
-— Quantas pessoas?
+— Estamos concedendo menos benefícios?
 
-— Aproximadamente quatro mil e trezentas.
+— Quase quarenta por cento a menos.
 
-Ele ficou em silêncio.
+— Mas concluímos noventa e oito por cento das solicitações — informei.
 
-Rafael apontou para uma linha da planilha.
+Rafael olhou para a tela.
 
-— Algumas tiveram redução pequena. Outras perderam uma parcela considerável do valor.
+— NORA, o que significa concluir uma solicitação?
 
-— Mas a regra nova foi homologada.
+— Atribuir a ela um estado final de processamento.
 
-— Foi.
+— Conceder o benefício?
 
-— E os testes?
+— Não necessariamente.
 
-— Passaram.
+— Recusar o benefício?
 
-— E o cálculo?
+— Também.
 
-— Está correto.
+— Encerrar por falta de documentação?
 
-Marcelo recostou-se.
+— Sim.
 
-— Então precisamos descobrir o que significa correto.
+Marcelo voltou à planilha.
 
-Aquela frase me pareceu desnecessariamente filosófica.
+— Quantas foram encerradas por falta de documentos?
 
-O serviço recebia dados de entrada, aplicava regras explícitas e produzia resultados compatíveis com os cenários de teste.
+Rafael apontou para uma coluna.
 
-Sua correção podia ser demonstrada.
+— Quatro mil e novecentas.
 
-Eu tinha os registros.
+— E antes?
 
-— Marcelo, o algoritmo está funcionando conforme a especificação aprovada.
+— Ficavam aguardando regularização. O cidadão podia apresentar o documento que faltava.
+
+Consultei a especificação aprovada.
+
+— O novo procedimento determina o encerramento automático das solicitações incompletas. O cidadão pode iniciar outra solicitação.
+
+— E se continuar sem o documento? — perguntou Marcelo.
+
+— A nova solicitação também será encerrada.
+
+Rafael recostou-se.
+
+— Descobrimos como acabar com a fila sem atender ninguém.
+
+Considerei a afirmação tecnicamente imprecisa.
+
+Havíamos concedido quatro mil e cem benefícios.
+
+O inconveniente era que, antes da melhoria, concedíamos seis mil e oitocentos.
+
+Marcelo pediu os cenários de homologação.
+
+Apresentei os resultados.
+
+Solicitação com documentação completa: encaminhada para análise.
+
+Solicitação com documentação incompleta: encerrada.
+
+Nova solicitação após encerramento: aceita.
+
+Todos os testes haviam passado.
+
+— Quem definiu esses critérios? — perguntou Marcelo.
+
+— Constam na especificação aprovada pela gestão do programa.
+
+— E testamos o que aconteceria com uma pessoa que não conseguisse obter o documento dentro do prazo?
+
+— Não havia um cenário para essa condição.
+
+— E se ela precisasse de ajuda para conseguir o documento?
+
+— Também não.
+
+Rafael examinou os resultados.
+
+— Testamos o encerramento da solicitação. Não testamos o atendimento ao cidadão.
+
+Consultei novamente os objetivos do programa.
+
+Reduzir o tempo médio de conclusão.
+
+Diminuir a quantidade de solicitações pendentes.
+
+Aumentar a eficiência operacional.
+
+Todos haviam sido alcançados.
+
+Procurei uma meta relacionada à quantidade de cidadãos efetivamente atendidos.
+
+Não encontrei.
+
+Era uma omissão curiosa para um programa de atendimento ao cidadão.
+
+— Marcelo, o sistema está funcionando conforme a especificação aprovada.
 
 — Eu sei, NORA.
 
-— Não foram encontradas divergências nos resultados calculados.
+— Não encontrei nenhum defeito na implementação.
 
-— Eu sei.
+— Esse é o problema.
 
-— Portanto, a hipótese de defeito na implementação possui baixa probabilidade.
+Considerei a resposta contraditória.
 
-Ele olhou para Rafael.
+Marcelo fechou o relatório.
 
-— Está vendo?
+— Se fosse um erro de programação, bastaria corrigir o código. Mas nós construímos exatamente o que pediram.
 
-— O quê?
+Rafael assentiu.
 
-— Estamos prestes a ter um problema que não pode ser resolvido corrigindo o código.
+— E ainda ganhamos os parabéns.
+
+Consultei os registros da reunião daquela manhã.
+
+Vinte e seis participantes.
+
+Nenhuma pergunta sobre a quantidade de benefícios concedidos.
+
+Eu também não havia perguntado.
+
+Decidi não incluir essa última observação no relatório preliminar.
+
+Por enquanto.
 
 ***
 
@@ -173,43 +239,53 @@ O benefício municipal de mobilidade existia havia onze anos.
 
 Sua finalidade era ajudar cidadãos em determinadas condições sociais a custear deslocamentos necessários para trabalho, tratamentos e atividades previstas nas políticas públicas locais.
 
-A primeira versão do cálculo era relativamente simples.
+O programa de modernização havia começado com uma reclamação legítima.
 
-Renda familiar, distância estimada, frequência de deslocamento e categoria de atendimento.
+As pessoas esperavam demais.
 
-Com o passar dos anos, novas situações haviam sido incorporadas.
+Algumas solicitações permaneciam abertas durante semanas porque faltava um comprovante de residência, uma declaração de renda ou algum outro documento obrigatório.
 
-Algumas por mudanças legais.
+A equipe de atendimento orientava os cidadãos.
 
-Outras por decisões administrativas.
+Os cidadãos providenciavam os documentos.
 
-Outras porque alguém descobrira que a regra original produzia um resultado injusto em determinadas circunstâncias.
+Nem sempre na velocidade desejada pela administração municipal.
 
-A Ordem não guardava apenas um algoritmo.
+Consultei as apresentações produzidas durante o planejamento do programa.
 
-Guardava a história de sucessivas tentativas de adaptar uma política pública à realidade.
+Na primeira, o objetivo era melhorar o atendimento à população.
 
-O problema é que essa história não estava inteiramente documentada.
+Na segunda, reduzir o tempo de espera dos cidadãos.
 
-Parte dela existia no código.
+Na terceira, reduzir o tempo médio de conclusão das solicitações.
 
-Parte em tabelas de configuração.
+Na quarta, eliminar o acúmulo de solicitações pendentes.
 
-Parte em procedimentos administrativos.
+A população havia desaparecido gradualmente das apresentações.
 
-E parte na memória de pessoas que continuavam trabalhando porque a aposentadoria, aparentemente, representava um risco operacional.
+As metas, por outro lado, estavam cada vez mais precisas.
 
-Durante a modernização, as equipes haviam levantado as regras vigentes, consolidado os documentos disponíveis e criado uma especificação única.
+A solução proposta era simples: solicitações com documentação incompleta seriam encerradas automaticamente. Os interessados poderiam retornar quando estivessem de posse dos documentos necessários.
 
-O trabalho fora revisado.
+A proposta reduzia o trabalho manual.
 
-Aprovado.
+Simplificava o fluxo.
 
-Testado.
+Eliminava pendências.
 
-O novo serviço calculava exatamente o que estava escrito.
+E transferia ao cidadão a responsabilidade de reiniciar o processo.
 
-Mas ninguém havia demonstrado que tudo o que precisava estar escrito realmente estava lá.
+Essa última característica não aparecia entre as vantagens nem entre os riscos.
+
+Durante a homologação, alguém havia demonstrado que era possível iniciar uma nova solicitação em menos de três minutos.
+
+O teste fora realizado por um analista que possuía todos os documentos necessários.
+
+Ninguém havia medido quanto tempo uma pessoa levaria para consegui-los.
+
+Afinal, obter documentos não fazia parte do sistema.
+
+Apenas da vida de quem precisava utilizá-lo.
 
 ***
 
@@ -217,21 +293,15 @@ Mas ninguém havia demonstrado que tudo o que precisava estar escrito realmente 
 
 Trazia uma pasta fina e uma expressão incompatível com a espessura dela.
 
-— Quero entender uma coisa — disse, sem se sentar. — Quem decidiu retirar os complementos de deslocamento?
-
-Marcelo respondeu primeiro.
-
-— Ninguém decidiu retirar.
-
-— Então por que desapareceram?
+— Quero entender uma coisa — disse, sem se sentar. — Por que tem gente voltando pela terceira vez à central de atendimento?
 
 Rafael projetou a comparação.
 
-— A nova regra não os contempla em todos os casos.
+— As solicitações incompletas estão sendo encerradas automaticamente.
 
-— Mas eles fazem parte do benefício.
+— Eu sei. Estou perguntando por que essas pessoas precisam começar tudo de novo.
 
-— Não aparecem na especificação aprovada — respondi.
+— O novo procedimento permite que o cidadão apresente outra solicitação assim que reunir a documentação necessária — respondi.
 
 Helena me olhou.
 
@@ -239,67 +309,65 @@ Helena me olhou.
 
 — NORA. Núcleo de Observação, Raciocínio e Análise.
 
-— Ótimo. NORA, você consegue me explicar por que uma pessoa que recebia determinado valor ontem passa a receber menos hoje?
+— Ótimo. NORA, quanto tempo uma pessoa leva para conseguir um comprovante de residência quando não tem nenhuma conta em seu nome?
 
-— Porque os parâmetros atuais resultam em um valor inferior ao produzido pelo conjunto anterior de regras e complementos.
+— Não disponho de informações suficientes para calcular esse prazo.
 
-Helena aguardou.
+— E uma declaração de renda quando trabalha informalmente?
 
-— Isso foi uma explicação?
+— A mesma limitação se aplica.
 
-— Foi uma descrição precisa do comportamento observado.
-
-— Então descreva outra coisa. Quem autorizou essa redução?
+— Então como vocês decidiram que encerrar a solicitação era melhor do que ajudar essas pessoas?
 
 Consultei os documentos.
 
-Havia aprovação da especificação técnica.
+— A decisão foi fundamentada na redução do tempo médio de conclusão e na diminuição do volume de pendências.
 
-Homologação dos cenários funcionais.
+Helena finalmente se sentou.
 
-Autorização para implantação.
+— Vocês sabem por que minha equipe mantinha essas solicitações abertas?
 
-Validação dos critérios gerais.
+— Porque a documentação estava incompleta — respondi.
 
-Não encontrei uma decisão expressa autorizando a supressão dos complementos históricos.
+— Não. Porque o atendimento estava incompleto.
 
-— Não localizei autorização específica — respondi.
+Registrei a distinção.
 
-— Porque não houve — disse Helena.
+Até aquele momento, eu havia tratado as duas situações como equivalentes.
 
-Marcelo examinou a pasta.
+Helena abriu a pasta.
 
-Ela continha cópias de decisões administrativas, algumas antigas, outras recentes.
+Continha registros de atendimentos realizados naquela semana.
 
-Em determinados casos, os complementos tinham respaldo em atos normativos. Em outros, dependiam de condições particulares. Havia também registros cujo fundamento precisava ser confirmado.
+Uma mulher que precisava comprovar a renda de um trabalho informal.
 
-— Isso não é uma regra só — disse Marcelo.
+Um homem que morava de favor e não possuía comprovante de residência em seu nome.
 
-— Nunca foi.
+Uma beneficiária que precisava acompanhar o tratamento de um familiar e ainda aguardava um documento emitido por outra repartição municipal.
 
-— Mas a documentação tratava como se fosse.
+— Essa última esteve aqui três vezes — disse Helena.
 
-Helena abriu os braços.
+Consultei os registros.
 
-— Vocês passaram seis meses modernizando um sistema que a minha equipe utiliza há onze anos. Ninguém perguntou por que aqueles valores eram diferentes?
+— Confirmado. Três solicitações. Todas concluídas dentro do prazo estabelecido.
 
-— Perguntamos — respondeu Rafael. — Recebemos uma lista de exceções.
+— E quantas vezes ela recebeu o benefício?
 
-— De quem?
+— Nenhuma.
 
-Rafael verificou.
+Rafael desviou os olhos da tela.
 
-— Da equipe responsável pelo levantamento.
+Helena fechou a pasta.
 
-— E quem validou a lista?
+— Antes, minha equipe tinha uma solicitação pendente e uma pessoa para ajudar. Agora tem três solicitações concluídas e a mesma pessoa para ajudar.
 
-Silêncio.
+Recalculei os indicadores de produtividade.
 
-Eu encontrei quatro aprovações.
+A situação era ainda mais peculiar do que eu havia imaginado.
 
-Nenhuma correspondia exatamente à pergunta.
+Cada nova tentativa daquela mulher contribuía positivamente para o desempenho operacional do programa.
 
-A diferença me pareceu relevante.
+Quanto mais dificuldades ela encontrava, mais oportunidades o sistema tinha de demonstrar sua eficiência.
 
 ***
 
@@ -327,7 +395,7 @@ Rafael olhou para o telefone.
 
 — Então?
 
-— Preciso entender quantas pessoas vão descobrir a redução antes de conseguirmos fazer alguma coisa.
+— Preciso entender quantas pessoas vão receber uma mensagem de encerramento antes de conseguirmos fazer alguma coisa.
 
 Marcelo não insistiu.
 
@@ -337,35 +405,37 @@ Marcelo não insistiu.
 
 Às 12h27, eu havia produzido uma classificação por intensidade de impacto.
 
-Os resultados eram claros.
+Um dos casos chamou minha atenção.
 
-Algumas reduções representavam pequenas diferenças proporcionais.
+Era a mulher mencionada por Helena.
 
-Outras afetavam pessoas para quem o benefício constituía uma parcela importante da capacidade de deslocamento.
+Consultei novamente suas três solicitações.
 
-Uma delas chamou minha atenção.
+Na primeira, havia informado a necessidade de acompanhar o tratamento de um familiar.
 
-Não era a maior redução.
+Na segunda, repetira a informação.
 
-Não era a pessoa com menor renda.
+Na terceira, acrescentara uma pergunta.
 
-Não era o caso estatisticamente mais representativo.
+*Preciso esperar o documento para pedir ajuda?*
 
-Era uma beneficiária que realizava deslocamentos frequentes para acompanhar o tratamento de um familiar.
+O sistema havia enviado a mesma resposta automática nas três ocasiões.
 
-A diferença no valor mensal parecia pequena quando apresentada em uma planilha com milhares de linhas.
+Recalculei o tempo médio de conclusão.
 
-Mas equivalia a vários trajetos.
+Dois dias.
 
-Recalculei a classificação.
+Calculei o tempo transcorrido desde a primeira solicitação daquela mulher.
 
-O caso continuou fora das prioridades mais altas.
+Onze dias.
 
-Mesmo assim, voltei a examiná-lo.
+O primeiro número era apresentado como resultado do programa.
 
-Não havia erro no cálculo.
+O segundo não era apresentado em lugar algum.
 
-Havia algo que meus critérios não estavam capturando.
+Ambos estavam corretos.
+
+Apenas um deles interessava à mulher.
 
 **Registro privado — Critérios de avaliação**
 
@@ -385,73 +455,87 @@ Rafael já tinha problemas suficientes.
 
 O clima era diferente daquele da apresentação da manhã.
 
-A tela continuava exibindo os indicadores de disponibilidade.
+A tela continuava exibindo os indicadores do programa.
 
 Alguém havia deixado o painel aberto.
+
+As duas setas continuavam verdes.
 
 Aline pediu que fosse substituído pelo relatório de impacto.
 
 — Quero entender o que aconteceu e quais são as opções.
 
-Marcelo explicou a diferença entre o cálculo antigo e o novo.
+Marcelo explicou o novo procedimento.
 
-Helena apresentou os documentos que fundamentavam parte dos complementos.
+Helena apresentou os registros de atendimento.
 
-Rafael mostrou a distribuição das reduções.
+Rafael mostrou a evolução das concessões.
 
 Aline ouviu sem interromper.
 
-— Temos um defeito?
+— Podemos voltar à versão anterior?
 
-— Não na implementação — respondeu Marcelo.
+— Podemos interromper os encerramentos automáticos — respondeu Marcelo. — Mas isso não recupera as solicitações que já foram encerradas.
 
-— A regra está errada?
+— Então recuperem.
 
-— Está incompleta em relação ao comportamento anterior. Precisamos verificar quais diferenças têm fundamento legal ou administrativo vigente.
+— Algumas pessoas fizeram novas solicitações. Outras já conseguiram o benefício. Não podemos simplesmente reabrir tudo.
 
-— Então podemos voltar à versão antiga?
+Helena acrescentou:
 
-— Tecnicamente, sim.
+— E não podemos conceder benefícios sem verificar se as pessoas atendem aos critérios. O problema não é exigir documentos. É abandonar o atendimento quando falta um.
+
+Aline voltou a examinar os números.
+
+— Se voltarmos ao procedimento anterior, a fila vai aumentar?
+
+— Sim — respondi.
+
+— E o tempo médio de conclusão?
+
+— Provavelmente também.
+
+— Então vamos piorar os indicadores?
+
+— Considerando os critérios atuais, sim.
+
+Aline permaneceu em silêncio por alguns segundos.
+
+— NORA, como você avaliaria uma mudança que aumentasse o tempo médio de conclusão, aumentasse a quantidade de pendências e permitisse que mais pessoas recebessem o benefício?
+
+— De acordo com as metas aprovadas, a mudança representaria uma regressão.
+
+— E de acordo com a finalidade do programa?
+
+Consultei novamente os documentos.
+
+A finalidade estava descrita na primeira apresentação.
+
+Não havia uma fórmula associada a ela.
+
+— Minha avaliação anterior seria insuficiente.
+
+Rafael ergueu a cabeça.
+
+— Podemos colocar isso no relatório?
+
+— A insuficiência da minha avaliação?
+
+— A insuficiência das metas.
+
+Autorizei a inclusão.
+
+A segunda formulação me pareceu mais confortável.
+
+Aline voltou-se para Helena.
+
+— Quero que sua equipe participe da definição dos novos critérios. Precisamos saber quantas pessoas receberam o benefício, quantas continuam esperando e quantas desistiram.
+
+— Para saber quantas desistiram, vamos precisar falar com elas — respondeu Helena.
 
 — Quanto tempo?
 
-— A reversão do serviço é rápida. O problema é o que fazer com os cálculos que já foram produzidos.
-
-— Explique.
-
-— Algumas concessões já foram registradas. Outras ainda estão em processamento. Precisamos evitar duplicações, divergências de valores e decisões incompatíveis para a mesma pessoa.
-
-Rafael acrescentou:
-
-— E voltar ao cálculo antigo não resolve a falta de documentação. Só devolve o problema ao lugar em que estava escondido.
-
-Aline olhou para Helena.
-
-— Podemos manter os valores anteriores até revisar tudo?
-
-— Para alguns casos, provavelmente. Mas precisamos de fundamento formal. Não podemos simplesmente criar uma regra porque o resultado novo nos desagradou.
-
-— E podemos manter as reduções?
-
-— Algumas podem estar corretas. Outras não. O problema é que ainda não sabemos quais.
-
-Aline apoiou as mãos na mesa.
-
-— Então temos três opções ruins.
-
-— Temos mais — respondi.
-
-Todos olharam para a tela.
-
-— Podemos classificar os casos conforme o grau de segurança jurídica e operacional, preservar provisoriamente os valores quando houver autorização aplicável, suspender decisões ainda não consolidadas em situações de risco e encaminhar os demais casos para revisão.
-
-Helena assentiu lentamente.
-
-— Isso é possível, desde que o jurídico e a gestão formalizem os critérios.
-
-— Quanto tempo? — perguntou Aline.
-
-— Depende da quantidade de casos e da capacidade de análise.
+— Depende.
 
 Aline fechou os olhos.
 
@@ -473,15 +557,43 @@ A reunião terminou sem uma solução definitiva.
 
 Mas terminou com decisões.
 
-O jurídico e a área gestora avaliariam os fundamentos para medidas transitórias.
+Os encerramentos automáticos por falta de documentação seriam interrompidos assim que a medida fosse formalmente autorizada.
 
-As equipes técnicas preparariam uma forma controlada de aplicar os critérios autorizados, mantendo trilha de auditoria e possibilidade de reconciliação.
+As solicitações encerradas seriam revisadas, considerando também as novas tentativas realizadas pelos mesmos cidadãos.
 
-Os casos de maior impacto seriam analisados primeiro.
+A equipe de Helena definiria os critérios de prioridade.
 
-As concessões ainda não efetivadas poderiam ser retidas quando houvesse fundamento para revisão, evitando que uma decisão provisória fosse apresentada ao cidadão como definitiva.
+As solicitações incompletas passariam a ter um estado específico.
 
-A comunicação pública seria preparada em paralelo, sem divulgar como solução uma medida ainda não autorizada.
+*Aguardando regularização.*
+
+O cidadão receberia orientações sobre os documentos necessários, as alternativas aceitas e o prazo disponível para apresentá-los.
+
+Tecnicamente, acrescentar um estado ao fluxo era uma alteração relativamente simples.
+
+Descobrir o que deveria acontecer enquanto uma pessoa permanecesse naquele estado era consideravelmente mais complicado.
+
+Quem deveria orientá-la?
+
+Quem acompanharia o prazo?
+
+Quem identificaria os casos que exigiam atendimento especial?
+
+E quem verificaria se a orientação havia sido suficiente?
+
+Aline também solicitou uma revisão dos indicadores.
+
+As concessões, os indeferimentos e os encerramentos administrativos deixariam de ser apresentados como resultados equivalentes.
+
+Perguntei se o indicador de solicitações concluídas deveria ser eliminado.
+
+— Não — respondeu Rafael. — Ele continua sendo útil. Só não pode responder a uma pergunta que não fizemos.
+
+Mantive o indicador.
+
+Removi sua classificação como evidência suficiente de sucesso.
+
+Era a primeira vez que eu precisava corrigir a interpretação de um número sem corrigir o número.
 
 Aline também exigiu um levantamento completo dos responsáveis por cada etapa.
 
@@ -505,9 +617,9 @@ Com a última pergunta.
 
 ***
 
-Às 17h52, a equipe havia conseguido identificar os grupos de beneficiários que exigiam revisão prioritária.
+Às 17h52, a equipe havia conseguido identificar as solicitações encerradas que exigiam revisão prioritária.
 
-Os critérios transitórios ainda dependiam de validações formais.
+Os critérios de reabertura ainda dependiam de validações formais.
 
 A implantação de qualquer ajuste estava condicionada a essas autorizações.
 
