@@ -30,7 +30,7 @@ Revisões pontuais, sem reescrita de capítulos aprovados. Preservar versões or
 - Cap. 1: revisar 43 propostas de modernização e suas contagens; ainda não substituir.
 - Cap. 1 e 2: revisar a ata de 83 páginas; ainda não substituir.
 - Cap. 3: manter 152 componentes e seis sem nome.
-- Cap. 5: manter 99,98%, 12.486 solicitações e aproximadamente 4.300 afetados.
+- Cap. 5: a orientação de 6 de novembro foi substituída pela revisão aprovada em 27 de novembro. Na versão vigente, a disponibilidade é de 99,98%. A cada 10.000 solicitações comparadas, as concessões passam de 6.800 para 4.100. No segundo período, há 9.800 conclusões e 200 pendências.
 - Cap. 6: propor redução da apresentação de 47 slides, ainda não substituir.
 - Cap. 6: manter as categorias de prioridades, desde que sejam sobrepostas.
 - Cap. 7: **RESOLVIDO EM 2026-11-07.** O autor ratificou expressamente a versão atual do GitHub, com 43–45 comitês como recurso satírico, como texto canônico definitivo. A versão anterior dos 23 procedimentos não será reconstruída. Não modificar o capítulo sem nova autorização.

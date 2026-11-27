@@ -12,7 +12,7 @@ NORA investiga registros incompatíveis da cidadã Ana Almeida e conhece a compl
 ## Parte II — A arte de distribuir problemas
 3. **Dividir para complicar** [APROVADO] — modularidade, coesão, acoplamento, monólitos e microsserviços.
 4. **A rede não assinou nenhum contrato** [APROVADO] — latência, falhas parciais, comunicação distribuída, eventos, consistência, idempotência e recuperação.
-5. **A falha foi um sucesso** [APROVADO] — serviço de cálculo de benefícios implantado corretamente, indicadores técnicos excelentes, mas valores inesperadamente reduzidos para milhares de cidadãos. Requisitos incompletos, regras históricas, métricas versus impacto real, auditoria e responsabilidade pelo resultado. **Não** é outro incidente de indisponibilidade ou de duplicação de mensagens.
+5. **A falha foi um sucesso** [APROVADO] — solicitações incompletas são encerradas dentro do prazo e as concessões diminuem. Verificação e validação, conhecimento do atendimento, Lei de Goodhart e responsabilidade pelo resultado.
 
 ## Parte III — A organização do absurdo
 6. **O organograma também compila** [APROVADO] — simulador de impacto dos benefícios; disputa de responsabilidade entre equipes de benefícios, canais, dados e plataforma; capacidade, prioridades, Lei de Conway, dependências e ownership de produto.

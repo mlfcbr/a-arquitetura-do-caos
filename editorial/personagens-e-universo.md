@@ -16,7 +16,7 @@ Executiva pressionada por custos, prazos, resultados e compromissos. Não é vil
 Cidadã de 73 anos. O caso inicial envolve registros simultâneos incompatíveis. Não usá-la como recurso recorrente para novos incidentes.
 
 ## Helena
-Gestora de benefícios municipais. No capítulo 5, questiona a redução de valores e a ausência de autorização específica para remover complementos históricos. **Não confundir com Marcelo Duarte** nem com nomes antigos de rascunhos.
+Gestora de benefícios municipais. No capítulo 5, mostra por que sua equipe mantinha abertos os pedidos com documentação incompleta e acompanha a retomada desses atendimentos. **Não confundir com Marcelo Duarte** nem com nomes antigos de rascunhos.
 
 ## Teresa
 Profissional do atendimento. Personagem distinta de Ana Almeida. Evitar reutilização mecânica em cada incidente.
@@ -34,7 +34,7 @@ Profissional do atendimento. Personagem distinta de Ana Almeida. Evitar reutiliz
 Plataforma fictícia iniciada há cerca de vinte anos como sistema de senhas, depois expandida para agendamentos, saúde, transporte, identidade, pagamentos e serviços públicos. A complexidade emergiu de decisões locais, integrações, remendos e dependências históricas.
 
 ### Continuidade dos capítulos 5 e 6
-- **Capítulo 5:** novo cálculo do benefício municipal de mobilidade; indicadores excelentes (99,98% de disponibilidade, 1,4 s de tempo médio, 12.486 solicitações, 0,02% de erros técnicos), mas redução agregada de 18,4% nos benefícios e cerca de 4.300 cidadãos afetados. Complementos históricos não foram plenamente capturados na especificação. Medidas transitórias exigem fundamentação e auditoria. NORA questiona seus critérios de sucesso.
+- **Capítulo 5:** o prazo médio de conclusão cai de doze para dois dias. Em períodos comparáveis de 10.000 solicitações cada, as concessões caem de 6.800 para 4.100. Após a mudança, 4.900 pedidos são encerrados por falta de documentação. NORA acompanha três pedidos da mesma mulher e revê seus critérios de sucesso.
 - **Capítulo 6:** proposta de simulador de impacto antes de alterar regras; equipes de benefícios, canais, dados e plataforma disputam fronteiras e responsabilidade. Benefícios assume ownership do resultado após repriorização explícita; outras equipes fornecem capacidades. Protótipo é validado com analistas da gestão. NORA reconhece a influência mútua entre arquitetura técnica e organização humana.
 - **Capítulo 7:** não repetir a disputa entre equipes; foco previsto em governança, autonomia e controles proporcionais.
 
