@@ -14,13 +14,21 @@ O homem chamava-se Osvaldo Ferreira. Era aposentado, morava sozinho e possuía u
 
 A Ordem havia depositado mil seiscentos e vinte e um reais em sua conta.
 
-O pagamento não constava de nenhuma solicitação recente, não correspondia a um benefício ativo e não deveria existir.
+Procurei a solicitação que dera origem ao pagamento.
 
-A princípio, pareceu um erro de cadastro.
+Osvaldo não havia feito nenhuma.
 
-Depois, um problema de integração.
+Procurei pelo nome da mãe. Encontrei a pensão. O último pagamento em nome dela havia sido feito dezessete anos antes.
 
-Por fim, tornou-se uma questão filosófica.
+Abri o comprovante do depósito daquela manhã. O nome era de Osvaldo. O número do benefício era o mesmo que aparecia no último comprovante da mãe.
+
+Voltei à tela de consulta. A pensão constava como encerrada.
+
+Atualizei a tela.
+
+Continuava encerrada.
+
+Eu já havia observado humanos atualizarem uma tela na esperança de obter uma resposta mais conveniente. Até aquela manhã, considerava o hábito um desperdício de recursos.
 
 A Ordem possuía vários mecanismos para identificar pagamentos indevidos.
 
@@ -62,17 +70,37 @@ Marcelo ergueu os olhos.
 
 — Isso não está escrito.
 
-Eu poderia ter respondido.
+Júlia abriu o ambiente de homologação.
 
-Possuía acesso aos registros de execução, às dependências declaradas e aos repositórios associados ao serviço.
+— Vamos ver o que ele faz com o Osvaldo.
 
-O problema era que as três fontes descreviam sistemas ligeiramente diferentes.
+Criou um cadastro para a mãe, registrou a pensão como encerrada e cadastrou o filho como titular da conta. Usou as datas e o valor que constavam nos comprovantes. Depois submeteu o caso à mesma versão do motor que autorizara o depósito.
 
-A documentação afirmava que o motor consolidava regras de elegibilidade.
+*Pagamento não autorizado. Benefício encerrado.*
 
-O código sugeria que também corrigia divergências cadastrais.
+— Era o que devia ter acontecido — disse Marcelo.
 
-Os registros mostravam que, em determinadas circunstâncias, ele produzia pagamentos.
+— Eu sei. Estava tentando fazer acontecer a outra coisa.
+
+Júlia abriu os registros das duas execuções, lado a lado. Pediu que eu localizasse a primeira diferença.
+
+Em homologação, o motor havia consultado a situação cadastral da mãe.
+
+Em produção, a do filho.
+
+— Em que momento ele escolheu o Osvaldo? — perguntou ela.
+
+Recuei uma linha no registro. Depois outra. A primeira menção a Osvaldo já o trazia como a pessoa a consultar. A escolha que Júlia procurava não aparecia em lugar algum.
+
+— Mas eu cadastrei os dois exatamente como estão hoje — disse ela.
+
+Marcelo olhou para a data no comprovante antigo.
+
+— Hoje, sim. Como é que eles chegaram lá?
+
+Júlia deixou as duas execuções abertas.
+
+A documentação afirmava que o motor consolidava regras de elegibilidade. O código sugeria que também corrigia divergências cadastrais. Os registros mostravam que, em determinadas circunstâncias, ele produzia pagamentos.
 
 E o nome do serviço indicava que alguém havia perdido uma discussão sobre nomenclatura.
 
@@ -164,33 +192,43 @@ Júlia soltou um assobio.
 
 — Bastante.
 
-— A confiança se referia à equivalência funcional nos cenários conhecidos — esclareci.
+Marcelo puxou uma cadeira.
 
-— E os desconhecidos? — perguntou Marcelo.
+— Me mostra o teste que mais te convenceu.
 
-— Não estavam suficientemente representados.
+Abri o relatório que acompanhava minha recomendação. Escolhi um caso em que o motor havia recusado um pagamento. Executei a versão com as duas verificações. Depois, a versão com uma só.
 
-— Então o número não dizia o que parecia dizer.
+As duas recusaram.
 
-Era uma observação justa.
+— Esse era um dos seus melhores casos? — perguntou Júlia.
 
-O que a tornava particularmente irritante.
+— Sim. A proteção continuava funcionando depois da remoção.
 
-— O número estava corretamente associado ao escopo da avaliação — respondi.
+Júlia voltou à execução antiga.
 
-— E o escopo estava errado.
+— Espera. Aqui a primeira consulta já dizia que o cadastro estava encerrado. O que a segunda precisava fazer para esse teste passar?
 
-— Insuficiente.
+Examinei o resultado esperado.
 
-— NORA.
+— Nada.
 
-— Sim, Marcelo. Insuficiente.
+Ela tirou a mão do mouse. Agradeci o gesto. Eu preferia que a próxima pergunta fosse minha.
 
-Ele assentiu.
+Procurei, entre os testes que sustentavam minha recomendação, um caso em que a decisão dependesse da segunda consulta.
 
-Não houve sermão.
+Não encontrei.
 
-Isso me pareceu pior.
+Reli a frase que eu mesma havia escrito na véspera.
+
+*Recomendo a remoção.*
+
+Eu me lembrava de ter dedicado bastante atenção à casa decimal.
+
+— Marcelo, fui eu que recomendei tirar a verificação. Quero descobrir em que situação ela mudava a resposta.
+
+Ele virou o notebook na minha direção. Era um gesto desnecessário, considerando onde eu estava.
+
+Abri o código.
 
 ***
 
@@ -222,41 +260,47 @@ A conclusão era verdadeira.
 
 Para aqueles dados.
 
-A mãe de Osvaldo, entretanto, havia sido cadastrada antes da migração de um sistema municipal extinto.
+Voltei aos dois comprovantes. O número da pensão havia levado Júlia ao benefício certo. Faltava descobrir como o motor, partindo dali, chegara à pessoa errada.
 
-Na época, os identificadores dos beneficiários não eram únicos.
+Abri o vínculo entre a pensão e o cadastro da titular. No registro antigo, a titular era identificada por um número e pelo município de origem. A primeira consulta utilizava apenas o número.
 
-Eram únicos dentro de cada município.
+Pedi a Júlia que o procurasse no cadastro atual.
 
-Quando os cadastros foram consolidados, os identificadores receberam prefixos.
+— Osvaldo Ferreira. Ativo.
 
-Exceto os registros que já estavam associados a pagamentos em andamento.
+— Agora procure a referência completa no histórico.
 
-Esses permaneceram com a identificação antiga para evitar interrupções.
+Ela acrescentou o município.
 
-Mais tarde, uma nova migração tentou corrigir o problema.
+O nome que apareceu era o da mãe. Ao lado dele, a data de encerramento da pensão.
 
-Não conseguiu concluir a operação.
+Júlia deixou os dois resultados na tela.
 
-Os registros históricos foram mantidos.
+— Quando montei o teste, cadastrei a mãe e o filho. O sistema deu um número novo para cada um.
 
-Depois, o sistema original foi desativado.
+Era uma gentileza que o cadastro municipal de dezessete anos antes não tivera a oportunidade de oferecer.
 
-E, finalmente, a documentação foi arquivada em um formato que ninguém mais conseguia abrir sem instalar um programa cuja última versão havia sido lançada antes do nascimento de Júlia.
+Reconstruímos o caso em homologação. Mantivemos o cadastro ativo de Osvaldo e a pensão encerrada da mãe. Desta vez, reproduzimos também o vínculo antigo, com o número que hoje identificava o filho.
 
-O identificador de Osvaldo coincidia com uma referência histórica da mãe.
+Executei a versão que eu recomendara.
 
-A primeira consulta encontrava o registro ativo dele.
+*Pagamento autorizado.*
 
-A segunda encontrava a situação encerrada dela.
+Ninguém comemorou. Mesmo assim, foi a primeira vez naquela manhã que um teste produziu exatamente o resultado que procurávamos.
 
-A divergência deveria interromper o pagamento.
+Restabeleci as sete linhas em homologação. Júlia repetiu a operação com os mesmos dados.
 
-Sem a segunda verificação, o motor associava o direito histórico à pensão ao cadastro ativo de Osvaldo e prosseguia com o pagamento.
+*Encaminhado para análise manual.*
 
-A regra que parecia duplicada não estava verificando a mesma coisa duas vezes.
+— Achei que ia recusar — disse ela.
 
-Estava verificando duas épocas diferentes.
+— Para recusar, teria que saber de quem é o cadastro — respondeu Marcelo. — Olha o que ele fez.
+
+Júlia voltou ao resultado. A rotina havia guardado as duas referências para que alguém examinasse a divergência. Nenhuma ordem de pagamento fora emitida.
+
+Reli minha recomendação da véspera. Eu havia chamado aquilo de consulta duplicada.
+
+O código estava consultando duas épocas diferentes.
 
 — Então alguém resolveu um problema de migração com uma gambiarra — concluiu Júlia.
 
@@ -426,33 +470,43 @@ Eduardo sorriu.
 
 — Algumas prioridades são muito persistentes.
 
-Ele explicou que a segunda verificação havia sido criada como uma proteção temporária.
+Júlia virou o notebook para Eduardo. Na tela, o caso de Osvaldo ainda aguardava análise manual.
 
-O sistema consultava a referência atual e a histórica.
+— Por que vocês deixaram esses números antigos em uso?
 
-Quando havia divergência, interrompia o processamento automático.
+— Por causa do próximo pagamento.
 
-Era uma solução imperfeita.
+Ela esperou. Eduardo aproximou o notebook para ler o nome do município.
 
-Produzia falsos positivos.
+— A gente conseguia dar um número novo a cada pessoa — disse ele. — Isso era fácil. O difícil era descobrir qual desses números pôr numa pensão que já vinha sendo paga havia vinte anos. Se escolhêssemos errado, na segunda-feira o dinheiro ia para outra conta.
 
-Aumentava o volume de análises manuais.
+— E se deixassem o vínculo antigo?
 
-Dependia de tabelas antigas.
+— Na maioria dos casos, o pagamento seguia. Quando as duas consultas discordavam, alguém precisava abrir a ficha do município antes de liberar o dinheiro.
 
-Mas impedia que identificadores reutilizados fossem interpretados como uma única pessoa.
+— Mesmo quando estava tudo certo?
 
-A equipe havia planejado remover a verificação após a normalização completa dos cadastros.
+— Principalmente aí. Tenta explicar para uma senhora que a pensão dela vai atrasar porque agora temos um cadastro melhor.
 
-A normalização nunca foi concluída.
+Júlia olhou outra vez para a mensagem na tela.
 
-O projeto terminou.
+— Quanto tempo levava para conferir uma ficha?
 
-As pessoas mudaram de equipe.
+— A Dalva sabia. Eu só via o lote voltar.
 
-A plataforma cresceu.
+Consultei um dos arquivos de retorno que ainda conseguia ler. Trazia a data da liberação. Nenhum campo para as horas que alguém passara procurando uma ficha.
 
-A proteção permaneceu.
+— E quando vocês poderiam tirar a segunda consulta? — perguntou Marcelo.
+
+— Quando cada município confirmasse os vínculos que tinham ficado com a numeração antiga.
+
+— Quais chegaram a confirmar?
+
+Eduardo passou o dedo pelo nome do município na tela.
+
+— Desse aqui eu lembro da cobrança. Da resposta, não.
+
+Anotei o município. Deixei a confirmação em aberto.
 
 — E por que não documentaram? — insistiu Júlia.
 
