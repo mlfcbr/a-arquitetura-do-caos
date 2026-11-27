@@ -56,6 +56,7 @@ Obra destinada prioritariamente à leitura em celular, sem previsão de impress�
 - Se a versão original necessária para comparação não estiver acessível, declarar essa limitação e solicitar o arquivo; **não afirmar equivalência visual não verificada**.
 
 ### Checklist obrigatório antes de entregar
+- Extrair o texto de leitura do EPUB e do PDF finais e conferir todas as seções, inclusive os dez complementos, o epílogo e o apêndice. Excluir da montagem os avisos internos de aprovação, revisão e versão, como “STATUS: APROVADO PELO AUTOR” e “A narrativa aprovada permanece inalterada”. Conferir as ocorrências em contexto para preservar falas, registros de NORA e estados de sistemas que pertencem à história.
 - Confirmar a versão atualizada do GitHub e identificar o commit-fonte; não partir de EPUB com texto desatualizado.
 - Confirmar capa oficial e metadados “A Arquitetura do Caos” / “Marcelo Corrêa”.
 - Conferir que não existe folha de rosto duplicada, “Nota ao leitor” separada ou repetição de créditos, biografia e explicações sobre IA; confirmar que a IA está explicada na apresentação unificada, sem nota independente.
