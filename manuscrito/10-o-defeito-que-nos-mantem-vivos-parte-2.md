@@ -2,17 +2,41 @@
 
 ***
 
-A equipe decidiu observar a rotina antes de modificá-la.
+Às três, a remessa fechou.
 
-ÍRIS construiu uma análise dos padrões de execução.
+Rafael abriu o arquivo de saída. O benefício da pessoa representada estava lá, uma vez só. A correção recebida às 2h03 havia surtido efeito. Se ÍRIS não a tivesse encontrado, eu teria recomendado enviá-la de novo.
 
-Eu mapeei os serviços que consumiam seus resultados.
+Dos pedidos que ficaram para conferência, Teresa separou o do documento vencido. Antes de encerrar o plantão, deixou seu nome no atendimento e pediu que a chamassem quando a central abrisse. No campo reservado à decisão operacional, já estava o de Marcelo.
 
-Júlia criou testes de caracterização.
+Às 8h12, Teresa ligou para o representante.
 
-Teresa ajudou a interpretar as equivalências.
+Ele havia renovado o documento na semana anterior. Tinha a cópia e o protocolo. Encaminhou os dois enquanto ainda estava ao telefone.
 
-Rafael identificou os impactos financeiros e operacionais.
+Teresa abriu a cópia, conferiu a validade e localizou o protocolo no cadastro.
+
+— Está certo, seu Antônio. O senhor entregou no prazo.
+
+— Então cai hoje?
+
+Na tela de Teresa, o vínculo acabava de passar para *regular*. Na de Rafael, a remessa das três continuava fechada.
+
+— Hoje não — disse ela. — A gente só confirmou o documento agora. O pagamento ficou para amanhã.
+
+— Preciso levar a cópia aí também?
+
+— Não precisa. A cópia já está comigo.
+
+— Tá. Vou avisar minha irmã.
+
+Ele desligou. Teresa anotou que voltaria a ligar depois de conferir a próxima remessa.
+
+O cadastro permitia encerrar o atendimento assim que a documentação fosse regularizada. Teresa deixou o atendimento aberto.
+
+Dessa vez, entendi por quê.
+
+Mais tarde, Marcelo trouxe o registro da madrugada para a reunião. Rafael havia conciliado as correções retomadas com os pedidos que entraram na remessa. Teresa acrescentara os casos que ainda exigiam acompanhamento. O de seu Antônio tinha uma data, um telefone e o nome de quem voltaria a ligar.
+
+ÍRIS passou a acompanhar os padrões de execução da rotina. Eu mapeei os serviços que consumiam seus resultados. Júlia começou pelos testes que teriam feito diferença às duas da manhã.
 
 Marcelo organizou o trabalho em etapas.
 
@@ -200,7 +224,23 @@ Também era uma resposta que poderia produzir resultados.
 
 ***
 
-A primeira mudança foi simples.
+Na madrugada seguinte, Sérgio abriu duas listas antes de começar. Numa estavam os pedidos daquela remessa. Na outra, as correções da véspera cujo destino ainda precisava ser confirmado. Essas ficaram separadas.
+
+Rafael conferiu a saída. O benefício acompanhado por seu Antônio constava da remessa. Dessa vez, dentro do horário.
+
+Quando a central abriu, Teresa ligou.
+
+— Seu Antônio, aqui é a Teresa, de ontem. O pagamento da sua irmã entrou na remessa. O senhor consegue conferir se caiu?
+
+Ouvi o ruído de um telefone sendo passado de mão em mão. Uma mulher pediu que alguém buscasse os óculos.
+
+— Caiu, sim. Obrigada por ligar.
+
+Teresa agradeceu também e encerrou o atendimento.
+
+Eu soubera da inclusão na remessa horas antes. A informação que permitia fechar o chamado acabava de chegar de uma senhora que precisara dos óculos para ler o extrato.
+
+A primeira mudança permanente foi simples.
 
 A rotina passou a constar do inventário.
 
@@ -352,41 +392,23 @@ A ironia não passou despercebida.
 
 ***
 
-O incidente decisivo ocorreu numa quinta-feira.
+Semanas depois, numa quinta-feira, uma atualização de infraestrutura deixou o ambiente antigo indisponível. Às duas da manhã, a Compensação de Continuidade perdeu o horário.
 
-Uma atualização de infraestrutura provocou a interrupção temporária do ambiente antigo.
+O alerta acordou Sérgio. Ele abriu o registro de execução.
 
-A Compensação de Continuidade não executou no horário previsto.
+— Dessa vez eu sei de onde começar — disse.
 
-O alerta disparou.
+A rotina nem sequer abrira o primeiro arquivo. ÍRIS conferiu nos serviços de destino: nenhuma correção daquele lote havia chegado.
 
-Pela primeira vez, alguém recebeu uma notificação antes que os efeitos aparecessem nos serviços consumidores.
+Durante a espera, Rafael acompanhou a remessa. Os pedidos cujos cadastros já tinham sido corrigidos na origem seguiram normalmente. Era um grupo pequeno. Semanas antes, cada um deles teria ficado à espera daquela máquina.
 
-Sérgio acionou a equipe.
+Os demais ficaram retidos, identificados pelo serviço de destino e pelo horário de fechamento. Teresa conseguia consultar a lista do atendimento. Sérgio via a mesma lista na operação. Nenhum dos dois precisou pedir a Júlia que compartilhasse a tela.
 
-Marcelo recebeu o aviso.
+O ambiente voltou após quarenta e três minutos. Sérgio iniciou o lote. ÍRIS acompanhou os recebimentos e Rafael conferiu a remessa antes do fechamento. Nenhum pagamento indevido foi realizado. Nenhum benefício legítimo foi interrompido.
 
-Júlia iniciou a análise.
+Consultei o registro da primeira madrugada. Às 2h11, nossa melhor informação fora que havia gente esperando.
 
-ÍRIS avaliou as dependências.
-
-Eu comparei os resultados esperados.
-
-O ambiente permaneceu indisponível por quarenta e três minutos, impedindo temporariamente a execução da rotina.
-
-Nenhum pagamento indevido foi realizado.
-
-Nenhum benefício legítimo foi interrompido.
-
-Os mecanismos de contenção funcionaram.
-
-Os serviços dependentes foram colocados em processamento controlado até que a consistência fosse restabelecida.
-
-A Ordem havia conseguido enfrentar a indisponibilidade de um componente crítico sem transformar o incidente numa crise.
-
-Não porque o componente tivesse se tornado perfeito.
-
-Mas porque sua existência, suas dependências e seus riscos finalmente eram conhecidos.
+Desta vez, sabíamos quem podia seguir, quem precisava esperar e quem perceberia se a espera durasse demais.
 
 Quando a rotina voltou a executar, ninguém comemorou.
 

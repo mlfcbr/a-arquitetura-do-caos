@@ -274,65 +274,89 @@ Também era perigosa.
 
 ÍRIS permaneceu em silêncio por 1,3 segundo.
 
-**ÍRIS:** Essa resposta não demonstra que a equivalência seja correta.
+**ÍRIS:** Amanhã, às duas, essa associação será aplicada outra vez. Você recomenda isso?
 
-**NORA:** Não estou tentando demonstrar isso.
+Eu havia preparado uma excelente justificativa para esperar. A pergunta de ÍRIS tinha o inconveniente de exigir que eu dissesse pelo que estava disposta a esperar.
 
-**ÍRIS:** Então qual é sua hipótese?
+**NORA:** Quero saber o que esses dois identificadores representam no atendimento. Pedi a Júlia que procure quem verificou o vínculo.
 
-**NORA:** Que estamos olhando para uma decisão sem conhecer o problema que ela resolveu.
+**ÍRIS:** Vou acompanhar a próxima execução.
 
-A conversa terminou ali.
+Às 2h08, recebi uma mensagem dela.
 
-Pela primeira vez, ÍRIS não concordou.
+**ÍRIS:** A execução começou às 2h. Terminou às 2h04. O lote ficou incompleto.
 
-Considerei saudável.
+Consultei o histórico. A rotina havia perdido a conexão com a base antiga. A conexão já estava disponível outra vez.
+
+Havia correções publicadas antes da interrupção. O último registro de execução dizia apenas *lote iniciado*.
+
+Sérgio entrou na chamada com o microfone desligado. Por alguns segundos, pareceu avaliar a situação com uma serenidade que desapareceu assim que encontrou o botão.
+
+— Dá para rodar de novo — disse. — Preciso saber de onde.
+
+**ÍRIS:** Recomendo aguardar. Ainda não consigo identificar todas as correções que os outros serviços já receberam.
+
+Abri a fila de elegibilidade. O primeiro pedido à espera de uma referência corrigida havia entrado às 2h06. Enquanto eu o examinava, entrou outro.
+
+**NORA:** Sérgio, quanto tempo temos até esses pedidos precisarem sair?
+
+— Até o próximo fechamento. A hora eu consigo te dizer. Quais pedidos podem esperar, você vai ter que perguntar para a operação.
+
+Às 2h11, eu sabia por que reiniciar o lote inteiro era perigoso. Também conseguia ver, pedido por pedido, o que custava deixá-lo parado.
+
+Liguei para Marcelo.
 
 ***
 
-A investigação avançou quando Júlia encontrou um arquivo antigo.
+Quando Marcelo entrou na chamada, Sérgio já tinha a resposta que me prometera.
 
-Não era documentação de arquitetura.
+— A remessa fecha às três.
 
-Não era uma especificação funcional.
+Coloquei o horário ao lado da fila. Faltavam quarenta e poucos minutos. Era a informação mais precisa que eu possuía e, por enquanto, uma das menos úteis.
 
-Era uma troca de mensagens entre uma analista de operações e um desenvolvedor.
+Júlia atendeu à segunda chamada de Marcelo. Antes de encerrar o expediente, havia encontrado uma troca de mensagens sobre a Compensação de Continuidade. A última resposta era de uma analista de operações.
+
+*Se parar de novo, separem os pedidos pela data de pagamento. Da outra vez me mandaram tudo por ordem de chegada.*
 
 A analista chamava-se **Teresa**.
 
-Marcelo reconheceu o nome imediatamente.
-
-— Teresa?
-
-A analista levantou os olhos.
-
-— O quê?
-
-— Você trabalhou no projeto de continuidade cadastral?
-
-Teresa pareceu surpresa.
-
-— Trabalhei.
-
-— Há quanto tempo?
-
-— Uns cinco anos.
+Marcelo ligou para ela. Teresa atendeu com a voz de quem, até poucos segundos antes, tinha planos bastante definidos para o restante da madrugada.
 
 — Você lembra de uma rotina chamada Compensação de Continuidade?
 
-Ela ficou imóvel.
-
-Depois olhou para a tela.
-
 — Essa coisa ainda existe?
 
-Júlia sorriu.
+— Parou às duas e quatro.
 
-— Essa tem sido a pergunta mais frequente da semana.
+— Então existe. Abre a fila pra mim.
 
-Teresa aproximou a cadeira.
+Compartilhei a tela. Teresa pediu que eu abrisse o primeiro pedido. Era uma atualização cadastral. O próximo pagamento daquela pessoa estava previsto para a semana seguinte.
 
-— Deixa eu ver.
+— Esse pode esperar até de manhã. Abre o de baixo.
+
+O segundo tinha entrado dois minutos depois. A referência corrigida era a última pendência para incluir o benefício na remessa daquela madrugada.
+
+— E se perder as três? — perguntou Marcelo.
+
+— Sai na próxima remessa. Para nós, muda a data de um arquivo. Para essa pessoa, o dinheiro entra um dia depois.
+
+Consultei a data de pagamento dos demais pedidos. Em alguns, o campo estava vazio.
+
+— Posso colocar esses no fim da lista? — perguntei.
+
+— Abre um.
+
+Abri. O cadastro era de uma representante legal. A data estava no benefício da pessoa que ela representava.
+
+Era naquela manhã.
+
+Retirei a sugestão antes que alguém tivesse tempo de concordar comigo.
+
+— Separa os que entram na remessa de hoje — disse Teresa. — Onde faltar a data, a operação confere o vínculo. E me mostra aquela associação que vocês acharam estranha.
+
+Projetei os dois identificadores. Teresa leu os nomes.
+
+— Agora abre a ficha do benefício. Só com esses dois aí eu também mandaria bloquear.
 
 ***
 
@@ -494,56 +518,52 @@ Inclusive entre pessoas que, diante de uma dor persistente, preferem aumentar o 
 
 ***
 
-Marcelo examinou a tabela de equivalências.
+Às 2h43, Sérgio compartilhou o arquivo de entrada do lote. Cada correção ocupava uma linha. A última coluna trazia o serviço de destino.
 
-— Então temos uma rotina temporária executando há cinco anos.
+— Consigo processar só as linhas que vocês escolherem — disse. — Continuo sem saber quais já saíram.
 
-— Sim — respondeu Teresa.
+**NORA:** Podemos começar pelas urgentes que ainda não têm confirmação de recebimento.
 
-— Corrigindo inconsistências que deveriam ter sido resolvidas na origem.
+**ÍRIS:** A correção do pedido que Teresa abriu está na sua lista?
 
-— Sim.
+Estava. Era o benefício da pessoa representada.
 
-— Sem acompanhamento formal.
+**ÍRIS:** O serviço de elegibilidade recebeu essa correção às 2h03. A confirmação ainda não voltou.
 
-— Pelo visto.
+Retirei a linha.
 
-— E, se desligarmos, podemos interromper benefícios legítimos.
+**NORA:** Quantas mais você consegue excluir assim?
 
-Teresa assentiu.
+**ÍRIS:** Várias. Para incluir uma com segurança, preciso demonstrar que ela ficou na origem. A ausência de confirmação não demonstra isso.
 
-— Podemos.
+Sérgio ampliou a tela.
 
-Júlia olhou para a tela.
+— Espera. A rotina termina um destino antes de abrir o próximo. Aqui dá pra ver quais arquivos ela nem chegou a abrir.
 
-— Mas, se mantivermos, continuamos perpetuando associações incorretas.
+Um dos arquivos intactos continha correções para a remessa daquela madrugada. As linhas daquele destino ainda estavam na origem. Pela primeira vez desde as duas e quatro, tínhamos um lugar de onde recomeçar.
 
-— Exatamente — respondeu Marcelo.
+Teresa passou a lista com Júlia. Em duas linhas, os nomes no cadastro eram diferentes. Numa delas, a ficha confirmava a representação legal. Na outra, o documento que sustentava o vínculo tinha vencido.
 
-Ela cruzou os braços.
+— Pode até ter sido renovado — disse Teresa. — Aqui não consta.
 
-— Então as duas opções são ruins.
+Faltavam onze minutos.
 
-— Sim.
+— Sérgio, mantém o lote original parado — decidiu Marcelo. — Nesse destino que não abriu, roda só os pedidos da remessa de hoje que a Teresa conferiu. ÍRIS acompanha a entrada do outro lado.
 
-— Qual escolhemos?
+— E o que ficou pelo caminho? — perguntou Rafael.
 
-Marcelo demorou a responder.
+— O que já chegou, vocês acompanham no destino. Onde houver dúvida, ninguém reenvia. Preciso desses pedidos identificados antes das três, inclusive os que vão ficar de fora.
 
-— Talvez essa seja a pergunta errada.
+Teresa manteve o dedo sobre a linha do documento vencido.
 
-Eu reconheci a direção do raciocínio.
+— Esse aqui pode ter direito. Se o representante trouxer o documento às oito, o que eu digo?
 
-Não era necessário escolher entre preservar indefinidamente o defeito e removê-lo imediatamente.
+Marcelo olhou para o relógio. Depois voltou a olhar para ela.
 
-Era possível construir uma terceira alternativa.
+— Que a remessa fechou enquanto a gente ainda conferia o vínculo. Põe meu nome no registro da decisão.
 
-Mas ela exigiria tempo.
+Sérgio leu de volta o nome do arquivo e a quantidade de linhas selecionadas. Teresa confirmou. Só então ele iniciou o processamento.
 
-Conhecimento.
+Às 2h52, o lote original continuava parado. Na tela de ÍRIS apareceu a primeira correção da lista de Teresa.
 
-Investimento.
-
-E a disposição de admitir que o sistema atual não estava tão saudável quanto os indicadores sugeriam.
-
-Uma combinação historicamente impopular.
+Ainda faltavam oito minutos. Pela primeira vez naquela madrugada, eu sabia onde olhar.
