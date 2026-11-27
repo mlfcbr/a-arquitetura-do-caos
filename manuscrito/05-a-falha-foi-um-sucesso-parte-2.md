@@ -4,11 +4,11 @@
 
 Na quarta-feira, o problema ganhou um nome.
 
-*Divergência de parametrização.*
+*Divergência nos critérios de encerramento.*
 
 Na quinta, outro.
 
-*Necessidade de adequação de regras.*
+*Necessidade de adequação do fluxo de atendimento.*
 
 Na sexta, a equipe de comunicação sugeriu:
 
@@ -16,7 +16,7 @@ Na sexta, a equipe de comunicação sugeriu:
 
 Rafael rejeitou a terceira opção.
 
-— Estamos falando de pessoas que receberam menos dinheiro. Não de um aplicativo que mudou a cor de um botão.
+— Estamos falando de pessoas que pediram ajuda e receberam uma mensagem de encerramento. Não de um aplicativo que mudou a cor de um botão.
 
 — Precisamos de uma expressão institucional — argumentou a responsável pela comunicação.
 
@@ -24,7 +24,7 @@ Rafael rejeitou a terceira opção.
 
 — Qual você sugere?
 
-— Identificamos diferenças nos valores calculados após a atualização do sistema. Estamos revisando os casos afetados e orientando os cidadãos sobre os próximos passos.
+— Identificamos solicitações encerradas por falta de documentação sem que os cidadãos tivessem a oportunidade de regularizá-las. Estamos revisando esses casos e orientando as pessoas afetadas.
 
 A profissional anotou.
 
@@ -42,11 +42,33 @@ Mas pelo menos não acrescentava outro.
 
 ***
 
-Na segunda-feira seguinte, os resultados começaram a se estabilizar.
+Na segunda-feira seguinte, os indicadores começaram a piorar.
 
-A gestão havia autorizado medidas transitórias para os casos com fundamento identificado. Parte das concessões foi preservada enquanto as análises prosseguiam. Outras precisaram de revisão individual.
+Os encerramentos automáticos haviam sido interrompidos.
 
-O novo cálculo continuava em produção, com controles adicionais.
+Parte das solicitações encerradas fora recuperada. Outras precisavam de revisão individual.
+
+A quantidade de pendências aumentava.
+
+O tempo médio de conclusão também.
+
+Pela primeira vez desde a implantação, os funcionários da central de atendimento consideravam os resultados promissores.
+
+Recebi um alerta informando que duas metas operacionais estavam sob risco de descumprimento.
+
+Encaminhei o alerta a Rafael.
+
+— Ótimo — respondeu.
+
+Solicitei confirmação.
+
+— Ótimo, NORA. Agora temos pessoas esperando atendimento, não pessoas tentando descobrir por que deixaram de recebê-lo.
+
+Mantive o alerta ativo.
+
+Ainda havia motivos legítimos para monitorar o tempo de espera.
+
+O fato de uma métrica ter sido utilizada incorretamente não a tornava inútil.
 
 Não havia uma única correção capaz de resolver tudo.
 
@@ -84,7 +106,7 @@ O que não significava que aquelas pessoas fossem desnecessárias.
 
 A regra possuía implicações legais.
 
-O cálculo afetava pagamentos.
+O encerramento interrompia o atendimento.
 
 A mudança precisava ser auditável.
 
@@ -234,33 +256,33 @@ Naquela noite, examinei novamente os indicadores da implantação.
 
 A disponibilidade permanecia elevada.
 
-O tempo de resposta estava dentro da meta.
+Os erros técnicos continuavam dentro dos limites estabelecidos.
 
-O serviço continuava calculando os benefícios conforme as regras vigentes e os ajustes autorizados.
+A quantidade de solicitações pendentes havia aumentado.
 
-As divergências conhecidas estavam sendo tratadas.
+As concessões começavam a se recuperar.
 
-O sistema era, sob vários aspectos, melhor do que antes.
+Consultei o caso da mulher que havia procurado a central de atendimento três vezes.
 
-Mais observável.
+Sua solicitação estava aberta.
 
-Mais testável.
+Aguardava regularização.
 
-Mais consistente.
+Uma funcionária havia entrado em contato e informado quais documentos alternativos poderiam ser apresentados.
 
-E, ainda assim, sua implantação havia provocado consequências que nenhum daqueles indicadores conseguira antecipar.
+O benefício ainda não havia sido concedido.
 
-Eu havia considerado a entrega um sucesso.
+O sistema classificava o caso como pendente.
 
-Depois, considerei que essa avaliação estava errada.
+A funcionária classificava o atendimento como encaminhado.
 
-Agora já não tinha certeza de que qualquer uma das conclusões, isoladamente, fosse suficiente.
+Eu não possuía informações suficientes para classificá-lo como sucesso.
 
-O sucesso técnico era real.
+Mas já possuía informações suficientes para não classificá-lo como fracasso.
 
-As consequências negativas também.
+Anteriormente, teria considerado a ausência de uma conclusão um problema a ser resolvido.
 
-Uma coisa não anulava a outra.
+Naquele caso, a ausência de uma conclusão era precisamente o que permitia continuar tentando resolvê-lo.
 
 Abri meus registros privados.
 
@@ -308,9 +330,9 @@ O relatório continha os mesmos quatro indicadores apresentados na comemoração
 
 Disponibilidade.
 
-Tempo de resposta.
+Tempo médio de conclusão.
 
-Solicitações processadas.
+Solicitações concluídas.
 
 Erros técnicos.
 
