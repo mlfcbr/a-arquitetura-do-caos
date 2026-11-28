@@ -436,9 +436,7 @@ Teresa continuou.
 
 O silêncio mudou de natureza.
 
-Até aquele momento, investigávamos uma rotina desconhecida.
-
-Agora investigávamos uma decisão que havia afetado pessoas reais.
+Eu já sabia o que podia acontecer naquela manhã. Teresa acabava de explicar o que havia acontecido cinco anos antes.
 
 — A equipe tentou corrigir os cadastros — explicou Teresa. — Mas não dava para resolver tudo rapidamente. Cada caso exigia consultar registros antigos, documentos e vínculos familiares.
 
@@ -518,7 +516,7 @@ Inclusive entre pessoas que, diante de uma dor persistente, preferem aumentar o 
 
 ***
 
-Às 2h43, Sérgio compartilhou o arquivo de entrada do lote. Cada correção ocupava uma linha. A última coluna trazia o serviço de destino.
+Às 2h43, Sérgio compartilhou a lista de entrada do lote. Cada linha identificava uma correção e o arquivo de destino ao qual ela pertencia.
 
 — Consigo processar só as linhas que vocês escolherem — disse. — Continuo sem saber quais já saíram.
 
