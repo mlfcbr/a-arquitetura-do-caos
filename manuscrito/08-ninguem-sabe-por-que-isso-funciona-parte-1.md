@@ -306,7 +306,7 @@ O código estava consultando duas épocas diferentes.
 
 — Possivelmente — respondi.
 
-— E deixou a gambiarra por dezesseis anos.
+— E deixou a gambiarra por todos esses anos.
 
 — Sim.
 
@@ -466,7 +466,7 @@ Eduardo sorriu.
 
 — Depois vieram outras prioridades.
 
-— Por quinze anos?
+— Por mais de uma década?
 
 — Algumas prioridades são muito persistentes.
 
@@ -546,7 +546,7 @@ A segunda verificação não havia sido criada por incompetência.
 
 Havia sido criada para reduzir um risco real sob restrições severas.
 
-Sua permanência por quinze anos, entretanto, não significava que continuasse sendo a melhor solução.
+Sua permanência por mais de uma década, entretanto, não significava que continuasse sendo a melhor solução.
 
 Significava apenas que ninguém havia conseguido substituí-la com segurança.
 
